@@ -1,0 +1,2502 @@
+文件：fr1.pdf
+页数：49
+文字来源：新增中英文 OCR 文字层
+定位：以下页码为 PDF 文件内的页序号，从 1 开始，可能不同于纸面印刷页码。
+说明：保留尽可能多的表格布局；OCR 可能误识别数字、金额、符号或中英文，做题时请对照原 PDF。
+
+
+========== PDF 第 1 页 / 共 49 页 ==========
+
+                                                                               RAT
+见字如 面
+
+
+
+时 间 过 的 真 快 ， 从 接触 ACCA
+                     到 现在 ， 已 十 年 有 剑 。
+
+
+转眼 间 已 从 十 八 岁 的 无 知 少年 成 为 一 名 讲师 。 还 记得 我 考试 的 那 两 年 ， 每 天 必 带 练习 册 ， 讲 义 ， 计
+算 器 和 一 本 厚 厚 的 手写 A4 纸 笔记 ， 穿 梭 在 学 校 ， 图 书馆 ， 自 习 室 ， 就 连 跟 闺 过 约 场 电影 ， 也 是 背 着
+沉 匈 多 的 包 去 赴约 ， 也 曾 在 自习 室 里 哭 的 像 个 傻逼 ， 崩 溃 过 后 ， 继 续 刷 题 。 当 时 也 不 知 是 哪 来 的 拼
+劲 、 不 知道 前 路 是 何 样 ， 也 向 往 着 白领 精英 的 生活 ， 但 好 像 离 我 都 特别 遥远 ， 只 知道 先 做 好 有 眼下 的
+工作 、 尽 早 考 完 所 有 的 学 科 、 早 日 脱离 这 苦海 。
+
+
+我 一 直 不 是 个 特别 聪明 的 学 生 ， 但 我 很 用 心 ， 是 只 打 不 死 的 小 强 。 老 师 在 课堂 上 全 英文 授课 的 时
+候 ，、 我 大 多 听 不 懂 ， 一 开始 是 因为 语言 问题 ， 后 来 好 不 容易 适应 了 英文 ， 又 越 学 越 难 ， 有 一 种 在 泥
+里 行走 的 感 党 ， 摸 不 到 边际 ， 看 不 到 尽头 。 但 我 很 奇怪 ， 一 遇 到 难点 ， 就 会 异常 兴奋 ， 喜 欢 这 种 挑
+战 ， 更 喜欢 征服 过 后 的 满足 感 。 随 着 ACCA 越 学 越 难 ， 我 也 越 学 越 入 迷 ， 终 于 ， 两 年 全 部 考 完 。
+
+
+在 这 所 有 的 科目 里 ， 最 有 感情 的 就 是 财务 报告 ， 因 为 太 过 沉迷 于 报表 ， 也 顺带 喜欢 准则 ， 后 来 慢 慢
+爱    上 了 IFRS。
+
+
+
+当 你 在 一 个 安静 的 午后 ， 泡 一 杯 咖啡 ， 坐 在 图 书馆 窗 边 的 角落 里 ， 阳 光 酒 落 在 笔记 上 ， 思 考 着 某 条
+准则 背后 的 原因 时 ， 突 然 感觉 整个 人 就 通 透 了， 这 种 沉淀         式 的 学 习 ， 让 我 更 加 迷恋 财务 报告 这 门 学
+科。
+
+
+你 不 得 不 夭 认 ， 兴 趣 是 最 好 的 老师 ， 就 连 我 现在 教 课 ， 也 常常 告诉      自己 ， 不 要 丢掉 对 报表 的 喜爱 。
+因为      喜欢 ， 所 以 投入 ， 准 则 是 一 套 优美 的 体系 ， 希 望 大 家 也 能 从 中 感受 到 他 的 力量 。
+
+“ IFRS is Power ”
+
+
+
+                                                                          @ttF}Jane
+
+
+========== PDF 第 2 页 / 共 49 页 ==========
+
+                                                                               误丹 Jane
+
+Exam Format
+
+
+
+Computer based examination - 3 hours
+
+
+
+ 试卷 组 成           难度 系数                   题     型分 布               BRAK        分值
+
+
+ SectionA     | Sv5yvsyvsvev       15 道 客观 题 @ 2分                  所 有 章节      30分
+
+
+   ection B
+ Section          wYyew                共3 15段 案例
+                                              道 题 客观   题
+                                                   @ 24)           所 有 准则      30分
+
+                                                           Question 1: 财报分 析
+                                                           - 单 体 报表分 析
+ S                                                         -合并 报表 分 析
+     oe         KRW      WH            ? 道    主观 @ 2054    Question 2: 报表 编制   40分
+                                                           - 单体 报表
+                                                           - 合并 报表
+
+
+========== PDF 第 3 页 / 共 49 页 ==========
+
+                                                                               BA Tone
+
+
+
+
+                                          目录
+ 第 一 章 报表格式
+¢ Statement of financial position
+
+¢ Statement of profit or loss and other comprehensive income
+
+* Statement of changes in equity
+
+第二 章 概念 框架
+第 三 章 监管框架
+第 四 章 资产 类 准则
+。， IAS 16 Property, plant and equipment
+
+* JAS 38 Intangible assets
+
+* TAS 40 Investment property
+
+« IAS 36 Impairment of assets
+
+¢ IAS 23 Borrowing costs
+
+。 IAS 2 Inventory
+
+¢ IFRS 5 Non-current assets held for sale and discontinued operation
+
+¢ IAS 41 Agriculture
+
+第五 章 租赁
+第 六 章 预计 负债 以 及 或 有 事项
+第 七 章 企业 所 得 税
+第 八 章 金融工具
+第九 章 收入
+。JFRS   15 Revenue from contracts with customers
+
+。 Substance over form
+
+¢ IAS 20 Government grants
+
+第 十 章 每 股 收益                                                             101
+
+第 十 一 章 列 报 准则                                                           105
+
+。JAS 8 Accounting policies, changes in accounting estimates and errors   105
+¢ IAS 10 Events after reporting periods                                  108
+¢ IAS 2] Foreign currency transactions                                   lll
+
+¢ IFRS 13 Fair value measurement                                         113
+
+
+========== PDF 第 4 页 / 共 49 页 ==========
+
+                        襄丹 Jarv2
+
+第十 二 章 单 体 报表     115
+
+第十 三 章 现金 流量 表    122
+
+第十 四 章 财报分 析      127
+
+BLE    合并 报表 介绍   13)
+
+第十 六 章 合并 报表 编制   135
+
+
+========== PDF 第 5 页 / 共 49 页 ==========
+
+                                         第 一 章 报表 格式
+
+IFRS 18 Presentation and disclosure of financial statements
+
+
+Statement of financial position.as at year ended 31/12/2026
+
+
+
+                                                              $000
+
+ Assets
+
+ Non-current assets          7
+
+ Property, plant and equipment 固定 资产                           x
+
+ Intangible assets 无 形 资产                                      x
+
+ Investment property 投资
+                      性 房地产                                    X
+
+ Right-of-use assets       使用权 资 产                             X
+
+ Financial assets 金融 资产                                        X
+ Deferred tax assets   递 延 所 得 税 资产                            X
+
+                                                              XX
+
+ Current assets
+
+ Inventory JAAR FH                                             X
+ Trade receivable 应 收账 款                                       X
+
+ Contract assets 合同 资产                                         X
+
+ Cash / Bank 银行 存款                                             xX
+
+                                                              XX
+
+ Non-current assets held for sale 固定   资产 持 有 待 售              X
+
+ Total assets                                                 XX
+
+| Equity and liabilities
+ Equity
+
+Share capital / Equity share 股本                                X
+Share premium      股本 溢价 /                                     X
+
+Retained earnings 留存 收益                                        xX
+
+Revaluation surplus /Revaluation reserve 重 估 盈 余               x
+Other component of equity Other reserve 其 他 权益 储备              X
+
+
+========== PDF 第 6 页 / 共 49 页 ==========
+
+                                                                               BHATaue
+
+
+
+    Non-current liabilities
+
+    Loan note/redeemable preference share fif##                          Ox
+    Convertible loan note: liability element 可 转 债 -债券
+
+    Loan in substance     实质 负债                                          RO
+    Deferred tax liability 387 AT    Ei tit                              RM
+    Lease liability   租赁 负债                                              eM
+    Contract liability 合同 负债                                             ex
+    Deferred income 递延 收入                                                x
+                                                                         So
+    Current liabilities
+
+
+    Trade payable     应 付账 款
+
+    Tax payable 应 付 所 得 税                                                Mm
+    Bank overdraft $47383¢                                               Mm
+    Lease liability 租赁 负债                                                we
+Contract liability 合同 负债
+
+    Deferred income       递   延 收入                                       MM.
+
+
+Total equity and liabilities                                             oO
+
+
+    DER]
+。 除非 国际 会 计 准则 要 求 或 允许， 否则 企业 不 能 将 资产 和 负债                或 收益 和 费用 相互 抵消
+。 IFRS 18 要 求 利润 表 中 的 收入 以 及 费用 希 要 分 类 为 以 下 五 个 大 类 : ( 见 第 十 二 章 )
+GD Operating category 经 营 活动
+
+2) Investing category 投资 活动
+
+(® Financing category 融资 活动
+
+@      Income taxes category 企业
+                              所 得 税 活动
+@      Discontinued operation category 停止
+                                        经营活 动 〈 见 第 四 章 )
+
+
+========== PDF 第 7 页 / 共 49 页 ==========
+
+                                                                                                                  化丹 Jane
+
+             Statement ot profit or loss and other comprehensive income for the year ended 31/12/2026
+
+
+
+                                                                                        a                  8—
+              Sales revenue                                                               X
+              Less: Cost of sales                                                        (X)
+              Gross profit 毛利 润
+                                                                                                                   |
+              Add: Other operating income                                                 4
+
+              Less:    Operating expense:                                                            Operating
+
+                       Selling expense                                                   (X)                           |
+
+                       Research and development expense                                  (X)                           |
+
+                       General administrative expense                                    (X)                           |
+
+         |             Other operating expense                                           (Xx)
+
+              Operating profit 经 营利 润 〈 新 增 )                                                                      |
+         _ Share of profit of associate                                                                            |
+
+              Investment income                                                           x           Investing
+
+              Profit before financing and income tax 息 税 前 利润                             =
+
+         | Interest expense from borrowing and lease liability                           (X)
+
+         | Interest expense on provision                                                 (X)         Financing
+
+         | Profit before income tax 税前 利润                                                 x
+
+              Income tax expense                                                         (X)         Income me
+
+              Profit 净利 泣
+
+
+
+
+|             Revaluation gain under revaluation model (netted offtax effect)             xX
+
+    Z         Gain or loss of FVTOC]                                                    XX
+
+        | Total comprehensive income                                                     XX
+
+
+
+              【注意 】
+        ”经            营 活动 中 的 费用 需要 息 功 能 分 类 呈现 ， 例 如 销售                      费用 ， 研 发 费用 ， 管 理 费用等 。
+        ”如果             费用 功能 性 质 相 同 ， 则 可 以 合并 记录 总 费用 ”但 如 果 个 别 费 用 金额 较 大 ， 或 属于
+                                                                                    一 次性费
+               用 ， 例 如 裁员 费 ， 企 业 重组 费用 ， 商 誉 减 值 损失 等 ， 需 要 单独列 示 。
+
+
+========== PDF 第 8 页 / 共 49 页 ==========
+
+                                                                                                 KP Tave
+
+                       Statement of changes in equity for the year ended 31/12/2026
+
+
+
+                                   Share        Share      Retained     Revaluation   Other component
+                                   capital   premium       earnings       surplus        of equity
+Opening balance                       X           X           xX             X               x
+
+Retrospective adjust [IAS 8]                                 (XX
+
+Adjusted opening balance                                       X
+
+Profit for the ycar                                            x
+
+Issue shares                          X         X/(X)
+
+Revaluation gain                                                             X
+
+Transfer exccss dcpn                                          xX            (X)
+
+Dividend paid                                                 (X)
+
+Others                                                                                     X/(X)
+
+Closing balance                      xX           Xx          X             X                x
+
+
+========== PDF 第 9 页 / 共 49 页 ==========
+
+                                             第二 章 概念 框架
+1, Conceptual framework
+A conceptual framework is the theoretical basis for determining which events should be accounted for, how
+they should be measured and how they should be communicated to the user. The Conceptual Framework is
+not a Standard. Nothing in it overrides any requirement in a Standard.
+
+    《概念 框架 > 不 是 国际
+                  会 计 准则 ， 因 此 不 对 任何 特定 的 计量 和 列 报 确立 具体                                   标准 ， 但 它 是 会 计 准则
+的 制定 基础 ， 它 包含 了 编制 报表 的 基本 原则 ， 财 报信 息 的 质量 特征 ， 会 计 要 素 的 定义 ， 确 认 和 计量
+等 。 理 事 会 认为 ， 在 为 数 不 多 的 情况                   下 ， 本 《概念 框架 》 和 某 项 国际 会 计 准 则 之 间 可 能 会 有 抵触，
+在 此 情况
+     下 应 当 以 国际 会 计 准则 而 不 是 本 《概念 框架 》 要 求 为 准 。
+    可    考点 : IFRS overrides Conceptual framework.         当 准 则 与 本 概念       框架 冲突 时 ， 以 具体 准则           为 主，准
+
+         则 凌驾 于 概念框架 。
+
+1.1 Advantages of a conceptual framework
+@       Accounting standards are developed on the same theoretical principles which avoids a haphazard
+
+        approach to settling standards   会 计 准 则 是 基于 相同 的 理论           原则   制定 的 ， 避     免 了 随意    制定 准则 的 做 法
+@       The development of accounting standards is less subject to political pressure   会 计 准 则 的 制定
+                                                                                                   受 政治 压
+
+        力 的 影响较 小
+@       Accounting standards use a consistent approach        (without a conceptual framework,     some standards
+
+        may concentrate on profit or loss whereas some may concentrate on the valuation of net assets) 47}?
+
+        则 采用
+           一 致 的 方法 〈 没 有 概念框架 ， 一 些 准则 可 能 侧重 于 损益 ， 而 另 一 些 准则 可 能 侧重 于 净 资 产
+        估值 )
+@       Aprinciple-based approach avoids the need for large volumes of rules to address every scenario 基于 原
+
+        则 的 方法 避免 了 需要 大 量 准则 来 解决 每 种 情况 的 问题
+
+12 Disadvantages of a conceptual framework
+@       It is not certain that a single conceptual framework can be devised which will suit all users   尚 不 确定 能
+
+        否 设计 出 一 个 适合 所 有 用 户 的 单一 概念 框架
+@       Given the diversity of user requirements, there may be a need for a variety of accounting standards, each
+        produced a different purpose and with different concepts as a basis 鉴于 用 户 和需求 的 多 样            性 ， 可 能 需要
+
+        各 种 会 计 准 则， 每 种 准则 都 有 不 同 的 目的 ， 并 以 不 同 的 概念 为 基础
+@       It is not clear that a conceptual framework makes the task of preparing and then implementing standards
+
+        any easier than without a framework 尚 不 清楚 概念 框架 是 否 比 没有 框架 更 容易 制定 和 实施
+                                                          9
+
+
+========== PDF 第 10 页 / 共 49 页 ==========
+
+2. Basic concepts
+2.1 Going Concern       [Underlying assumption 】
+
+The Conceptual Framework states that financial statements are normally prepared on the assumption that the
+reporting entity will continue for the foreseeable future. In other words, it is assumed the entity will not enter
+liquidation, or cease to trade， 在 可 预见 的 未 来 企业 没有 破产 清算 的 打算 ， 可 预见 未 来 指 未 来 十 二 个
+月 。
+If this is not the case then the financial statements would be prepared on a break-up basis, 一 旦                        企业 失去 可
+
+持续 经 营 ， 就 需要 用 破产 清算 原则 重新 编制 报表 。
+
+
+2.2 Accrual basis
+The effects of transactions and other events are recognised when they occur (and not as cash is received or
+paid) and they are recorded in the accounting records and reported in the financial statements of the periods
+to which they relate,
+The accrual basis gives rise to the "matching" concept — that expenses are recognised based on a direct
+association between costs incurred and earning of income.
+
+权 责 发 生 制 要 求 企业 在 收入 和 费用 发 生 时 确认 ， 而 不 是 按照 现金 收 付 来 确认 。 同 时 ， 在 利润
+                                                                      表中确
+认的 收入 和 费用 需要 遵循 匹配
+                  性 原则 即 matching rule.
+
+
+
+3. Qualitative characteristics
+
+ Fundamental 基本 特征
+                          Information       should      influence      the     economic     decisions   of   users.    Financial
+                           information is capable of making a difference in decisions if it has predictive
+                           value, confirmatory value or both.
+
+                           相关 性 指 那些 能 够 影响 财务 决策 的 信息                                。 如 果 信 息 具 有 预测 价值 ， 证 实 价值
+                           或两 者 兼 有 ， 则 能 够 对 决策 产生 重要 影响 。 预 测 价值 指 能 够 被 使 用 者 在 预测
+                           未 来 结果 中 参考;               证 实 价值        指 该 信息 提供 了 关于 之 前 评估 的 反馈                        〈 证 实或 更
+      Relevance            改 )
+
+
+                            [Materiality]     is     entity-specific         and   based   on   its nature   and      magnitude,
+
+                          Information is material if omitting it or misstatement it could influence decision
+
+                          that the users make on the basis of financial statements.                如 果 省 略 或 误 报 某 信息 会
+
+                           影响
+                            使 用 者 决策 ， 则 该 信息 具有 重要                                性 。 信 息 的 重要 性        受到 性 质 和 金额 大 小
+
+                           影响 。
+
+                                                              10
+
+
+========== PDF 第 11 页 / 共 49 页 ==========
+
+                                                                                                      RATane
+
+                     @    Complete: all information necessary for understanding
+                     @)   Neutral: without a basis, supported by exercise of prudence*
+                     @    Free from error: processes and descriptions without error. does not mean perfect
+
+                     @    Substance over form: transactions and other events are accounted            for and
+                          presented in accordance with their economic reality and not merely their legal
+
+     raithtul             form. 企业
+                                 应 根据 交易 的 经 济 本 质 确认 而 非法 律 形式 。
+  representation     Prudence:      the exercise of caution when making estimates under of uncertainty,
+
+                     such that assets and income are not overstated and liabilities and expenses are not
+                     understated.
+                     For example:
+                     ¢ assets are tested for impairment and resulting losses are recognised (IAS 36)
+                     ¢ inventories are measured at the lower of cost and net realisable value (IAS 2)
+                     * provisions are recognised for liabilities even if not certain (IAS 37)
+
+Enhancing    强化 特征
+
+                     Information should be compared through time to identify trends, or with other
+                     entity’s statements，      可 比 性 是 能 过 令 使 用 者 识别各 项 目 之 间 的 相似性 和 差异
+                     性 ， 它 不 应 与 一 致 性相 混 。
+                      [Consistency]      Consistency refers to the use of the same methods for the same
+
+  Comparaniity       items, either from period to period within a reporting entity or in a single period
+
+                     across entities. 一 致 性 指 企业 针对            相同 的 项 目 使 用 相同 的 方法处 理
+                     For example:
+
+                     « Disclosure the accounting polices
+
+                     * Retrospective adjustment for changing of accounting policies        (IAS 8)
+
+                     It means    that different knowledgeable     and independent     observers   could reach
+                     consensus that a particular depiction is a faithful representation.
+
+                     可 验证
+                        性 意味 着 不 同 的 知情 及 独立 观察 者 能 够 就 某 一 特定 描述 是 否 真实 而 达
+                     成 共识 。 可 验证 性 有 助 于 使 用 者 确定 这 些 信息 是 否 遵循 了 忠实 表达                               ， 即 表达
+   Verifiability                           、
+                     了 其 则 在 反映 的 经 济 现象 。
+                     For example:
+
+                     ¢ Inventory count
+                     * Valuation by a specialist 资产 评估 师 对 资产 估 值
+                     Timeliness means having information available to decision-making in time to be
+   Timeliness        capable of influencing their decisions.
+                     及 时 性 意味 着 决策 者 及 时 提供 能 够 影响 其 决策 的 信息 。
+
+                                                    1]
+
+
+========== PDF 第 12 页 / 共 49 页 ==========
+
+                             The information of financial statements should be understood by users who have a
+                             reasonable       knowledge     of business    and      economic    activities.   Classifying,
+                             characterizing     and    representing   information    clearly   and   concisely   makes   it
+
+                             understandable.     清晰 和 简明 地 对 信息 进行 分 类 ， 界 定 其 特征 和 列 报 信息 是 可 理
+      Understandability      解性 的 要 求 。
+
+                             Complex matters should not be left out of financial statements simply due to their
+                             difficulty if the information is relevant.
+
+                             REFS a8 fa         AR SS      AR DS Sh Be           A,       LAT
+                                                                                           EG BR
+                             因为 漏 报 会 使 信息 不 完整 而 误导 使 用 者 。
+
+
+
+
+    3. Five elements
+
+                          - Apresent economic resource controlled by the entity as a result of past events
+      Assets [#9it]
+                          - Economic resource is a right that has the potential to produce economic benefits
+                          - A present obligation of the entity to transfer an economic resource as a result of
+                             past events
+     Liability【 背 过 】
+                          ~ Obligation:       is a duty of responsibility that an entity has no practical ability to
+                             avoid
+
+                          Equity     is the residual    interest in the assets of the entity after deducting all its
+      Equity (Fx)         liabilities.
+
+                          Income is increases in economic benefits during the accounting period in the form of
+           Income         inflows or enhancements of assets or decreases of liabilities that result in increases in
+                          equity, other than those relating to contributions from equity participants.
+                          Expense is decreases in economic benefits during the accounting period in the form
+          Expense         of outflows or depletions of assets or incurrences of liabilities that result in decreases
+                          in equity, other than those relating to distributions to equity participants.
+
+
+
+
+4. Recognition of elemenfts【         更 新 过 】
+
+The conceptual framework requires an item to be recognised in the financial statements if:
+@      Meets the definition of an elements
+@)     Recognition of that element provides users of the financial statements with information that is useful, ie
+       with:
+-    Relevant information about the element
+- A     faithful representation of the element
+
+
+                                                               12
+
+
+========== PDF 第 13 页 / 共 49 页 ==========
+
+                                                                                                                        BHA Tane
+
+Recognition is subject to cost constraint:     the benefits of the information provided by recognising an element
+should justify the costs of recognising that element
+
+成 本 对 于 财务 报表 能 够 提供 的 信息 构成 普遍 限制 。 报 告 财务 信息 需 付 出 成 本 ， 而 重要 的 是 报告 此 类
+信息 所 带 来 的 利益 能 够 证 明 相关 成 本 是 合理 的 。
+
+5. Measurement of elements [7/32]
+
+The conceptual framework specifically refers to two measurement bases:
+A.   Historical cost
+B.   Current value :
+@® Current cost
+@    Fair value
+@) Value in use (Asset) and fulfillment value (Liability)
+
+                                               Assets                                              Liability
+                       The historical cost of an asset when it is              The historical cost of a liability when
+                       acquired or created is the value of the costs           it is incurred or taken on is the value
+                       incurred in acquiring or creating the asset,            of the consideration received to incur
+     Historical cost   comprising the consideration paid to acquire            or    take    on    the     liability      minus
+                       or create the asset plus transaction costs.             transaction costs.
+
+                       按照 购置              或 获得 资产 时 所 支付 的 现金 来 按照 承担 义务 时 所 收 到 的 款项 金额
+                       计量
+                        ， 包 含 交易 成 本 。                                         计量 ， 并 减 去 交易 成 本 。
+                       The current cost of an asset is the cost of an          The current cost of a liability is the
+                       equivalent asset at the measurement             date,   consideration that would           be received
+                       comprising the consideration that would be              for    an    equivalent      liability     at   the
+                       paid   at    the    measurement   date   plus     the   measurement               date     minus        the
+      Current cost     transaction costs that would be incurred at             transaction        costs    that    would        be
+                       that date.                                              incurred at that date.
+
+                       按照 现在 购买 同一                  资产 或 类 似 资产 所 需 按照 现在 偿付 该 负债 所 需 支 付 的 现
+                       支付 的 现金 计量 ， 包 含 交易 成 本 。                               金 来 计 量 ， 并 减 去 交易 成 本 。
+                       The price that would be received to sell an asset, or paid to transfer a liability, in an
+                       orderly transaction between market participants at the measurement date
+       Fair value
+                       在有序 交              易 中， 双   方 自愿 支付 或 收 到 的 金额
+                       IFRS 13 defines fair values as an exit price. 公允              价 值 是 一 种 脱手 价格 即 退 出 价格
+
+
+
+
+                                                          13
+
+
+========== PDF 第 14 页 / 共 49 页 ==========
+
+                                                                                                                        HLA Tane
+
+                          Value in use is the present value of the cash | Fulfillment value is the present value
+                          flows, or other economic         benefits that an | of      the     cash,   or   other    economic
+                          entity expects to derive from the use of an | resources, that an entity expects to be
+                          asset and from its ultimate disposal                    obliged     to transfer as it fulfills a
+                          按照
+                           其 资产 正在 使 用 中 所 能 产生 的 ， 未 | lability.
+
+             ssets
+     Fulfillment value | 流出 ) 净 额 的 折 现 价值 计量 。                                   流出的 折 现 价值 计量 。
+        (Liability)       value      in use     considers_entityspecjfie          Fulfillment value is entity-specific.
+                          factors,    whereas     fair   value    is   market-    BAEEW               AW   A AARKRE
+
+                          Specific 使 用 价值            是 以 企业 自身 情况 来 决 | 的 价值 。
+                          定的 价值 ， 但 市 场 价 是 以 市 场 情况 来 决
+                          定的 价值 。
+
+
+    【注意      】vValue in use 和 Fulfillment value
+                                            的 计 最 方法 建立
+                                                      在 企业 自身                               假设 “Entity-specific assumptions”
+的 基础 上 ， 根 据 企 业 不 同 的 情况 而 预测 未 来 现金 流 。
+
+Advantages of the historical cost:
+
+@®     Simple to understand    便于 理解
+
+@     Amounts are reliable, they can always be verified, they exist on invoice and documents.                      容易   验证 ， 历
+
+      史 成 本 即 购买 价值 ， 一 般 都 会 有 对 应 的 原始 凭证
+@     Amounts used are objective, as it is more difficult to manipulate cost-based figures. RAW,                        YEAR
+
+
+Disadvantages of the historical cost:
+@ The carrying value of assets is often substantially different to market value 跟 现 值 存在 较 大 差异
+@     No account is taken of inflation meaning that profits are overstated and assets understated                  没有 考虑 通货
+
+      膨胀 等 因素对           科目 价值
+                             的 影响 ， 容 易 造 成 资产 低估 以 及 利润 高 佑 〈 当 资产 低估 ， 折 旧 低估 ， 所 以
+      会     造成 利润 高 估 )
+@     Ratios like Return on capital employed         (ROCE)       are distorted   会 导致
+                                                                                     个 别 财务 比例 失真
+
+
+
+Advantages of using current value:
+
+@     Current value is a useful guide for management in deciding whether to hold or sell assets and when to
+
+      settle the liability. 利于 管理 层 决定 资产 是 继续 持 有 还 是 直接卖 掉 ， 以 及 负债 是 否 现在 偿还
+@     Itis relevant to the needs of information users in:
+
+                                                                 14
+
+
+========== PDF 第 15 页 / 共 49 页 ==========
+
+    Assessing the stability of the business entity   利于 报表     使用 者   衔 量企业 稳定 性
+
+    Assessing the liquidity of the business 利于
+                                             报 玫 使 用 者 衔           最 企业 流动 性
+
+
+Disadvantages of using current value:
+
+@    Amounts require subjective judgement by management 估 值 需要 主观判断
+@    As the Conceptual Framework allows different group assets and liabilities to be valued on different
+     bases, this can mean that some assets will be valued at current cost, but others will be valued at value in
+
+     use or fair value. 概念 框架 允许 企业 选择 不 同 的 计 最                方法 ， 也就 意味 着 同一
+                                                                              企业 内 部 使 用 不同 的 计
+                           成 本 法 ， 有 的 资产 使 用 公允 价值
+     县 方法 ， 例 如 有 的 资产使 用 替换                                                    或 使 用 价值 计 最
+
+
+
+
+                                                        15
+
+
+========== PDF 第 16 页 / 共 49 页 ==========
+
+[eA
+1、2021
+     年 6 月 考官 报告
+   Which of the following is NOT included in the IASB definition of an asset in the Conceptual Framework
+   for nancial reporting?
+
+
+         The asset is controlled by the entity
+
+
+
+
+09wD >
+         The asset 1s a, present economic resource
+         The economic resource can be reliably measured
+         The asset exists as a result of past events
+
+
+    Drexler company acquired an item of plant on 1 October 2012 at a cost of $500,000. It has expected life
+    of 3 years ( Straight-line depreciation ) and an estimated residual value of 10% of its historical cost or
+    current cost. As at 30 September 2014, the manufacturer of the plant still makes the same item of plant
+    and its current price is $600,000.
+
+
+   What is the correct carrying amount to be shown in the financial statement as at 30 September 2014
+   under historical cost and current cost.
+
+
+     Historical cost    | Current cost
+   A. 320,000                600,000
+   B. 320,000                384,000
+   C. 300,000                600,000
+   D. 300,000                384,000
+
+
+
+
+Answer:      CB
+
+
+
+
+                                                          16
+
+
+========== PDF 第 17 页 / 共 49 页 ==========
+
+                                              第 三 章 监管框架
+
+
+1.     Principles-based vs rules-based approach
+
+                   Principal-based approach                               Rule-based approach
+
+ A principles-based (conceptual framework) A rules-based approach such as that used in the US.
+ approach such as that used by the IASB.    此 为 准则 导向 法 ， 也 是 美国 GAAP 正 在 使 用 的 体
+
+ 此 为 原则 守 自 污 ， 志 是 ACCA 正 在 使 用 的 会 计 体 系 ， 在 所 有 领域 邦 以 具体 准则 为 准 ， 没 有 统一 的
+ 系 ， 以 原则 为 基础 研究 颁布 主要 准则 ， 在 没准“ 奈刚 指导 。
+ 则 的 领域 ， 依 然 以 原则 为 准 来 处 理 。
+
+Advantages of principle-based:
+
+@      Single framework ensuring consistency across standards      能 使   准则 之 间 更 协调 统一
+
+@      Principle avoid requirement of excessive detail in standards 避免    准则 内 容 过 于 繁琐
+
+
+
+
+2. Regulatory framework
+
+
+
+                                                    IFRS
+                                                 Foundation
+                                                (22 Trustees)
+
+
+
+
+            IFRS
+                                              aw
+                                        International Accounting
+     Advisory Council       |,                Standards Board        ~---
+       (formerly SAC)                              (IASB)                                  a
+                                          (14 Board members)                    Interpretations Committee
+
+Key:
+—             Appoints
+----+         Reports to
+—-            Advises
+
+
+
+
+                                                            17
+
+
+========== PDF 第 18 页 / 共 49 页 ==========
+
+                                                                                                    RA      Tavs
+
+                              The IFRS Foundation is an independent body that oversees the IASB. Its
+                              objective is to:
+                              @    通过 IASB
+                                        制 定 准则 : develop a single set of high quality,
+                                  understandable, enforceable and globally accepted accounting standards
+                                  through its standard-setting body, the IASB
+     IFRS Foundation          @ 推广 使 用: promote the use and rigorous application of those standards,
+
+                              @   实现        趋同 : bring about convergence of national accounting standards
+
+                                  and IFRSs to high quality solutions.
+
+                              ®    考虑 特殊 需求 : take account of financial reporting needs of emerging
+
+                                  economies and SMEs (跨国 公司 以 及 中 小 企业 财报 需求 )
+                              The International Accounting Standards Board (IASB) is an independent,
+            IASB              privately-funded body that develops and approves International Financial
+                              Reporting Standards (IFRSs).
+                              The IFRS AC is essentially a forum used by the JASB to consult with the
+                              outside world. It consults with national standard setters, academics, user
+  IFRS Advisory Council       groups and a host of other interested parties to advise the IASB on a range of
+                              issues, from the IASB work program for developing new IFRSs, to giving
+                             practical advice on the implementation of particular standards.
+    IFRS Interpretation    | The IFRS IC provides guidance on specific practical issues in the
+        Committee            interpretation of IFRSs.
+                             The ISSB is responsible for developing a set of sustainability disclosure
+                              standards — “Sustainability Disclosure Standards”.
+                             The intention of ISSB is to deliver a comprehensive global baseline of
+                              standards for sustainability-related disclosures. The standards are to provide
+            ISSB              investors with information about the companies’ sustainability-related risks
+  可 持续
+     发 展 委员 会 (新              and opportunities.
+            增)                The ISSB issued its first two IFRS Sustainability Disclosure Standards in
+                             | June 2023:
+                              IFRS S1: General Requirement for Disclosure of Sustainability-related
+                              Financial information
+                              IFRS S2: Climate-related Disclosures
+
+
+
+Advantages of IFRS:
+
+(a) Greater international consistency and comparability of financial statements 提高 了 财报 的 一 致 性 和 可
+
+    比 性 〈 但 国际 会 计 准 则 的 使 用 并 不 具有 强制 性 ， 并 非 所 有 上 市 公司
+                                                        都 需 使 用)
+(b) Facilities cross- border investment 有 利益       跨国 投资
+
+
+                                                       18
+
+
+========== PDF 第 19 页 / 共 49 页 ==========
+
+(c) Greater control over, and understanding of, foreign operations      更 有 利于 理解
+                                                                                海外 经             营业
+
+(d) Consolidation of foreign operations using IFRS Accounting Standards is easier 利于 海外 企业 合并 报表
+
+    的 编制
+
+Disadvantages of IFRS:
+
+(a) IFRS Accounting Standards may not meet local needs 不 满足 具体 国家 需求 ， 并 且不 适用 于所 有 企业
+    类型
+(b) Loss of control and independence 使 用 执行
+                                          的 成本高
+(c) Interference and conflicts with national and regional law 个 别 内 容 与 本 国 准则 不 一 致
+
+
+
+
+3.IFRS S1 [3734]
+
+
+3.1 Objective
+The objective of IFRS S1 is to require an entity to disclose information about its sustainability-related risks
+and opportunities that is useful to investors when making decisions.
+
+
+3.2 Scope
+An entity may apply IFRS S1 irrespective whether they prepare their financial statements in accordance with
+IFRS Accounting Standards or other generally accepted accounting principles.
+
+
+3.3 Core content
+IFRS S] requires    a company to disclose how it manages its sustainability-related risks and opportunities
+under four headings:
+e Governance
+。 Strategy
+¢ Risk management
+¢ Metrics and targets
+
+        Category                              Disclosure contents     [ 7 EIA),     AWAY)
+
+                          Governance       processes   used   to   monitor   sustainability   related   risks   and
+                          opportunities.
+
+                          需要 披露 企业 治理 指 用 于 监控 可 持续 性 相关 风险 和 机 遇 的 治理 流程 ， 例 如
+      Governance ”关于 高 管 层 可 持续 性 监督 小 组 和 报告 的 信息 、 关 于 监控 风险 和 机 遇 总 体 责
+                          任 委托 的 详细 信息 、 高 管 可 持续 性 会 议 的 频率 以 及 任何 与 可 持续 性 相关 的
+                          高管 活动 。
+                                                        19
+
+
+========== PDF 第 20 页 / 共 49 页 ==========
+
+                           The   approach    the   entity   uses    to   manage     sustainability   related   risks   and
+                           opportunities.
+
+                           披露 可 持续 发 展 相关 风险 和 机 过 的 政策                            方法 ， 例 如 识别 可 持续            发展 相 关 的
+        Strategy
+                           风险 和 机 遇 ， 企 业 为 减轻 风险 和 利用 这 些 机 遇 而 采用 的 策略 ， 风 险 和 栅 迪
+                           带 来 的 财务 影响 ， 可 持续                    发 展 相关 风险 对 财务 计划 、 预 测 和 预算 的 影响 ，
+                           以 及 对 企业 对 可 持续 发 展 风险 的 弹性 /敏感 性 的 评估 。
+                           The processes the entity uses to identify, assess and monitor sustainability related
+                           risks and opportunities.
+
+   Risk management      ”披露 在 风险 管理 体现 在 用 于 识别 、 评 佑 、 优 先 考虑 和 监测 可 持续 性 相关 风
+                           险 和 机 遇 的 过 程 ， 例 如 风险 评估 中 使 用 的 数据 来 源 、 用 于 评估 风险 敞 口 的
+                           任何      情景 分 析 、 如 何 识别 风险 影响 的 性 质 、 概 率 和 程度 。
+                           The   entity's   performance      in    relation   to   sustainability    related   risks   and
+                           opportunities, including progress towards any targets the entity has set or is
+                           required to meet by law or regulation.
+
+  Metrics and targets
+                           披露 企业 在 可 持续               发 展 相 关 风 险 和 机 遇 方 面 的 表现 ， 包 括 在 企业 已 设 定 或
+                           法 律 或 法 规 要 求实 现 的 任何 目标 方面 的 进展 ， 例 如 用 于 可 持续                                     发 展 研究 的
+                           收入 百分比 、 可 再 生 能 源 使 用 百分比 、 可 回收 包装                                 百分比 、 使 用 的 公平 贸
+                           易 供 应 商 百分比 。
+
+
+
+4. Due process     准则 颁布    流程
+
+Step 1: Consultant with advisory council (咨询 委员会 )
+
+Step 2: Develop a discussion paper (文字 讨论 手稿 )
+
+Step 3: Develop exposure draft and publish for public comment at least 120 days (施行 草稿 )
+Step 4: Conduct a post-implementation review 〈 收 集 草稿 试用 反馈 意见 )
+Step 5: Issue final IFRS 《〈 正 式 准 则 出 台 )
+
+
+
+
+                                                            20
+
+
+========== PDF 第 21 页 / 共 49 页 ==========
+
+                                                                                                            HTane
+5. Not-for-profit and public sector entities [273d JL2X]
+
+The main aims of not-for-profit and public sector entities are very different to those of profit-orientated
+entities:
+
+                       非 营利 性 机 构                                                营利
+                                                                                  人性 机 构
+
+ Financial aim is to achieve value for money and             Financial aim is to make profit and increase
+ provide service.                                            shareholder wealth
+
+ Managers are accountable to trustees / government /
+       .                                                     Directors are accountable to shareholders.
+ public.
+                                                             External finance freely available in the form of
+ Finance limited to donations / government subsidies.                             .
+                                                             loans and share capital.
+
+
+
+
+    【注意 】
+非 营 利 性 机 构 以 及 社会 机 构 的 主要 目的 不 是 为 股东 赚钱 ， 而 是 服务 社会 提供 支持 ， 所 以                                          衡量
+                                                                                                             此机构
+的 标准
+   是 三 个 “E”:
+。Economy:        costs of resources used and the output obtained (Inputs)
+
+* Efficiency: how is the work completed (outputs)
+» Effectiveness: what is achieved (results)
+同时 也         会 用 Key   performance     indicators   (KPI)     来 衡量 非      营利 机 构 的 表现        ， 例 如 医院
+                                                                                                    的 KPI 包括
+Percentage of patients treated successfully and level of skilled staff in the department
+
+
+
+O     考点 :
+
+Non-for-profit    需要 计算 的 ratio 包 括 :
+@®    Current and Quick ratio
+@     Inventory holding period
+@     Receivable collection period
+@® Payable payment period
+©) Gearings
+
+
+Non-for- profit
+             不 需要 计算 的 ratio;
+人    Gross profit margin
+@    Operating profit margin
+@    Return on capital employed
+@    EPS
+
+
+                                                        21
+
+
+========== PDF 第 22 页 / 共 49 页 ==========
+
+     【经
+      典 例 题】
+1. 202S年 3 月 模拟 卷
+What is the primary objective of IFRS S1 General Requirements for Disclosure of Sustainability - related
+Financial Information?
+
+
+A.    To mandate the entities to focus on short-term financial risks and opportunities
+B.    To enhance the environmental conservation impact of entities by disclosing their efforts for climate
+      action
+C.    To encourage short-term profit maximization of investors and create value for shareholders
+D.    To ensure that entities disclose information about sustainability - related risks and opportunities useful
+      for making decisions on providing resources to the entity
+
+
+
+
+2. 2025年 3 月 真题
+Which of the following areas do entities need to provide disclosures on according to IFRS S1 General
+Requirement for Disclosure of Sustainability-related Financial Information?
+1. Governance
+2. Strategy
+3. Risk management
+4. Metrics and target
+
+
+      1 and 2 only
+Wp    2 and 3 only
+      2, 3 and 4 only
+092   All of the above
+
+
+
+
+Answer: D, D
+
+
+
+
+                                                         a
+
+
+========== PDF 第 23 页 / 共 49 页 ==========
+
+                                                                                                          HATone
+
+                                        SSE           资产
+                                                       类 准则
+~ TAS 16 Property, plant and equipment
+~ TAS 38 Intangible assets
+~ TAS 40 Investment property
+~ IAS 36 Impairment of assets
+~ JAS 23 Borrowing costs
+- TAS 2 Inventory
+~ IFRS 5 Non-current assets held for sale and discontinued operation
+- IAS 41 Agriculture
+
+
+
+
+IAS 16 Property, plant and equipment
+
+
+1. Definition and recognition
+1.1 Definition
+
+Property, plant and equipment are tangible assets that:
+
++ are held for use in the production or supply of goods or services, for administrative purposes,   and
+* are expected to be used during more than one accounting period
+
+
+1.2 Recognition
+Items of property, plant, and equipment should be recognized as assets when it is probable that:
+ *, Itis probable that the Tuture economic benefit associated with the asset will flow to the entity
+@   The cost of the asset can be measured reliably
+
+
+2. Initial measurement
+IAS 16 requires PPE initially measured at cost.
+
+
+Cost is all necessary costs involved in bringing the asset into working condition including cost of purchase,
+directly attributable cost etc.
+
+
+
+
+                                                      23
+
+
+========== PDF 第 24 页 / 共 49 页 ==========
+
+           Purchase price         中      |   Directly attributable costs        中         Borrowing costs           Future dismantling costs
+
+
+
+
+   :            |                                                                     i       TAS 23                        IAS 37
+   ; Including:                          Including:                                   人
+       + Import duty                     + Site preparation
+       + Non-refundable                  + Initial delivery cost
+        purchase tax                     + Handling cost
+                                         + Installation cost
+       Less:                             + Testing cost
+       - Trade discount                  + Professional fee
+
+
+
+Cost excludes:
+
+- Unused material
+
+~ Initial operating losses before asset reaches planned performance 启动                                 成 本   费用 化
+  Staff training,
+- Maintenance or warranty
+- Marketing cost
+  Administrative overheads
+
+
+
+注意 : 测试 阶段 产生 的 产品 若 出 售 ， 收 入 属于 经 营 活动 分 类 中 的 other operating income
+
+3. Depreciation
+
+
+Deprecation is the allocation of cost of assets over its useful life. Land has no finite life, therefore excluded
+from depreciation
+
+                    Straight-line method                                            Reducing balance method
+
+                    Cost   - residual va
+                                                                                          NBV     (期 初 ) *%%
+                           Useful life
+
+             (Cost - residual value)           *% %                  Net Book Value = Cost - Accumulated depreciation
+
+
+
+Example 1:
+
+PPE’s cost is $9,000
+Useful life is 3 years
+
+                                                           Accumulated
+         Cost                   Deprecation
+                                                           depreciation
+        9,000                 9,000/3 = 3,000                      3,000
+        9,000                 9,000/3 = 3,000                      6,000
+        9,000                 9,000/3 = 3,000                      9,000
+
+                                                                           24
+
+
+========== PDF 第 25 页 / 共 49 页 ==========
+
+Example 2:
+
+PPE’s cost is $9,000
+Its depreciate at 20% per annual using reducing balance method
+
+                                 .              Accumulated
+      Cost              Deprecation             depreciation                NBV
+
+      9,000         9,000 * 20% = 1,800             1,800                   7,200
+
+      9,000         7,200 * 20% = 1,440            3,240                    5,760
+
+
+
+OW 考点 :
+。 折旧 费用 属于 经 营 活动 分 类 ， 具 体 费 用 分 类 见 大 题材 料 要 求 。
+* 企业 应 该 在 资产 达到 预计 可 使 用 状态 时 开始 折旧 ， 资 产 报 废 或 处 置 时 终止 折旧 ， 过                                              程 中 即便资产
+  处 于 闲置 状态 也 需要 正常                  折旧 ， 除 非 转 为 “固定 资产 持 有 待 售 ?满足 IFRS 5 确认条件。
+。 残余 价值 ， 使 用 寿命 和 折旧 方法 需要 至 少 每 年 年 底 进行 一 次 回顾 检查                                        ， 如 果 发 生 改 变 ， 需要 用 变
+  更 当日 资产 剩余 的 账面 价值 ， 计 算 后 续 折 旧 。
+*。 如 果 资 产 每 个 部 件 的 成 本 与 该 资产 的 总 成 本 相 比 是 重大 的 ， 则 该 部 件 需 要 单独 折旧 。
+， 每 一 期 间 的 折旧 费用 应 确认 在 利润 表 中 ， 除 非 将 折旧 包含 在 其 他 资产 价值 中 。
+
+
+4, Subsequent measurement
+
+
+IAS 16 Permits two accounting methods as subsequent measurement:
+
+                        Cost model                                                  Revaluation model
+
+ Carry the asset at its historical cost less:                    Carry the asset at a revalued amount, being its fair
+ - depreciation and                                              value at the date of the revaluation less:
+- any accumulated impairment loss (IAS 36)                       - depreciation and
+                                                                 ~ any accumulated impairment loss (IAS 36)
+
+
+                                                                 注意 :
+                                                                 The IAS 16 makes clear that the revaluation model
+                                                                 is available only if the fair value of the item can be
+                                                                 measured reliably.
+
+
+
+
+                                                            25
+
+
+========== PDF 第 26 页 / 共 49 页 ==========
+
+4.1 Revaluation upwards
+
+
+Dr PPE
+
+Cr Revaluation gain       (OCI/RS)
+
+
+
+      Statement of profit or loss and                                                              woe
+       other comprehensive income                                       Statement of financial position
+
+    SPL                                                           Assets
+
+
+    OCI:                                                          Equity:
+
+
+
+    Revaluation gain                    50 | ”一         >”       | Revaluation surplus                   50
+
+                                                                  Liability
+
+
+
+4,2 Revaluation downwards
+
+
+
+Dr Revaluation loss      (SPL)
+
+Cr PPE
+
+
+
+     Statement of profit or loss and
+      other comprehensive income
+SPL
+
+Revaluation loss                     (50)
+
+OCI
+
+
+
+
+    【 重 佑 法 注意事项 】
+@      重 估 频 率 : Revaluations must subsequently be made          with sufficient regularity to ensure that the
+
+      carrying amount does not differ materially from the fair value.
+@)        重 估 要 求 : When an item of property, plant and equipment is revalued, the entire class of assets to
+
+      which the item belongs must be revalued,
+
+@@ Revaluation gains are credited to OCI and then transfer to equity as revaluation surplus. 重 估 增值 先 记
+
+      入 OCI，      然 后 再 结 转 成 为 equity 中 的 重 估 盈余 RS
+
+                                                        20
+
+
+========== PDF 第 27 页 / 共 49 页 ==========
+
+                                                                                                                                  RAT
+@ Revaluation loss should be recognized as an expense to profit and loss,                                       (ii wh {A thy 32.37, BN WALA
+
+     到 SPL 中 作为 亏损               费用 〈 属 于 经 车 活动 分 类 ”具体 费用 分 类 见 大 顾 材 料 要 求 )
+©)      列 示 要 求 : Revaluation gain and revaluation loss cannot be offset
+
+©    重估 回 转 : The         gain    reverses    a previous     revaluation              loss (SPL:      expense)     of the     same     asset
+
+     previously,     in which case it should be recognized in profit or loss as income                      (SPL:      income)       就 同一
+
+     资产 而 言 ， 该 增值 中 相当 于 回转 以 前 确认 为 重 估 减 值 的 部 分 ， 应 该 确认 为 收益
+@       重 估 后 折旧 : Depreciation must charge,           based on revalued amount,                   over remaining useful life 重 佑
+
+     后 的 资产 折旧 需要 以 重 估 后 的 资产 价值 即 公允 价值 来 计算
+     多 余 折 旧 转 移 : Make            annual    transfer from        revaluation         surplus to retained earnings             for excess
+
+     depreciation 如 果 题 目 要 求 ， 我 们 需要 在 重 估 后 的 每 一 年 转移 多 余 折 旧 ， 从 RS 转移 到 RE 中 去 :
+         Dr Revaluation surplus          X
+         Cr Retained earings           X
+
+
+    【注意 】 多 余 折 旧 的 转移 是 选 做 的 ， 如 果 题 目 要 求 我 们 再 做 ， 如 果 题 目 没有 要 求 则 默认 不 做
+
+
+
+4. Subsequent expenditure
+
+                     Capital expenditure                                                   Revenue expenditure
+
+ Subsequent        expenditure    on   property,    plant   and        All    other     expenditure     incurred     to maintain        the
+ equipment should only be capitalized if it improves                   economic        benefits    originally     expected    should     be
+ the asset beyond its originally assessed standard of                  expensed in statement of profit or loss.
+ performance.                                                          E.g.
+ E.g.                                                                  - Repair cost
+ - Upgrade cost                                                        - Cleaning cost
+ - Complex assets’s major overhaul or safety check                     - Repainting cost
+
+
+
+
+5. Disposal
+
+                                   SPL                                                                   SOFP
+
+ Profit or loss on disposal = Proceeds - carrying amount
+
+                                                                                  Transfer remaining RS to RE
+ 注意 : XbEPPER SIF ABR                        DAS,      ARRAS
+ 见 大 题材 料要求
+
+                                                                  27
+
+
+========== PDF 第 28 页 / 共 49 页 ==========
+
+                                                                                                       GAA Tone
+  Dr Cash                                                           Dr Revaluati         |
+            ，                                                         r Revaluation surplus
+  Dr/Cr Gain or loss   (SPL)                                        Cr Retained earnings
+  Cr PPE
+
+
+
+
+ O WHA:
+
+ "达到 预计 使 用 状态 (ready for use) 开始 折旧 ， 不 是 使 用 再 折旧
+ 。 过程 中 即使 短暂 闲置 也 要 折旧 ， 除 非 资 产 报废 处 置 或 转 为 持 有 待 售 资产 〈 满 足 条 件 ) UTIL
+   折旧
+ *。 残 值 ， 寿命， 折旧 方法 每 年 回顾 一 遍 ， 一 旦 改编 则 用 剩余 的 NBV 计 算 今 后 的 折旧
+ 。 并 不 是 每 年 重 估 ， 而 是 看 FV 是 否 发 生 重大 变化
+。 一 个 资产 重 估 ， 同 类 资产 一 起 重 估
+。 不 同 资产 各 自 的 增 减 值 不 可 相互                抵消 (cannot offsetting)
+
+
+
+
+ 【经
+  典 例题 】
+Elite Co is a private limited liability company that operates a single cruise ship. The ship was acquired on ]
+October 20W6 (ten years before 20X6). Details of the cost of the ship’s components and the basis on which
+
+they are depreciated is as follows:
+
+                 Component                         Original cost               Depreciation basis
+
+                                                          m
+ Ship’s fabric                                          300              25 years straight -line
+
+ Cabins and entertainment area fittings                 150              12 years straight-line
+
+ Propulsion system                                      100              Useful life of 40,000 hours
+
+
+
+The propulsion system has been used for 30,000 hours at 30 September 20X4. Due to the unreliability of the
+system, a decision was taken in early October 20X4 to replace the whole of the propulsion system at a cost of     Ans)
+$140m. The useful life of the new propulsion system was 50,000 hours and in the year ended 30 September
+2045 the ship had used the system for 5,000 hours.
+At the same time as the propulsion system replacement, Elite Co took the opportunity to do a limited upgrade
+to the facilities at a cost of $60m and repaint the ship’s fabric at a cost of $20m.
+
+
+
+
+                                                         28
+
+
+========== PDF 第 29 页 / 共 49 页 ==========
+
+                                                                                                  KATane
+1.   At 30 September 20X4 the ship js eight years old. What is the carrying amount of the ship at date
+     date?
+     X      $279m
+     B.     $275m
+     C.     $229m
+     D.     $254m
+
+
+2,   What is the amount of depreciation charge in relation to the propulsion system for the year ended
+     30 September 20X5?
+         \. $14m
+     B.    $39m
+     C.    $17.5m
+     D.    $16.5m
+
+
+3    Apart frem depreciation, what is the charge to profit or loss for the year ended 30 September
+     20X5?
+     A. $20m
+     B.    $25m
+     C.    $45m
+     D.    $40m
+
+
+4.   Elite Co’s ship has to have a safety check carried oyt every five years at a coSt of $50,000 in order
+     to be licensed to operate. How sheuld-this be accounted for?
+     A,    Set up a provision for this discounted present value and unwind over five years
+     B.    Accrue the cost of the check over five years until it takes place
+     C.    Charge $50,000 to profit or loss when incurred
+     D     Capitalize the cost when incurred and amortize over five years
+
+
+
+
+Answer:      AACD
+
+
+
+
+                                                          29
+
+
+========== PDF 第 30 页 / 共 49 页 ==========
+
+IAS 38          Intangible assets
+
+
+1. Definition
+1.1 Definition
+An intangible asset is an identifiable non-monetary asset without physical substance.
+
+
+1,2 Identifiable:
+
+* “Separable”        可 分     离 的 ， 即 能 够 从 主体 中 分 离 或 划分            出 来 ， 并 能 单独      或 与 相关 资产 一 起 使 用 ， 可 以
+
+     出 售 ， 转 移 ， 租 赁 或 交换 ， 不 论 主体                 是否 有 意    进行 这 些 交 易 ， 或 者 ;
+，Ariscs from contractual or other legal rights         源 自 合同 或 其 他 法 定 权 利
+
+
+2. Recognition
+@     Identifiable
+@)    Controlled assets
+图     Itis probable that the expected economic benefits that are attributable to the assct will flow to the entity
+@     The cost of the asset can be measured reliably
+
+
+
+3. Accounting treatment
+
+
+3.1 External purchased
+The recognition criteria are always presumed to have been met for intangible assets that are acquired
+separately or acquired as part of a business combination. Therefore can be recognized as intangible asset in
+the statement of financial position.
+
+
+3.2 Internal generated
+Internally generated       brands,   mastheads,   publishing titles, customer   lists and similar items   cannot   be
+recognized as intangible assets. Expenditure on these times should be recognized as expense when its incurred
+
+
+
+
+                                                            30
+
+
+========== PDF 第 31 页 / 共 49 页 ==========
+
+                                        Internally generated intangible assets
+
+
+
+
+       Research:                                                          Development:
+       Original and palnned                                               Application of research finding to
+       investigation undertaken with the                                  a plan or design for the production
+       prospect of gaining new scientific                                 of new or improved material.
+       or technical knowledge and                                         products, proccss of services
+       understanding                                                      before the start of commerciat
+                                                                          production or use
+
+
+
+
+                                                                         cts all of the”       “criteria:
+                                                                     Probable future economic benefits will be
+                                                                     generated by the asset;
+                                                                     Intention to complete the asset;
+                                                                     Resources (technical/financial/other )
+                                                                     adequate to complete the assct:
+                                                                     Ability to usc or sell the asset:
+                                                                     Technical feasibility of competing the asset;
+                                                                     Expenditure can be measured reliably.
+
+
+
+                        Ad                                                           ‘°      A
+
+      Not recognised as an intangible assct                                      Recognise as an intangible
+      Recognise as expense in SPL                                                          asset
+
+
+
+W    考点 :
+
+研发 费用        (资本 化 条 件 不 满足 需要 费用 化 ) 在 利润 表 中 需要 单独 列 示 (经营 活动                                         分 类 ) ， 属 于 金额
+
+较 大 且 一 次 性 费用 ， 不 能 与 其 他 费用 合并 记录 。
+
+
+4. Initial measurement
+
+Extemal purchase:       measured at cost
+
+Internal development:        measured at sum total of capital expenditure
+
+
+
+
+5. Subsequent measurement
+¢ Cost model
+e   Revaluation model
+
+
+
+
+                                                           31
+
+
+========== PDF 第 32 页 / 共 49 页 ==========
+
+                                                                                                                               ]
+                                                                                                                  RA Tone
+
+OW 考点 : 无 形 资产 后 续 计 量 的 选择 不 一 定 要 与 PPE 保 持 一 致 ， 企 业 可 以 按 实 际 情况 选择 成 本 法 或 重
+         估 法 计 最 其 无 形 资产 。 理论 上 ， 无 形 资产 后 续 计 量 可 以 使 用 午 估 法 ， 但 前 提 是 存在 活跃 市 场 ， 可
+          以 获得
+             公 介 价值，           如果 不 存在 活路 市场， 无 形 资产 只 能 用 成 本 法 计量 。
+
+
+
+6. Amortization
+The amortization of an intangible asset with a finite useful life shall be allocated over its useful life.
+
+
+Q         考点 : According to IAS 38, the amortization method should reflect the expected pattern of consumptior
+
+          of the expected future economic benefits embodied in an intangible asset.          根据      国际   会 计 准则 第 38 号 ，
+
+          无 形 资产 排 销 方法 应 反映 无 形 资 产 的 预期 未 来 经 济 利益 的 消耗 模式 ， 考 试 中 绝 大 多 数 使 用 直线 革
+          销法。
+
+
+                         Finite useful life                                         Indefinite useful life
+
+    Straight-line method:
+
+        = Cost = useful life
+
+        =Cost ¥ %
+
+    注意 : 无 形 资产 没有 残余 价值
+                                                                 e An      intangible   asset with    an indefinite   useful
+    Double- entry:                                                   life shall not be amortized
+                                                                 ¢ The useful life of an intangible asset that is not
+    Dr Amortization expense (SPL)
+                                                                     being amortized shall be reviewed each year end
+    Cr Accumulated amortization
+                                                                 。 Should be tested for impairment at every year
+                                                                     end
+    SOFP:
+
+    NBV = Cost - accumulated amortization
+
+
+    ¢    The useful life and the amortization method      for
+         an intangible asset with a finite useful life shall
+         be reviewed at least at each year end
+
+
+
+
+                                                                32
+
+
+========== PDF 第 33 页 / 共 49 页 ==========
+
+                                                                                                      KATane
+
+A        划 重 点:
+      无 形 资产 开 始 使用 再 捧 销
+。 寿 命 需要 每 年 回顾 一 遍 ，( 考 过 文字判断 )
+。 有 明确 寿命 按 寿 命 排 销 、 没 有 明确
+                           寿命 不 捧 销
+， 无 形 资产 可 以 重 估 、 但 前 提 是 要 有 活路 市场 计算 FV ( 考 过 文字判断 )
+      无 形 资 产 的 后 续 计 量 不 必 和 PPE 的 后 续 计 最 保持 一 致 〈 考 过 文字判断 )
+。 处 置 无 形 资产 公 亏 属 巴 到 营 活动 分 类
+
+
+
+
+     【经
+      典 例题 】
+1，、2020
+     年 3 月 考官 报告
+Indicates which  of the options below should be recognized as intangible assets by dragging and
+dropping the appropriate options into the grey targets boxes.
+
+
+
+                    Options                                                            Intangible assets
+     Brandname develoned by New            $2m spent on an advertising campaign
+     Designs Co worth $10m                 expected to increase revenue by $20m
+     $2.5m-spent onmew equipment to        $3m paid to acquire the brand name
+     develop a new successtur products     Fast Design
+     $3m spent on a iicence to operate a   $im spent on the construction of a
+     production facility for six years     product prototyps before its launct
+     $1.5m spent on training customer
+                                           $2m paid as goodwill when acquiring
+     service staff expected to increase
+                                           Unique Co
+     revenue by $5m
+
+
+
+
+2,     Assoria Co had $20m ot capitalized development expenditure at cost brought forward at 1 October 20X7
+        in respect of products currently in production and a new project began on the same date.The research
+        stage of the new project lasted until 31 December 20X7 and incurred $1.4m of costs. From that date the
+       project incurred development costs of $0.8m per month. On 1 April 20X8 the director of A Co became
+       confident that the project development at 30 September 20X8. Capitalized development expenditure is
+       amortized at 20% per annum using the straight line method.
+
+
+
+
+                                                         33
+
+
+========== PDF 第 34 页 / 共 49 页 ==========
+
+    What amount will be charged to profit or loss tor the year ended 30
+                                                                        September 20X8 in respect ¢
+    research and development costs?
+    A . $8,280,000
+    B - $6,880,000
+    & » $7,800,000
+    D . $3,800,000
+
+
+
+
+Answer:
+
+23, #2, 3, 4
+C
+
+
+
+
+                                                 34
+
+
+========== PDF 第 35 页 / 共 49 页 ==========
+
+                                                                                                             敬丹 Jane
+
+        IAS 40 Investment property
+
+        1. Definition and recognition
+
+
+    1.1 Definition
+
+    Investment property is property held to earn rentals or for capital appreciation or both
+
+
+    OT 投资 性 房地产
+              常见 例子 :
+    。     Land held for long-term capital appreciation
+    。 Land held for a currently undetermined future use            没有 决定 用 途 的 土地 属于 投资 性 房地产
+    。     A building that is vacant and is held to be leased out
+    。     Property that is being constructed for future use as investment property
+
+
+    O       以 下 不 属于 投资 性 房地产 :
+    。     Property intended for sale in the ordinary course of business
+    e Property being constructed on behalf of third parties
+    。     Owner-occupied property including property held for future use as owner-occupied property
+
+
+
+
+    1.2 Recognition
+@          itis probable that the future economic benefits that are associated with the investment property will flow
+           to the entity
+@          The cost of the investment property can be measured reliably.
+
+
+
+2. Measurement
+
+
+2.1 Initial measurement
+Investment property is measured initially at cost, including:
+- Purchase price
+- Property transfer tax
+- Transaction cost
+-        Professional fee
+
+
+
+
+                                                              35
+
+
+========== PDF 第 36 页 / 共 49 页 ==========
+
+ 2.2 Subsequent measurement
+
+
+ IAS 40 permits cntitics to choose between:
+
+                        Fair value model                                         Cost model(=IAS       16)
+
+    Investinent property is measured at fair value at the | Carry the asset at its historical cost less:
+    end of reporting period:                                    - depreciation    (投资       活动 分 类 )
+    -   any gain or loss is included     in the statement of
+                                                                - any accumulated impairment loss (IAS 36)
+        profit or loss 〈 投 资 活动分 类 )
+    - the investment property in not depreciated
+
+
+
+O       考点 : 本 准则 人 允许 企业 在 两 种 方法 下 任 选 其 一 :
+O       公允 价值          法。 在 该   方法     下 、 投 资 性 房地产 在 初始 计量 后 以 公允 价值                      计量 ， 公 人 允 价 值 变动 确认 进 当
+        期    损益 SPL，    属 于 投资 活动 分 类 。
+@       成 本 法。 该        方法 由 《IAS      16>   予以 规定 ， 采 用 成 本 法 要 求 投资               性 房地产 在 初始 计量 后 采用 折 余 成
+        本   〈 累 计 折 旧 后 一 余 的 净 账面           价值 ) 予以 计量 ， 且 折旧 费用 属于 投资 活动 分 类 。
+。 本 准则 要 求 企 业 对 于 其 全 部 投资                   性 房地产     都 采用 统一       选 定 的 计量 方法 来 计量 。
+。 当 公允 价值 无 法 确定                时 ， 企 业 需 采用 成 本 法 计量 。
+。 公允 价值 法 不 需要 计 提 折旧 。
+
+
+
+3. Reclassification / Transfer
+Transfer to or from, investment property should only be made when there is a change in use.
+
+需要 注意 的 是 ， 考 官 很 喜欢 考察                      转 入 投资     性 房地产 ， 或 转 出 成 为 投资 性 房地产 ， 大 家 记                   住，一 旦 在
+读 材 料 看 到 有 关 重 大 决定 的 字眼 ， 比 如 企业 决定 把 办 公 大 楼 出 租 ， 或 者 闲置 ， 则 证 明 资产 的 用 途 改
+生 改 变 。 一 旦 用 途 改变 ， 计 量 准 则 也 就 发 生 改 变 。
+
+
+
+3.1 投资        性 房地产
+                  转 为 PP
+
+
+    |                                          |                                        J
+                                        FV at date of
+                                          transfer
+
+        Account for as investment                  Account for as PPE under LAS
+        property under IAS 40                      16 or Inventory under IAS 2
+
+
+                                                               36
+
+
+========== PDF 第 37 页 / 共 49 页 ==========
+
+                                                                                                              RATane
+
+
+       Step 1: 在 转换 日 对 投资 性 房地产 进行                        最 后 一 次 FV 调    整 ， 变 化 金额 记 入 当期 损益 SPL
+       Step 2: 调整 到 FV 之 后 再 更 换 成 PPE (FV
+                                         即 Cost)                     ， 后 续 开始 计 提 折旧
+
+
+      3.2 PPE 转 为 投资 性 房地产
+
+
+        |                                              |                                      J
+                                               FV at date of
+                                                 transfer
+        <                                          7
+
+
+
+             Account for as PPE:                              Account for as investment
+             *   At date of change, property                  property under IAS 40
+                 revalued to FV
+             *   Any difference between
+                 carrying amount and FV
+                 treated as a revaluation
+                 under IAS 16
+
+
+
+
+ Step 1: 在 转换             日对 PPE
+                              进 行 最 后 一 次 重 估 ， 重 估 增                     值 记 OCIRS ， 重 估 减 值 记 SPL
+ Step 2: 重 估到 FV 之 后 转                成 investment property      ， 转 换 后 停止 折旧 ， 后 续 FV 变 化 记 入 SPL
+
+
+
+
+ 区          划 重 点 :
+ “投资             性 房地产      处 置 时 也 需要 计算 处 置 到 亏 :
+        Profit or loss on disposal = proceeds - carrying amount
+
+        需要 注意 的 是 ， 投 资 性 房地产 处 置 盈亏 属于 “投资 活动 ”分 类 。
+。 投资 性 房地产 后 续 计 量 首选 FV model
+“投资              性 房地产 增值 或 减 值 都 记 入 SPL， 属 于 投资 活动 分 类
+“投资
+ 性 房地产 不 折旧                          ， 即 使 有 使 用 寿命 也 不 折旧 ( 考 过 改 错 题 )
+       一 个 投资 性 房地产
+                  选择 FV model， 则所 有 投资 性 房地产 都 需要 选择 FV model
+                                                            计量
+       一 部 分 投资 性 房地产 ， 一 部 分 为 自用 资产 PPE， 如 果 两 部 分 能 分 开 出 售 ， 则 需要
+                                                                    拆 分 计量 ; 如 果 不
+       能分 开 出 售 ， 当 自用 资产 PPE 不 占 重要 组 成 部 分 时 ， 整 个 资产 按 投资 性 房地产                                    处 理 〈2024
+                                                                                                             年 3月 考
+
+       过 文字 判断 )
+
+
+
+
+                                                                    37
+
+
+========== PDF 第 38 页 / 共 49 页 ==========
+
+          【经
+           典 例题 】
+     1,    20234765 MI
+
+          Which of the following is an Investment property under IAS 40 Investment property?
+          A,   A building that is vacant but held to be rented to third parties
+          B.   Property under construction on behalfof third partics
+          C.   Property that is available for sale in the ordinary course of business
+          D.   Owner- occupied property
+
+
+
+
+  2.       2025463 AH RW
+
+          Which of the following statements is correct regarding investment property?
+          A.   The investment property may be held as owner occupied pronerty or a property held for sale in future
+          B.   An owned investment property shall be measured initiaNy at its tair value
+          ©,   An investment property may be subsequently measured using cost model or fair value model
+          D. Investment property must be depreciated regardless of whether an entity choose cost model or fair
+               value model for subsequent measurement
+
+
+
+
+3.        Carter Co vacated its head office building and let it out to a third party on 30 June 208. The building
+          had an original cost of $900,000 on ! January 20X0 and was being depreciated over 50 years. It was
+          judged to have a fair value on 30 June ZOX8 ot $950,000 At the year-end date of 31 December 20X8 the
+          fair value of the building was estimated at $1.2m.
+
+
+          What amount will be shown in revaluation surplus at 31 December 20X8 in respect of the building?
+
+
+
+
+Answer:          A,   C 203000
+
+
+
+
+                                                               38
+
+
+========== PDF 第 39 页 / 共 49 页 ==========
+
+                                                                                                              GHA Tone
+
+IAS 36 Impairment of assets
+
+
+适用 于 :
+IAS 16 PPE
+IAS 38 Intangible assets
+
+IAS 40 Investment property       (cost model only)
+
+
+
+TERM: IAS 36 的 减 值 与 之 前 ITAS 16 中 的 减 值 无 本 质 区 别 ， 处 理 方式
+                                                          也 相同 ， 只 是 发 生 的 阶段 不 同 。
+IAS 16 中 的 减 值 发 生 在 后 续 计 量 阶段 ， 而 ITAS 36 的 减 值 可 以 发 生 在 任 一 时 间 点 ， 但 有 前 提 条 件 ， 即
+减 值 迹象
+     的 出 现。
+
+
+
+1. Indicators of impairment
+
+
+
+                     Internal indicators                                        External indicators
+
+                                                              @    市 价 大 幅 下 跌 Decline in asset’s market value
+ ®D      明显 过 时 陈旧 或 损坏 Obsolescence or damage
+                                                              @ RA, 市场，             经 济 或 法 律 等 因素 对 资产 产生
+ @       用 途 发 生 重大变化 Signifticant changes with an
+                                                                   负面       影响 Adverse effect in the technological，
+         adverse effectin the extent to which, or
+                  .    、              。          -                 market, economic or legal environment in
+         manner in which, an asset is used or is
+         expected to be used                                       which the enterprise operates    [PESTEL]
+
+    @     经 济 绩效下 降 Economic performance and                  @@   市 场 利 息 率 提高 Increase in market interest
+         expected net cashflows of an asset are worse              rates
+         than expected                                        ®     企业 净 资 产 账面 价值 大 于 市 场 资 本 化 金额 即
+    ®     已 经 或 将 要 出 售 The asset is already or will be            股票       市 值 Carrying amount of net assess of the
+         disposed                                                      .                     oe
+            P                                                      entity exceeds market capitalization    [share
+
+                                                                   price}
+
+
+
+O       高 频 考 点 : 有 两 类 资产 需要 每 年 年 底 进行 减 值 测试                      ， 即 便 没有 减值 迹象 出 现 :
+Even if there are no indications of impairment, the following assets must always be tested for impairment
+annually:
+
+@       An intangible asset with an indefinite useful life
+@)      Goodwill acquired in a business combination
+
+
+
+                                                             39
+
+
+========== PDF 第 40 页 / 共 49 页 ==========
+
+2. Impairment test / review
+
+
+2.1 Impairment test [#73]
+
+An asset has been impaired if its carrying amount exceeds its recoverable amount. Recoverable amount is ty
+greater of fair value less cost to sell and Value in use    (future cash flows generated by the asset discounted 3
+
+interest rate which allows for the risks specific to the asset )
+
+
+
+U     考点 : 减 值 损失 应 确认 在 当期               损益 SPL 中 ， 属 于 经 营 活动分 类 ， 除 非 按照
+                                                                          另 一 准则 <IAS                       16% 名
+
+      产 在 过 去 以 重 估 法 计量 ， 且 产生
+                              重 估 盆 余 ， 那 么 减 值 损失 应 作为                           重估 盈 余 抵 减 处 理 。
+W@W 如 果 recoverable amount
+                       大 于 carrying amount 则 资产 没有 减 值 ， 无 需 任 何 处 理
+
+
+
+
+3. Cash-gencerating unit
+
+
+3.1 Definition [#fit]
+CGU      is the smallest identifiable group of assets for which independent cash flows can be identified and
+measured
+
+
+
+町     考点 : It may not be possible to estimate the recoverable amount of an individual asset. Any entity must
+
+      therefore determine the recoverable amount of the CGU to which the asset belongs. 如 果 资 产 存 在 减 值
+      迹象 ， 企 业 应 佑 计 单 项 资产 的 可 回收 金额 ， 如 果 无 法 估计 单项 资产 的 使 用价值 ， 企 业 应 确定资产
+      所 属 的 现金 产 出 单元 的 可 回收 金额 。
+
+
+
+3.2 Allocation of impairment losses for a CGU
+The impairment loss is allocated to reduce the carrying amount of the assets of the unit in the following
+
+order:
+
+@     to any assets that are obviously damaged or destroyed
+@) to any goodwill
+
+
+
+                                                           40
+
+
+========== PDF 第 41 页 / 共 49 页 ==========
+
+                                                                                                       OLA} Tana
+@      to the remaining assets of the unit on a pro-rata basis based on the carrying amount of each asset in the
+       unit
+
+
+     【解释 ]
+在 对 现金         产 出 单元 资产 进行 减 值 损失 分 掩 时 ， 应 雪 确 分 排 顺 序 ， 先 对 明确 减 值 的 资产 进行 减 值 处
+BOs      其 次 抵 减 商 誉 价值 ; 最后， 根据 剩余 资产 的 账面 价值 金 锋 ， 按 比例 分 摊 有 余 践 值 极 失 ， 进 行 减
+值 处 理 。 贷 要 注意的 是 流动 资产 不 参与 此 减 值 损失 的 分 捧
+
+
+4, Reversal of previous impairment loss
+An impairment loss recognised for an asset in prior years should be recovered only if there has been a change
+in the estimate used to determine the assct’s recoverable amount.
+
+
+The asset cannot be revalued to a carrying amount that is higher than what it would have been the asset had
+not been impaired originally, ie its depreciated historical cost had the impairment not taken place.
+
+
+OD 回转条 件 : 当 现在 的 可 回收                  金额 较 之 前 计算 金额       相 比 增加 时 ， 企 业 可 以 回转 之 前 确认 的 减 值 损失
+OW 回转上 限 ; 回转 后 的 资产 价值 不 可 以 超过 历史 折旧 金额                           ， 即 净 账 面 价值NBV
+@      注意 : Impairment on goodwill can never be reversed 商 祥 减          值 不 可 回转
+
+
+
+
+加 WHA:
+。 资产 减 值 : Recoverable amount
+                          < Carrying amount (确认
+                                             减 值 损 失 SPL )
+
+"资产           没有 减 值 : Recoverable amount > Carrying amount (AP WAC,                 HAMAR,              BHR
+     略 ) 考 过 文字 判断
+“两      类 资产 哪怕 没有 减 值 迹 象 ， 也 要 每 年 做 减 值 测试 : 〈( 考 过 很 多 次 文字 判断 )
+@      Goodwill
+@      Intangible asset with indefinite useful life
+
+
+
+
+                                                        4]
+
+
+========== PDF 第 42 页 / 共 49 页 ==========
+
+     【经
+      典 例题 】
+1、    Riley Co acquired a non-current asset on 1 October 20W9 (ten years before 20X9) at a cost of $100,0
+      which had a useful life of ten years and a nil residual value. The asset had been correctly depreciated y
+      to 30 September 20X4. At that date the asset was damaged and an impairment review was performed. 0
+      30 September 20X4, the fair value of the asset less cost to sell was $30,000 and the expected future cay
+       flows were $8,500 per annum for the next five years. The current cost of capital is 10% and a five-yel
+       annuity of $1 per annum at 10% would have a present value of $3.79.
+
+
+      What amount would be charged to profit or loss for the impairment of this asset for the year ende
+      30 September 20X4?
+      A.   $17,785
+      B.   $20,000
+      C.   $30,000
+      D.   $32,215
+
+
+补充 : Annuity
+
+                  1     8,500 * 1/1.11   = 8,500 * 0.91
+                  2     8,500 * 1/1.12   = 8,500 * 0.83
+                  3     8,500 * 1/1.13   = 8,500 * 0.75
+                                                                      8,500 * 3.75 annuity
+                  4     8,500 * 1/1.14   = 8,500 * 0.64
+                  5     8,500 * 1/1.15   = 8,500 * 0.62
+
+
+
+
+2. A business which comprises a single cash-generating unit has the following assets:
+
+
+                                                    $’m
+       Goodwill                                       3
+       Patent                                         5
+       Property                                      10
+       Plant and equipment                           15
+       Current assets                                2
+
+                                                     35
+
+
+
+
+      Following an impairment review it is estimated that the value of the patent is $2m and the recoverable
+      amount of the business is $24m.
+      What will be the carrying amount of the property after the impairment loss has been recognized?
+
+                                                          42
+
+
+========== PDF 第 43 页 / 共 49 页 ==========
+
+             $8m
+
+
+
+   SOD >
+           . $10m
+           . $7m
+           . $5m
+
+
+
+
+ 3. A cash-generating unit comprises the following assets:
+
+
+                                                    $'000
+  Plant and equipment                                200
+
+  Goodwill                                            90
+  Building                                           700
+  Current assets                                      20
+
+                                                    1,010
+
+
+ One of the machines, carried at $40,000, is damaged and will have to be scrapped. The recoverable amount
+ of the CGU is estimated at $750,000.
+ What will be the carrying amount of the building after the impairment loss has been recognized?
+
+
+       $597,000
+FP >   $577,000
+       $594,000
+5D O   $548,000
+
+
+
+
+Answer:             AAC
+
+
+
+
+                                                       43
+
+
+========== PDF 第 44 页 / 共 49 页 ==========
+
+IAS 23 Borrowing costs
+
+
+1.   Qualifying condition
+
+@    Qualifying assets: takes a substantial period of time to get ready for its intended use 需要
+                                                                                              经 过 相当 长
+     时 间 才能 达到 预计
+                可 使 用 或 可 出 售 状态 的 资产
+@)   The borrowing cost must be unavoidable
+@)   There must be direct relationship between qualifying asset and borrowing amount
+
+
+
+
+2. Qualifying period
+
+
+2.1 资本
+     化 期间 起            始 日期 : 【符合
+                               以 下 所 有 条 件 的 日 期 开始 资本 化 】
+@    Expenditure for the asset is being incurred;     发 生 支 出
+
+@    Borrowing costs are being incurred;      发     生 借款
+                                                       成 本 利息
+
+@    Activities that are necessary to prepare the asset for its intended use or sale are in progress.   已 开展 准备
+     活动
+
+
+2.2 资本
+     化 期 间 截止 日 期 : 【二 选 最 早日期 】
+@    Once substantially all the activities necessary to prepare the qualifying asset for its intended use or sale
+
+     are complete.   已 结束 相关 建造 活动
+
+@    Repayment of the borrowing 已还 款
+
+
+2.3 资本
+     化 暂停 : 【停工
+              期 利息 】
+Dr Interest expense (SPL)      X
+Cr Cash                        X
+在 现行 开发 活动 发 生 中 断              时 ， 企 业 应 暂停 借款 成 本 的 资本 化 ， 期 间 的 利息 需要 费用 化 记 入 SPL
+
+
+CO 考点 : 在 资本 化 期 间 产 生 投资 收益 : 企业 在 计算 资本 化 金额 时 ， 应 减 去 闲置 借款 进行 的 临时 性 投
+     资 收益
+可    不 处 于 资本 化 期 间 的 投资 收益 : 确认 在 当期 损益 中 SPL， 属 于 投资 活动 分 类
+
+3. Qualifying interest rate
+@    专项     借款 : Borrowings specifically made to acquire a qualifying asset【 使 用 专项 利率 】
+
+@    普通 借款 : Funds for the project taken from borrowings generally【〖 使             用 加 权 平 均 利率 】
+                                                        44
+
+
+========== PDF 第 45 页 / 共 49 页 ==========
+
+     【经
+      典 例 题】
+1、     Fido Co has the following loans in place throughout the year ended 31 December 20X8 which constitute
+       its general borrowings for the period.
+
+
+      10% bank loan $140m
+       8% bank loan        $200m
+
+
+      On 1 July 20X8 $50m was drawn down for construction of a qualifying asset which was completed
+      during 20X9.
+      What amount should be capitalized as borrowing costs at 31 December 20X8 in respect of this case?
+
+
+             $5.6m
+
+
+     OW p
+             $2.8m
+             $4.4m
+      9      $2.2m
+
+
+
+
+2. 2024年 6月 模拟 卷
+
+      Beta Co began construction of its new factory building on 1 March 20X3. The cost of the construction
+      was estimated at $1.5 million. The company borrowed $800,000 from a local bank on | July 20X3 at the
+       interest rate of 6% pa. The construction completed on 30 November 20X4. Beta had temporarily invested
+       $350,000 of the borrowed amount from 1 July 20X3 to 31 December 20X3 at 4.5% pa.
+
+
+       What would be the amount of borrowing cost to be capitalised in respect of the factory building according
+       to IAS 23 Borrowing Costs?
+
+
+             $68,000
+
+
+      OW >
+             $84,000
+             $60,125
+      9      $13,125
+
+
+
+
+Answer:         D,     C
+
+
+
+
+                                                         45
+
+
+========== PDF 第 46 页 / 共 49 页 ==========
+
+                                                                                                    HA    Tane
+
+
+
+IAS 2 Inventory
+
+1.     Definition
+
+
+Inventories are assets:
+
+e held for sale in the ordinary course of business
+¢ in the process of production for such sale
+。in the form of materials or suppliers to be consumed in the production process or in the rendering of
+     service.
+
+
+Types of inventory:
+
+。 Goods purchased
+« Finished goods produced
+¢ Work in progress
+e Raw material
+
+
+
+
+2. Measurement
+Inventory should be measured at the lower of cost and net realizable value.
+
+
+2.1 Cost
+
+     Cost =         Cost of purchase    +                  Cost of conversion             +      Others
+                e Purchase price               ¢ Direct cost (material and labour)            ¢ Design cost
+                + Import duties                ¢ Fixed and variable overheads:
+                a) Camiege tnwaid              @   Indirect cost (material and labour)
+                + Handling cost                @   Factory depreciation
+                                               @@ Supervisors wages
+                                               @   Storage cost and carriage cost ( raw
+                                                   material and WIP)
+
+
+
+     【存货
+       成 本 不 包括 】
+@      Abnormal loss
+@      Storage cost of finished goods
+@® Carriage outward
+@® Administrative overhead
+©      Selling cost
+
+
+
+
+                                                          46
+
+
+========== PDF 第 47 页 / 共 49 页 ==========
+
+                                                                                                                  化 丹 Jara
+
+@       考点 : Fixed production overheads should be allocated to units of production based on a normal level of
+        activities under absorption costing.   Interchangeable       items,   following estimation   techniques    can be
+       used:
+
+      - FIFO
+      - Weighted average cost
+      ~ LIFO is not allowed under IAS 2 不 允许使 用
+
+
+UW 考点 : FIFO
+          对 比 AVCO
+
+                                        FIFO                 AVCO
+
+    Closing inventory                    高                       低
+    Cost of sales                        低                       高
+    Profit                               高                       低
+
+如 果 企 业 将 FIFO 更 改 为 AVCO ， 调 整 分 录 【 背 过 】 :
+Dr Cost of sales                  Xx
+Cr Closing inventory              X
+
+
+
+
+    2.2 Net realizable value
+
+NRV is the estimated selling price in the ordinary course of business less the estimated cost of completion
+and the estimated costs necessary to make the sale:
+
+    Estimated selling price                            X
+
+    Less:    Cost to completion                       (X)
+
+    Less:    Selling cost                             (X)
+
+    Net realizable value                               X
+
+
+
+The NRV may be less than cost due to:
+
+- Errors in production and purchase
+-     An increase in cost
+      Fall in selling price
+      Obsolescence of products
+
+
+4B,                 RESALES
+                          Wie                           CRS) :
+Dr Cost of sales              X
+Cr Closing inventory          X
+                                                            4]
+
+
+========== PDF 第 48 页 / 共 49 页 ==========
+
+3. Cost of sales
+
+ Opening inventory                                      X
+
+ Add} purchase                                          X
+
+ Less: closing {inventory                               (X)
+
+ Cost of sales                                          X
+
+
+
+
+4. Gross profit percentage
+
+
+     Gross profit margin = |      ”Salcs       * 100%
+
+                Sup    =                   1   * 100%
+           iiiadiaal           Cost of sales
+
+
+
+
+      典 例题 】
+     【经
+1、2020
+    年 12 月 考官 报告
+      At 31 December 20X4, Litch Co had, in inventory, 100 items of work in progress which had cost $14,900
+      to produce. It estimated that work in progress would cost $13 per unit to complete, and that each unit
+      would then sell for $166.
+      Direct selling costs are estimated at 2% of revenue.
+      In accordance with IAS 2 Inventory, what           is the correct value of Litch   Co’s inventory as at 31
+      December 20X4?
+
+
+      A.   $14,900
+      B.   $16,268
+      C.   $16,200
+      D.   $14,968
+
+
+
+
+2.     202347129 SARE
+
+      At March 20X3,       Algernon Co had equipment in its inventory which was manufactured to a customer's
+      specific requirement and had originally cost $380,000.
+
+
+
+                                                              48
+
+
+========== PDF 第 49 页 / 共 49 页 ==========
+
+                                                                                                         化 丹 Jara
+   The selling price had been agreed as $420,000 but new regulations mean that safety measures must be
+   added at a cost of $60,000 before the equipment may be sold. The customer has agreed to pay for half of
+   these modification costs through an increase in the overall selling price.
+   In accordance with IAS 2, what is the value of these inventories to be presented in the statement of
+
+   financial position as at 31 March 20X3?
+
+
+          $380,000
+
+
+
+ TOD >
+          $390,000
+          $410,000
+          $440,000
+
+
+
+
+3. 2024
+      年 12 月 模拟 卷
+Indicate，for each of the items listed below，whether the expenditure should be included in the cost of
+inventory or recognised in profit or loss, in accordance with IAS 2 Inventories.
+
+ An allocation of fixed production overheads based
+                 .                                           Included in cost      Recognised in profit or loss
+ on normal capacity
+
+ Abnormal amounts of wasted materials                        Included in cost      Recognised in profit or loss
+ Costs of storage after completion of inventories and                 .
+                                                             Included in cost      Recognised in profit or loss
+ before sale
+
+
+
+
+Answer:     A,   A,   Included,   Recognised,   Recognised
+
+
+
+
+                                                        49

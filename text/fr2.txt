@@ -1,0 +1,2576 @@
+文件：fr2.pdf
+页数：50
+文字来源：新增中英文 OCR 文字层
+定位：以下页码为 PDF 文件内的页序号，从 1 开始，可能不同于纸面印刷页码。
+说明：保留尽可能多的表格布局；OCR 可能误识别数字、金额、符号或中英文，做题时请对照原 PDF。
+
+
+========== PDF 第 1 页 / 共 50 页 ==========
+
+                                                                                                               BA   Ton
+
+
+    IFRS 5 Non-Current assets held for sale and discontinued operation
+
+
+    1. Non-Current Assets Held For Sale
+
+
+    1.1 Definition
+
+     Non- current asset held | This term refers to a non-current asset whose carrying amount will be recovered
+             for sale           principally through a sale transaction rather than through continuing use.
+                                A group of assets to be disposed of, by sale or otherwise, together as a group ina
+                                single transaction, and liabilities directly associated with those assets that will be
+         Disposal group         transferred in the transaction.
+                                In practice a disposal group could be a subsidiary, a cash- generating unit or a
+                                single operation within an entity,
+
+
+    1.2 Recognition [77ixt]
+@       the asset must be available for immediate sale in its present condition
+@)      the sale must be “highly probable” :
+¢ management are committed to a plan to sell the asset
+e     the price is reasonable
+。     there is an active program to locate a buyer
+。 the sale is expected to be completed within 12 months of its classification as held for sale
+。     itis unlikely that the plan will be significantly changed or will be withdrawn.
+
+
+1.3 Measurement
+Non-current assets that qualify as held for sale should be measured at the lower of their carrying amou
+
+and FV-CTS (#it]
+持 有 待 售 资产 需要 以 账面 价值 和 可 变现 金额 两 者 中 较 低 金 额 来 计量 ， 遵 循 谨慎
+                                                          性 原则 。 当 账面 价
+小 于 可 变现 金额 时 ， 资 产 仍 以 账面 价值 计量 ， 未 发 生 减 值 。 当 可 变现 金额 小 于 账面 价值 时 ， 资 产
+可 变现 金额 计 和 量 ， 发 生 的 减 值 损失 确认 在 当期 损益 中 SPL， 属 于 经 营 活动分 类 。
+
+
+
+                                                        Carrying amount
+
+
+                                            |                                ]
+                                   Lower than FV - CTS               Higher than FV - CTS
+
+
+
+
+                                      | No change   |           [ Recognise impairment loss |
+
+
+                                                                50
+
+
+========== PDF 第 2 页 / 共 50 页 ==========
+
+                                                                                                                          HPtTane
+
+同时
+ 在 编制 报表 时 ， 需要 注意 ;
+@     Assets     classified    as held   for sale   must   be   presented   separately   on   the   face        of the statement of
+      financial position.       区 别 于 其 他 资产         单独 列 报
+@     Once anon-current asset has been classified as held for sale, it should cease to be depreciated /amortized
+
+      一 且 归 类 为 持 有 待 售 ， 资 产 停止 折旧 或 摊 销
+
+
+2. Discontinued operation
+
+
+2.1 Scope【 背 过 】
+A discontinued operation is a component of an enterprise that either has been disposed of, or is classified as
+held for sale 范围如 下 :
+
+@®    aseparate major line of business
+@     geographical area of operations
+@     is part of a single co-ordinated plan to dispose of a separate major line of business or geographical area
+      of operations
+@®    isa subsidiary acquired exclusively with a view to resale
+
+
+
+
+2.2 Presentation
+
+企业
+ 在 编制 报表                  时 ， 需 要 在 利润 表 中 新 增 “ 停 止 经 营 " 分 类 :
+
+
+Statement of profit or loss and other comprehensive income for the year ended 31/12/2025
+
+
+
+                                                                                                      9 000         |
+                       Sales revenue                                                                       Xx
+                       Less: Cost of sales                                                             (X)
+
+                       Gross profit 毛利 润                                                                   x
+
+                      Add: Other operating income                                                          X
+
+     Operetiog         Less:   Operating expense
+
+                                Selling expense                                                        (X)
+
+                                Research and development expense                                       (X)
+
+                                General administrative expense                                         (X)
+
+                                Other operating expense                                                (X)
+
+                      Operating profit 经 营利 润 〈 新 增 )                                                      X
+
+                                                                 51
+
+
+========== PDF 第 3 页 / 共 50 页 ==========
+
+                                                                                                 HA Tane
+
+                      Share of profit of associate                                        x
+      Investing
+                      Investment income                                                   X
+
+                      Profit before financing and income tax 息 税 前 利润                     4
+
+                      Interest expense from borrowing and lease liability                 (X)
+      Financing
+                      Interest expense on provision                                       (X)
+
+                      Profit before income tax BLAT ANA                                   x
+
+      Income tax    —_ Income tax expense                                                 (X)
+
+                      Profit from continuing operation 持续
+                                                        经 巷 净 利润
+
+     Discontinued
+
+                      Profit =A}      Fl] jig
+
+
+
+                      Other comprehensive income:
+
+                      Revaluation gain under revaluation model (netted off tax effect)     x
+
+                      Gain or loss of FVTOCI                                             X/(X)
+                      Total comprehensive income                                          XX
+
+
+
+
+UW 考点 : 利润表 中 Profit or loss from discontinued operation
+                                                      U4 :
+@      The profit or loss made by the discontinued operation
+@      The loss on classification as held for sale
+@)     The profit or loss on disposal of the net asset
+
+需要       注意 ， 以 上 科目          计算 过          程 ， 以 及 停止 经 营 今年 产生 的 收入 ， 成 本 ， 费 用 和 利润 需要 披露 在 附注
+Notes中 。
+
+
+
+
+                                                              52
+
+
+========== PDF 第 4 页 / 共 50 页 ==========
+
+                                                                                                       KA Tane
+
+【经
+ 典 例题 】
+1. 2014
+     年 12 月 真题
+      As at 30 September 2013 D company’s property in its financial statements was:
+      Property at cost ( useful life is 15 years)   $45m
+      Accumulated depreciation
+      On 1 April 2014, D decided to sell its property. The property its being marketed by a property agent at a
+      price of $42m, which was considered a resealable achievable price at that date. The expected costs to sell
+      have been agreed at $1m. Recent market transaction suggests hat actual selling price are 10% less than
+      the original price. At 30 September 2014 the property has not been sold.
+
+
+      At what amount should the property be reported in financial statements as at 30 September 2014?
+
+
+            $36m
+      DP    $37.5m
+            $36.8m
+      59a   42m
+
+
+
+
+2. 2024
+      年 12 月 模拟 卷
+Greek Co, a company with a 31 December financial year end, decided to sell one of its buildings on 1
+October 20X8 and immediately started to market it for sale at its fair value. A potential buyer has been found
+to purchase the building in its current condition.
+                                                The building is ready for immediate transfer to the buyer as
+soon as price negotiations are complete and the sale is expected to take place in early 20X9.The following
+information is relevant to the building at 31 December 20X8.
+
+     Carrying amount at 1 October 20X8                      $500,000
+
+     Fair value at 1 October 20X8                           $525,000
+
+     Fair value at 31 December 20X8                         $505,000
+
+     Costs to sell                                          $70,000
+
+At what amount should the building be measured in Greek Co's statement of financial position at 31
+December 20X8?
+A.      $500,000
+B.      $435,000
+C.      $505,000
+D.      $450,000
+
+
+Answer:           CB
+
+
+
+
+                                                           53
+
+
+========== PDF 第 5 页 / 共 50 页 ==========
+
+                                                                                                              HA   Tore
+
+
+IAS 41 Agriculture
+
+
+1.     Definition      【和 背 过 ]】
+
+
+
+       Biological assets           are living animals or plants
+
+                                   animals or plants bear products           for harvest eg dairy cattle, grapevine.
+             Bearer                (These assets should be accounted for under IAS 16) 属于 IAS 16 准则分 类 ， 考
+
+                                   过 一 次 准则分 类
+                                   is the detachment of produce from a biological asset or the cessation of a
+             Harvest               biological asset’s life processes      收获 指 农产品 从 生物          资产 上 的 分   离 ， 或 生物
+
+                                   资产
+                                    的 生长 过 程 的 结束
+                                   the harvested product of an entity’s biological assets 农产品
+                                                                                            指 生物 资产 的 收获
+     Agriculture produce
+                                   Lm
+                                   hn
+
+                                   the processes go growth, degeneration, production and procreation that cause
+
+       tte             ion         qualities and quantitative changes in a biological asset 生物 转化 指 生物 资产 生
+
+                                   te, SAS, Ae, SAAR                     LOR]
+
+
+
+2. Recognition
+A biological assets or agriculture produce is recognised when:
+
+(1) The entity controls the asset
+(2) It is probable that future economic benefits associated with the asset will flow to the entity
+(3) The fair value or cost of the asset can be measured reliably
+
+
+3. Measurement
+Biological assets within the scope of IAS 41 are measured on initial recognition and at subsequent reporting
+
+dates at:
+
+@      Fair value less estimated costs to sell 【首选 】
+
+@      Cost - accumulated depreciation - impairment loss【              公 人允 价 值 无法 可 靠 计 量 时 】
+
+
+     【注意 】
+@      Changes in FV-CTS of biological assets during a period, are included in profit or loss，           属 于 经 营 活动
+
+       BR.
+
+                                                                  54
+
+
+========== PDF 第 6 页 / 共 50 页 ==========
+
+                                                                                                         WATane
+用 *FV- CTS"
+         方 法 来 计量 ， 企 业 需 要 在 每 车 年 底 对 生物 资产                             的 价值 重新      计量 ， 以 确保 其 价值 的 准确
+性 。 这 之 间 生 物资 产 价值 的 变化 〈 增 加 或 减少 ) 金额 ， 应 该 计 入 当期 损益 SPL， 属 于 经 营 活动分 类 。
+在这 里 的 cost to sell 包括 : 支付 给 经 纪 人 或 经 销 商 的 手续 费 或 中 介                           费 ， 管 理 机 构 和 商品 交易 所 的 征
+R, RA.
+@) Agricultural produce is measured at fair value less estimated costs to sell at the point of harvest. 丰收 农
+
+       副产品       按照 丰收        当日 的 FV-costto sell 计量
+图      Again or loss agricultural produce at fair value less costs to sell are included in profit or loss. 生物 资产
+
+       BOAR BP GAT ZS AE                 SHA         A SPL
+
+
+
+
+     【经
+      典 例题 】
+1、2021
+    年 12 月 模拟 卷
+      At 31 March 20X4, Shaw Co had a flock of sheep, included in the financial statements at $400,000. At
+      March     20X5,    the flock of sheep has a fair value of $480,000. If Shaw     Co sold the flock of sheep,
+       commission of 4% would be payable.
+
+
+       Which of the following describes the correct accounting treatment for the flock of sheep at 31
+       March 20X5?
+
+
+            Measure the flock at $480,000 and included the gain in the statement of profit or loss
+
+
+
+
+     vow>
+            Measure the flock at $460,800 and included the gain in the statement of profit or loss
+            Measure the flock at $480,000 and included the gain in the other comprehensive income
+            Measure the flock at $460,800 and included the gain in the other comprehensive income
+
+
+
+
+2.     At what amount is a biological asset measured on initial recognition in accordance with IAS 41
+       Agriculture?
+
+
+            Production cost
+
+
+
+
+     vaw>
+            Fair value
+            Cost less estimated cost to sell
+            Fair value less estimated cost to sell
+
+
+
+
+                                                             55
+
+
+========== PDF 第 7 页 / 共 50 页 ==========
+
+                                                                                               OATons
+
+3. Which of the following is NOT the outcome of a biological transformation according to [AS 41?
+
+   A. Growth
+   B.    Harvest
+   C.    Procreation
+   D. Degencration
+
+
+4. How is a gain or loss arising on a biological asset recognized in accordance with IAS 41?
+
+
+         Included in profit or loss for the year
+
+
+
+ TOD >
+         Adjusted in retained earning
+         Shown under “other comprehensive income”
+         Deferred and recognized over the life of the biological asset
+
+
+
+
+Answer:       BDBA
+
+
+
+
+                                                        56
+
+
+========== PDF 第 8 页 / 共 50 页 ==========
+
+                                                                                                              数 丹 Jawe
+
+                                                  第五 章 租赁
+IFRS 16 Leases
+
+
+1. Definition
+
+A contract is, or contains, a lease if the contract conveys the right to control      the use of an identified asset for
+a period of time in exchange for consideration.
+
+
+
+
+                           @   The right to obtain substantially all of the economic benefits from use of the
+
+    Right to control            identified asset 有 权 获得 租赁          资产 所 带 回 的 经 济 利益
+                           @    The right to direct the use of the identified asset     有 权 决 定 租赁 资产 的 使 用
+
+
+
+
+                           Supplier cannot substitute the underlying asset
+
+    Identified assets    | 租赁      资产 必须 是 一 个 指定           资产   ，如 果 在 租       期 内 ， 出 租 人 可 以 任意 替换 租赁
+
+                           资产 ， 则 不 构成              租赁 合同 的 定义
+
+
+
+
+1.2 Exemption from IFRS 16
+
+
+                                         With IFRS 16                       Exemption
+
+ Right of use assets                          J                                 x
+
+ Lease liability                              J                                 x
+
+ Interest expense                             J                                 x
+
+ Depreciation                                 J                                 x
+
+                               本 质 为 分 期 还款 :                            费用 :
+                                                                  本 质 为 租金
+ lease payment                 Dr lease liability                 Dr Rent expense
+                               Cr Cash                            Cr Cash
+
+
+                                                          57
+
+
+========== PDF 第 9 页 / 共 50 页 ==========
+
+本 准则 人 允许 以 下 两 种 租赁 合 同享 有 肉免 权
+
+     短期 租赁 Short-term leases       “| Lease term less than 12 months
+
+
+
+
+                                     The underlying asset has a low value when new:
+
+                                     @    The lease can benefit from using the underlying asset. 租赁 具
+
+                                          有 实质 经 济 含义
+      低价 租赁 Low value leases
+                                     @)   The underlying asset is not highly dependent on, or highly
+
+                                          interrelated with, other assets. 租赁    资产 不 得 与 其 它 资产 有 内
+
+                                          在高 度 联系
+
+
+
+    [YER]   Lessee shall recognize the lease payments as an expense in SPL on a      straight-line basis over the
+
+lease term 承租 方 需要 按照 "直线 法 ”确认 为 费用
+
+
+
+2. Initial measurement
+
+
+2.1 Lease liability
+At the commencement date, a lessee shall measure the lease liability at the present value    (PV)   of the future
+
+lease payments, including any expected payments at the end of the lease, discounted at the interest rate
+implicit in the lease.
+
+
+@     考点 : Any deposits paid to secure the lease are not future payments and should not be included. 押金 或
+
+      首付 不 计 入 租赁 负债
+
+2.2 Right-of-use assets
+At the commencement date, the right-of-use asset is measured at cost.
+
+
+Cost = Initial payment + Lease liability + directly attributable cost - incentive received + dismantling cost
+
+OW AAR: 押金 或 首付 需要 计 入 使 用 权 资 产 初始 计量 价值
+
+租赁 初始分 录 ，
+Dr Right-of-use asset                                       X
+Cr. Lease liability (PV of future lease payment)            xX
+
+                                                       58
+
+
+========== PDF 第 10 页 / 共 50 页 ==========
+
+                                                                                                            HATane
+Cr. Cash (Initial deposit + direct cost - incentives)                 X
+
+Cr. Provision (IAS 37 弃置成 本 )                                         x
+
+
+
+
+3. Subsequent measurement
+
+
+3.1 Lease liability
+
+Lease liability will subsequently:
+
+~ Be decreased due to lease payments made
+- Be increased due to interest accrued on the outstanding liability
+
+
+ (1)           Payment in advance 提前还 款
+
+
+     Year          OP vcr        a       Payment         Balance             Interest                 eae
+
+
+       1                PV                 (X)              xX                   x                     X
+
+                                                             4
+      2                     x              (x)       (Current liability)         -                     -
+
+还款 分 录:
+Dr Lease liability               X
+Cr Cash                          x
+
+
+
+A AR:
+Dr Finance cost                  x
+Cr Lease liability               X
+
+
+     (2) Payment in arrears 滞后还 款
+
+                   Opening lease                                                ，         vee
+     Year             liability           Interest       Payment           Closing lease liability
+
+
+           ]            PV                   xX             (X)                         x
+
+
+                            xX               xX              xX
+       2                                                    (X)              (Current zm liability)
+
+利息             及 还 款 分 录 :
+Dr Finance cost                      x
+Dr Lease liability                   X
+Cr Cash                              X
+
+
+
+                                                                 59
+
+
+========== PDF 第 11 页 / 共 50 页 ==========
+
+                                                                                                                AA Tone
+ O 考点:         今年 的 NCL 即 下 一 年 还 款 之 后 的 余额
+
+
+      【注意 】
+"租赁        负债 金额 需要 区 分 为 NCL 和 CL
+。Interest 作为 费用 确认 进 当 期 损益 SPL 中 Interest expense，                    属 于 融资 活动 分 类
+“使       用 权 资产 可 以 与 PPE 合 并 列 示 ， 也 可 以 单独列 示 ， 但 如 果 使 用 权 资产 属于 投资 性 房地产 ， 则 必须
+      与 投资 性 房地产
+               合并 列 示 。
+
+3.2 Right-of-use asset
+After the commencement date, the right-of-use asset should be measured using the cost model in IAS 16,
+unless it is an investment property:
+
+
+                                                                  Cost model                 _--------,
+
+                                                 IAS 16                                      1 Depreciation |
+                                                                   Revaluation model         =      -===— ;
+_ RightoFus              asset
+
+                                                 IAS 40            Fair value model
+
+
+
+
+                情况                                             折旧 要 求 【 背 过 ]
+         Transfer ownership       depreciated over the useful life of the underlying asset.
+
+
+                            .     depreciated from the commencement            date to the earlier of the
+        No transfer ownership
+                                  end of the useful life and the end of the lease term.
+
+
+
+
+注意 : 使 用 权 资 产 的 折旧 属于 经 营 活动 分 类 。
+
+
+4. Sale and Jeaseback
+
+                                       Sales :    是 否     满足 IFRS 15
+
+
+                                                                       >
+                Seller                                                                  Buyer
+
+
+
+
+                                                 Lease back
+
+                                                          60
+
+
+========== PDF 第 12 页 / 共 50 页 ==========
+
+                                                                                              RKATane
+
+如 果 销 售 满足 IFRS 15 要          求 ， 即 转移 资产 控制 权 给 客户 ， 卖 家 需要 计算 :
+
+                                      Carrying amount      * Lease liability
+         ROU assets                                             Fair value
+
+
+
+  Net    profit on disposal
+                                     Total profit *   (1 - Lease liability)
+  =                   P                                       Fair value
+
+
+
+
+REE
+" 当 资 产 售 价 高 于 公允 价值            时 ， 仍 用 公允 价值        参与 上 述 公 式 计 算 ， 售 价 比 公允 价值 高 出 的 部 分 确认
+ 为      额外 借款
+* 如果 销售         不 满足 IFRS15
+                         要 求 ， 即 没有 转移 资产 控制                      权 ， 则 此 交易 属于 “销售 以 及 回 租 "， 不 需要 计
+ 算上 述 科 目 ， 但 需要 将 收 款 金额 确认 为 抵押 借款                       ，即 :
+ Dr Cash          x
+ Cr Liability    X
+
+
+
+
+                                                      61
+
+
+========== PDF 第 13 页 / 共 50 页 ==========
+
+                                                                                         |
+
+
+
+                                                                                                       RATane
+     【经 典 例题 】                                                                                                     |
+1. 根据 2022 年 真题 改编
+      ABC entered into a short-term lease with 12 months on | September 20X3:
+      First 4 months:      lease payment is $250,000 per month
+
+      Last 8 months:       lease payment is $280,000 per month
+
+
+      What amount will be charged in Statement of profit or loss for the year ended 31 December 20X3?
+      $
+
+
+
+
+2.        Pebworth Co acquired an item of plant under a lease on 1 April 20X7. The present value of the future
+          lease payments and the carrying amount of the right of use asset was $15,462,000 and three further
+          payments of $6m per annum are due to be paid in arrears on 31 March each year. The useful life of the
+          plant is deemed to be five years. There is no option to buy the asset at the end of the lease term.The
+          implicit interest rate is 8%.
+          What is the total charge to profit or loss in respect of this lease at 31 March 20X8?
+
+
+
+
+     3. During the year ended 30 September 20X4 Hyper Co entered into the following transactions:
+
+
+      On 1 October 20X3 Hyper Co acquired under a lease to obtain a right of use asset which was initially
+      measured at $340,000. Under the term of the lease, a payment in advance of $90,000 was made on
+      commencement of the lease, being the first of 5 equal annual payments. The right of use asset has a 5-
+      year useful life. The lease has an implicit interest rate of 10%.
+
+
+      On J August 20X4, Hyper Co made a payment of $18,000 for nine month lease of an item of equipment.
+      Hyper wishes utilize the exception available under IFRS 16.
+
+
+      What amount in total would be charged to Hyper Co’s statement of profit or loss for the year ended
+      30 September 20X4 in respect of the above transaction?
+
+                                                            62
+
+
+========== PDF 第 14 页 / 共 50 页 ==========
+
+                                                                                                     HATane
+
+
+
+
+4+.      An initial payment $100,000 is made on | April 20X7 by Fino Co and the present value of the future
+         lease payment at that date is $173,500, Payments in respect of the lease are made in advance and are
+         $100,000 per annum, commencing on 1 April 20X8, Fino Co incurred initial direct costs of $20,000 to
+         set up the lease and received Icase incentive from the manufacture totaling $7,000.
+
+
+        What is the initial cost of right of use assets as at 1 April 20X77
+
+
+               $293,500
+
+
+
+
+       908 >
+               $186,500
+               $313,000
+               $286,500
+
+
+
+
+      Answer: 1080000,     6390960,     97000,    D
+
+
+
+                                                            63
+
+
+========== PDF 第 15 页 / 共 50 页 ==========
+
+                                                                                                         RH ATane
+
+                                     BAR            预计 负债 和 或 有 事项
+
+IAS 37 Provision and contingencies
+
+1. Provision
+
+
+1.1 Definition
+A provision is a liability of uncertain timing or amount.
+
+
+1.2 Recognition
+@      Anentity has a present obligation (legal or constructive) as a result of a past event
+
+A legal obligation:
+    » A contract
+    » Legislation or law
+
+
+A constructive obligation:
++ By an established pattern of past practice or published policies, he entity has indicated to other parties
+
+      that it will accept certain responsibilities; and   来 源 企 业 过 去 惯例 或 新 公布 的 企业 政策
+
+    。As a result, the enterprise has created a valid expectation 创造 有 效预 期
+
+
+
+@       Itis probable that an outflow of economic benefits will be required to settle the obligation
+@      Areliable estimate can be made of amount of the obligation.
+
+
+    【注意 】 如 果 不 满足 三 个 条 件 ， 此 事件 直接 确认 为 或 有 负债 进行 披露
+
+
+
+1.3 Measurement
+
+                       One-off events                              Regular and large population events
+
+         oo,                              ，                Provision   is measured    at a probability-weighted
+    Provision is measured at the most likely amount
+                ;                                          average expected value
+    E.g. Lawsuit
+                                                           E.g. Warranty and customer refund
+
+
+
+
+                                                           64
+
+
+========== PDF 第 16 页 / 共 50 页 ==========
+
+                                                                                                        RA Tane
+
+ 首次 确认 :                                年 末 预 计 负债增加 !                     年 末 预 计 负 侦 减少 ;
+Dr Expense           X                  Dr Expense          X              Dr Provision         4
+Cr Provision         X                  Cr Provision        X              Cr Expense           xX
+
+ 考点 : 费用 确认 进 SPL，            属 于 经 营 活动分 类 ， 对 于 重大 且 一 次 性 费用 需要 单独 列 示
+
+
+ 【注意 】 对 于 某 些 预 计 负 债 情 议 之 下 ， 我 们 会 收 到 第 三 方 补偿 ， 例 如 当 我 们 上 过 保险                               就 会 收 到 保险
+公司 的 补偿        ， 补 偿 金额
+                      不可 与 provision
+                               进 行 抵 减 合并
+
+
+2. Application of provision
+
+
+
+         事件                                                      含义
+                         A warranty is often given in manufacturing and retailing business. Entity has the
+      Warranty           present obligation to make good or replace faulty products
+
+                         OBR:           只 有 产品 维 保 预 计 负 债 才 需 要 用 加 权 平 均 期 望 值 计 最
+                         Third party reach an court action against us for calming the damages
+
+       Law suit          O 考点 : 是 否 产生 预计 负债 需要 看 付款 可 能 性 是 否 为 很 有 可 能 ， 如 果 不
+                              是 ， 则 确认或 有 负债
+                         Restoration of site for damage caused by the plant’s operation:
+    Environmental
+    -Clean up cost       Dr Expense (经 营 活动分 类 )
+                         Cr Provision
+
+                         Restoration of site for damage caused by construction and dismantling or removal
+                         of plant:
+
+                         第 一 步 : 折 现 计算
+                                      现 值 PV:
+                         DrNCA (资本
+                                化 为 资产 价值 ， 并 跟随 资产 折旧 ， 属 于 经 营 活动分 类 )
+    Environmental-
+                         Cr Provision
+   Dismantling cost
+
+
+                         第 二 步 : 年 末 展 开 产 生 利息 :
+                         Dr Interest expense ( 计 入 SPL 属 于 融资 活动 分 类 )
+                         Cr Provision
+
+                         Contract in which the unavoidable costs of meeting the obligations under the
+  Onerous contracts
+                         contract exceed the economic benefits expected to be received under it.
+
+
+
+
+                                                       65
+
+
+========== PDF 第 17 页 / 共 50 页 ==========
+
+                                                                                                         人 敬 丹 Jore
+
+                          企业 重组 范围 ，
+                          @       The sale or termination of a line of business
+                          @       The closure of business locations in a country or region
+                          @_ business activities from one country region to another
+                          @® Changes in management structure
+                          ©       Fundamental reorganizations that have a material effect on the nature and
+                                  focus of the entity’s operations.
+
+     Restructurings      | 计 提 预计 负债条 件 : (HR)
+                          四       Entered into a binding contract (如 果 涉 及 售卖          资产 ， 非 常规条 件)
+                              @   Has a detailed formal plan
+                              @   Has raised a valid expectation by staring to implement that plan or announcing
+                                  its main features to those affected by it
+
+                              确认 :
+                              Dr Expense 〈 计 入 SPL，       属 于 经 营 活动 分 类 )
+                              Cr Provision
+
+
+
+
+3. Contingent liability
+
+
+或有 负债 有 两 种 :
+@    Definition:   A possible obligation that arises from past events and whose existence will be confirmed
+     only by the occurrence or non-occurrence of one or more uncertain future events not wholly within the
+     control of the enterprise; or
+
+
+@)   Apresent obligation that arises from past events but is not recognized as provision because:
+
+* It is not probably that an outflow of resources,        or
+
+¢ The amount of the obligation cannot be measured with sufficient reliability
+
+
+
+     未 来 经 济 利益 流出 可 能 性                               确认                           处 理 方式
+          Virtually certain                          Liability                        SOFP
+             Probable                                Provision                        SOFP
+
+              Possible                         Contingent liability                  Disclose
+
+              Remote                           Contingent liability                   Ignore
+
+
+
+                                                               66
+
+
+========== PDF 第 18 页 / 共 50 页 ==========
+
+                                                                                                        KA Tone
+4. Contingent asset
+
+
+Definition:
+
+Contingent asset is a possible asset that arises from past events and whose existence will be confirmed only
+by the occurrence or non-occurrence of one or more uncertain future events not wholly within         the control
+of the enterprise.
+
+
+
+
+      未 来 经 济 利益 流 入 可 能 性                               确认                              处 理 方式
+              Virtually certain                         Assets                             SOFP
+
+                  Probable                        Contingent assets                       Disclose
+
+                  Possible                        Contingent assets                        Ignore
+
+                  Remote                          Contingent assets                        Ignore
+
+
+
+
+  [4p a)
+I、2019
+     年 6 月 考官 报告
+
+    During the year Peterlee Co acquired an iron ore mine at a cost of $6m. In addition, when all ore has been
+     extracted (estimated ten years’s time) the company will face estimated costs of landscaping the area
+     affected by the mining that have a present value of $2m. These costs would still have to be incurred even
+     if no further ore was.
+
+
+     How should $2m future costs to be recognized in the financial statements?
+
+
+            Provision $2m and $2m capitalized as part of the cost of mine
+
+
+
+
+  vu oOD>
+            Provision $2m and $2m charged to operating costs
+            Accrual $200,000 per annum for next ten years
+            Should not be recognized as no cost has yet arisen
+
+
+2. 2019
+      年 6 月 考官 报告
+     Flute Co undertakes drilling activities and has a widely published environmental policy stating that it will
+     incur costs to restore land to its original condition once drilling activities have been completed. Drilling
+     commenced on a particular piece of land on 1 July 20X8. At this time, Flute Co estimated that it would
+     cost $3m to restore the land when drilling was completed in five year’s time. Flute Co’s cost of capital is
+     7% and appropriate present value factor is 0.713.
+
+                                                            67
+
+
+========== PDF 第 19 页 / 共 50 页 ==========
+
+   At what amount will the provision for restoration costs be measured In Flute Co’s statement of
+   financial position as at 31 December 20X8?
+
+
+   A. $2.4m
+   B.   $3m
+   C.   $2.29m
+   D. $2.21m
+
+
+
+3. Identify wether the following statements are true or false
+
+ Provision should be made for both constructive and legal obligation               TRUE   FALSE
+
+ Discounting may be used when estimating the amount of a provision                 TRUE   FALSE
+
+ A restructuring     provision must include the estimated costs of retraining or
+        a                                                                          TRUE   FALSE
+ relocating continuing staff
+ A restructuring provision may only be made when a company has a detailed
+ plan for the restructuring and has communicated to interested parties a firm}     TRUE   FALSE
+ intention to carry it out
+
+
+
+
+ Answer:      A D true true false and true
+
+
+
+
+                                                        68
+
+
+========== PDF 第 20 页 / 共 50 页 ==========
+
+                                                                                                  LP Tone
+
+                                      第七 章 企业
+                                            所 得 税
+IAS 12 Income tax
+
+
+1. Current tax 当期
+                所 得 税
+
+
+
+LI 当期
+    税费预 估
+Dr Tax expense           xX
+Cy Tax payable (CL)      xX
+
+
+1.2 KERR:
+
+去年 低估 Under provision-Debit balance on trial balance，          调 增 今 年税 费
+
+去年 高 估 Over provision-Credit balance on trial balance:         调 减 今年税 费
+
+
+
+    [Example]
+
+    Trial balance                       Dr               Cr
+
+    Current tax                                          400
+
+
+
+A provision for the current tax for the year ended 3] March 2015 of $3,500 is required. What is the current
+
+tax expense?
+$
+
+
+Answer: 3100
+
+
+
+
+                                                    69
+
+
+========== PDF 第 21 页 / 共 50 页 ==========
+
+                                                                                                           HATane
+2. Deferred tax jE    779 BE
+
+                               Deferred tax assets are the amounts of income taxes recoverable in future
+     ARENAS EP                 periods in respect of deductible temporary difference
+
+                               根据 可 抵 扣 暂时 性 差异 计算 的 未 来 可 收回 所 得 税金 客
+                               Deferred tax liability are the amounts of income taxes payable in future periods
+ 递延 所 得 负债      【 背过 】         in respect of taxable temporary difference
+
+                               根据 应 纳 说 暂时 性 差异 计算 的 未 来 应 负 所 得 税金 额
+                               Temporary differences are differences between the carrying amount of an asset
+       暂时 性 差异                 or liability and its tax base for temporary
+                                                                                                               一   一 一
+
+                               Taxable temporary differences are temporary differences that will result in
+                               taxable amounts in determining taxable profit of future periods when the
+   应 纳税      暂时 性    差异        carrying amount of the asset or liability is recovered or settled
+
+                               在 未 来 收回 或 清偿 资产 或 负债 时 ， 会 导致 未 来 纳税 利润 暂时 性 增加 的 差
+                               异出 现
+                               Deductible temporary differences are temporary differences that will result
+                               in amounts that are deductible in determining taxable profit of future periods
+   可
+   抵 扣 暂时 性          差异        when the carrying amount of the asset or liability is recovered or settled.
+
+                               在 未 来 收回 或 清偿 资产 或 负债                    时 ， 会 导致          未 来 纳税 利润 临时 性 抵 扣 的 差
+                               异出 现
+        账面    价值               Carrying amount of assets or liability
+
+                               Tax Base is the amount attributed to an asset or liability for tax purposes
+   POBEARR CARED) 指 计 税 时 归属 于 该 资产 或 负债 的 金额
+
+ 【注意 】 本 准则 内 的 资产 和 负债 如 果 同 时 出 现 ， 不 允许 抵消
+
+
+
+                                                  | 暂时 性 差异
+
+
+                                | smeemsieaes |                  | mracintmmiteae |
+
+                                   Deferred tax liability           Deferred tax assets
+
+
+
+
+                                                            70
+
+
+========== PDF 第 22 页 / 共 50 页 ==========
+
+                                                                                                 KA Tane
+3.1 Deferred tax liability
+
+
+
+ Carrying amount + Revaluation gain                                    xX
+
+ Less: Tax base                                                     (X)
+ Taxable temporary difference + Revaluation gain                     xX
+
+ Tax rate                                                           *%
+
+ DTL closing                                                           X
+
+ DTL opening                                                        (X)
+
+ DTL movement                                                      X/(X)
+
+
+
+
+                       DTL 增加                                                    DTL 减少
+ Dr OCIRS【        重 估 增 值 * 税率 】         X                 DrOCIRS【〖        重 估 增 值 * 税率 】   X
+ Dr or Cr Tax expense【 倒 推 】             X                 Dr Deferred tax liability         X
+
+ Cr Deferred tax liability               x                 Cr Tax expense【〖 倒 推 】            X
+
+
+  DER
+。 一 般 情 况 ， 由 折旧 引起 的 DTL 变 化 记 入 当期 损益 SPL 中 的 企业 所 得 税 费 用 科目 tax expense
+© 如 果 由 增值 引起 的 DTL 变 化 部 分 需要 记 入 其 他 综合 性 收益 0CI 中 跟 revaluation gain 抵 扣 ， 同 时
+  revaluation surplus
+                  也 须 相 应抵 扣
+
+
+
+3.2 Deferred tax assets
+
+
+
+ Carrying amount - Impairment                        X
+
+ Less: Tax base                                     (X)
+ Deductible temporary difference                    (X)
+
+ Tax rate                                           *%
+
+ DTA closing                                         X
+
+ DTA opening                                        (X)
+
+ DTA movement                                      X/(X)
+
+
+========== PDF 第 23 页 / 共 50 页 ==========
+
+                                                                                                        GF
+                                                                                                         ES avs
+
+                      DTA 增加                                             DTA 减少
+Dr Deferred tax asscts            X                  Dr Tax expense                           xX
+Cr Tax expense                    X                  Cr Deferred tax assets                x
+
+
+
+
+【经 典 例题 ]
+
+1. 2010年 12 月
+
+Trial balance $°000                                   Dr                                   Cr
+
+Current tax                                          900
+
+Deferred tax                                                                             4,000
+
+A provision for the income tax is $5.6m. The balance on the current tax represents the over/under provision
+of tax for the previous year. At year end, the tax base of assets was $15m less than their carrying amounts.
+The income tax rate is 25%.
+
+
+
+
+2. 201224123
+
+ $°000                                               Dr                                  Cr
+
+ Current tax                                        1,100
+
+ Deferred tax                                                                           1,200
+
+The balance on the current tax represents the over/under provision of tax for the previous year. A provision
+for income tax for this year is $7.4m. At year end , the taxable temporary difference was $5m. The income
+tax rate is 20%.
+
+
+
+
+                                                       72
+
+
+========== PDF 第 24 页 / 共 50 页 ==========
+
+                                                                                                                BATane
+        3. 2015476
+        $000                                                 Dr                                   Cr
+        Current tax                                                                              400
+         Deferred tax                                                                           2,700
+
+        A provision for the income tax for this year is $3.5m.The balance on the current tax represents the over/under
+    |   provision of tax for the previous year, At year end, the tax base of assets was $12m less than the carrying
+|       amounts. The income tax rate is 25%,
+
+
+|
+|
+
+
+
+
+        4. 2012366 ***
+
+         $000                                                  Dr                                  Cr
+
+          Current tax                                         800
+
+          Deferred tax                                                                           3,200
+
+         The income tax calculation for this year shows a tax refund of $2.4m. The balance on the current tax
+         represents the over/under provision of tax for the previous year. At year end the taxable temporary
+         differences of $12m is required. The income tax rate is 25%.
+
+
+
+
+          5. 2011 年 6 月
+
+           $7000                                              Dr                                 Cr
+
+           Current tax                                                                           800
+
+           Deferred tax                                                                         2,600
+
+
+
+
+                                                                    73
+
+
+========== PDF 第 25 页 / 共 50 页 ==========
+
+                                                                                                         HA Tone
+The balance on the current tax represents the over/under provision of tax liability for the last year. The
+required provision for the income tax for this year is $19.4m. The difference between the carrying amount of
+assets (including revaluation surplus $15m ) and their tax base is $27m. The income tax rate is 25%
+
+
+
+
+6. 20144F12
+
+ $000                                               Dr                                 Cr
+
+ Current tax                                                                          1,100
+
+ Deferred tax                                                                         2,500
+
+A provision of $2.4m is required for the current income tax, The balance on the current tax represents the
+over/under provision of tax for the previous year. In addition to the revaluation surplus of $12m, further
+taxable temporary differences is $10m. Tax rate is 20%.
+
+
+
+
+ 7, 2016469 A
+
+  $000                                              Dr                                   ce
+
+  Current tax                                       700
+
+  Deferred tax                                                                         3,200
+
+ A provision of $2.7m is required for this year. The balance on the current tax represents the over/under
+ provision of tax for the previous year. In addition to the revaluation surplus of $7.8m, the carrying amounts
+ of assets are $12m more than their tax base. The income tax rate is 20%.
+
+
+
+
+                                                         74
+
+
+========== PDF 第 26 页 / 共 50 页 ==========
+
+                                                                                                       KAT ane
+
+
+
+
+ 8. 20134612
+
+ $’000                                               Dr                                  Cr
+ Current tax                                                                            1,050
+
+ Deferred tax                                                                          8,000
+
+A provision for income tax for this year is $3.4m. The balance on the current tax represents the over/under
+provision of tax for the previous year. At year end, the tax base of assets was $24m less than their carrying
+amounts. This does not include the revaluation surplus of $4.4m.The income tax rate is 25%
+
+
+
+
+ 9. 2016
+       年 12 月 真题
+The company     revalued an office. The office had been purchased for $500,000 earlier in the year, but
+ subsequently discovery that its revalued to $400,000. No depreciation is charged and the income tax rate is
+ 30%.
+ In accordance to IAS 12, what is the impact of impairment of property on the tax expense?
+
+
+       Tax expense increase by $180,000
+
+
+
+
+DADS
+       Tax expense increase by $120,000
+       Tax expense decrease by $30,000
+       No impact
+
+
+
+
+                                                          75
+
+
+========== PDF 第 27 页 / 共 50 页 ==========
+
+                                          GL} Tane
+
+
+
+Answer:
+
+      题号               Tax expense
+
+          _               6250
+
+          NY              8300
+                          3400
+
+
+
+
+                 WY
+              tk
+
+          wonaun
+                      1800
+                        Tax income
+
+                          19000
+
+
+
+
+           0
+
+
+
+
+                                     76
+
+
+========== PDF 第 28 页 / 共 50 页 ==========
+
+                                                                                                         BHATane
+
+                                              第 八 章 金融 工具
+
+- JAS 32 Financial instruments: Presentation
+- IFRS 9 Financial instruments
+
+
+                          A financial instrument is any contract that gives rise to a financial asset of one
+ Financial instrument
+                          entity and a financial liability or equity instrument of another entity.
+
+                          A financial asset is any asset that is:   ( 考 过 )
+
+                          @      Cash
+                          2)     An equity instrument of another entity
+                          @      Acontractual right to receive cash or another financial asset from another
+                                 entity
+                          ®      A contractual right to exchange financial instruments with another entity
+   Financial assets                          ，，
+                                 under conditions that are potentially favorable
+
+
+                          E.g.
+                          * Trade receivables
+
+                          * Investment in equity shares [ordinary share and preference share]
+                          ¢ Investment in loan notes
+                          。 Investment in convertible loan notes
+
+                          A financial liability is any liability that is a contractual obligation:   (4 xt)
+
+                          @      To deliver cash or another financial asset to another entity
+                          @)     To exchange financial instrument with another entity under unfavorable
+                                 conditions
+
+  Financial liabilities
+                          E.g.
+                          。 Trade payables
+                          。 Bank overdraft
+                          * Issue loan notes / bonds / debentures
+                          * Issue redeemable preference shares
+                          Any contract that evidences a residual interest in the assets of an entity after
+  Equity   instrument
+    ay                    deducting all of its liabilities (4x)
+       Compound           A compound instrument is a financial instrument that has characteristics of both
+       instrument         equity and liabilities ( 考 过 )
+
+
+
+OW 考点 : 以 上 定义
+             需要 背 过 ， 考 过 多 次 文字 题
+                                                        77
+
+
+========== PDF 第 29 页 / 共 50 页 ==========
+
+                                                                                                                  BA Tove
+     1, Financial assets
+
+
+     1.1 Initial measurement
+
+
+                  金融 资产                                               初始 计量                                      交易成 本
+     投资 债券                                    Cost = principal amount - discount + transaction cost              资本 化
+
+
+     投资       股票 【以 交易 为 目的 】                 Cost = FV                                                          HA
+
+     投资           以 交易
+              股票 【不                  为 目的 】 | Cost =FV + transaction cost                                        资本 化
+
+
+
+     1.2 Subsequent measurement
+
+                   金融 资产                                                        后续 计量
+
+     投资 债券                                      Amortized cost
+
+     投资       股票 【以 交易         为 目的 】           Measured at year end FV, gain or loss of FV recognized in SPL
+
+     投资       股票 【不
+                  以 交易              为 目的 】      Measured at year end FV, gain or loss of FV recognized in OCI
+
+
+
+     (1) Amortized cost
+
+                                4                 Interest income @         Interest received                5
+      Year                 Opening                        FIR                  fa) Commen             Closing
+
+        1        X + Transaction cost                     xX                       (X)                  Xx
+
+                                                分录 :                     分录 :
+                                                Dr Financial asset       Dr Cash
+                                                Cr Interest income       Cr Financial asset
+
+
+
+     【注意 】
+
+“使          用 此 计量 方法 需要 通过 两 项 测试 : Cashflow test 现金
+                                                    流 测试 〈 合 同 是 否 明确 规 定 收取 现金 流 的 日
+      期 ”收取 的 现金 流 是 否 只 包含 本 金 和 利息 》)                          ，business model test 商业 模式 测试 (投资
+                                                                                                 的 目的 是
+      否 以 收取 合同 规定 的 现金 流 为 主 )
+。 实际 利率 计算 金额 确认 进 当期 损益 SPL 作 为 投资 收入 ， 属 于 投资 活动 分 类
+，。 期 末 价 值 记 入 资产 负债 表 作 为 投资 债券 的 账面 价值
+。 利息 收入 计 入 SPL 属 于 投资 活动 分 类
+
+
+
+
+                                                                78
+
+
+========== PDF 第 30 页 / 共 50 页 ==========
+
+                                                                          敢丹 Jors
+
+     (2)     FVTPL
+
+> 如果 企 业 投 资 股票 是 以 交易                    为 目的 ， 则 持 有 股票 按 此 方法 计量
+* 此 计量 方法 也 是 一 种 股票 “默认 计量 方法 default measurement basis"， 如 果 企 业 未 表明 目的 ，默认 按
+      此 方法 计 十
+* 用 此 方法 ， 股 票 年 底 以 公允 价值 计量 〈 不 考虑 年 底 交易 成 本 ) ， 公 人 允 价 值 变动 确认 进 当 期 损益 中
+     Initial measurement            X
+
+     Add:     Gian on FV            X          计 入 SPL 投 资 活动 分 类
+     Less:    Loss on FV           (X)         计 入 SPL 投 资 活动 分 类
+
+     Closing FV                     X          tt ASOFP
+
+
+
+     (3) FVTOCI
+
+"如         果 企业 投资 股票 但 不 以 交易              为 目的 ， 则 持 有 股票
+                                                          按 此 方法 计量
+© 此 种 计量 方法 也 叫做 “ 备 选 计量 方法 "
+。 从 此 方法 ， 股 票 年 底 以 公允 价值 计量 〈 不 考虑 年 底 交易 成 本 ) ， 公 人 允 价 值 变动 确认 进 其 他 综合 性
+      收益
+     Initial measurement            X
+
+     Add:     Gian on FV             X         计入 OCI
+
+     Less:    Loss on FV            (X)        计入 OCI
+
+     Closing FV                     X          计入 SOFP
+
+
+
+
+2. Financial liability
+
+
+2.1 Initial measurement
+
+
+     Cost = principal amount - discount - transaction cost
+
+
+OBA: RA RAMANA
+             HT ALL (Apt Sua)
+
+
+                                                          79
+
+
+========== PDF 第 31 页 / 共 50 页 ==========
+
+                                                                                                     Eff Tove
+
+  2.2 Subsequent measurement
+
+      Year            Opening                 untcrest CXDcnsC       Interest paid @Coupon    Closing
+                                                    @EIR
+        1        X - Transaction cost                    xX                     (X)              X
+
+                                          分录 ;                       分录 :
+                                          Dr Interest expense        Dr Financial liability
+                                          Cr Financial liability   | Cr Cash
+
+
+
+      CER]
+"由          实际 利率 计算 金额 确认 进 当期 损益 SPL 中 属于 融资 活动 分 类
+"期          末 价 值 记 入 资产 负债       玫 ， 作 为 长 期 负债NCL
+"债券           不 需要 区 分 长 期 和 短期 部 分 ， 因 为 没有 分 期 还 款 要 求 ， 所 以 全 部 都 是 长 期 负债
+
+
+
+
+3. Compound instruments
+对 于 混合 金融 工具 ， 准 则 要 求 在 发 行 日 进行
+                                拆 分 计量 Split accounting:
+。Financial liability (the debt)
+¢ Equity instrument (the convert option)
+
+
+拆 分 计量
+     三 步 法:
+@O 利本 折 现 ， 现 值 即 负债 初始 计量 金额
+@       倒推 求 差 值 ， 差 值 即 Equity (直接 确认 进 资产 负债 表 中 其 他 储备 科目 other reserve)
+@ FRAME
+     RAT ERA
+
+
+4. Recognition and derecognition of financial instruments
+
+
+4.1 Recognition financial instruments:
+
+@      When it becomes a contractual party
+@      Fair value and cost can be measured reliably
+
+
+4.2 De-recognition financial instruments:
+
+@       Contractual rights or obligation expires,   or
+
+@)      Entity has transferred risk and reward of financial instruments to others
+
+
+
+                                                              80
+
+
+========== PDF 第 32 页 / 共 50 页 ==========
+
+                                                                                                              Hp Tone
+
+ C285]
+l.     Dexon Co’s draft statement of financial position as at 31 March 20x8 shows financial assets at fair value
+       through profit or loss with a carrying amount of $12.5m as at 1 April 20X7. These financial assets are
+       held in a fund whose value changes directly in proportion to a specified market index. At 1 April 20X7
+       the relevant index was 1,200 and at 31 March 20X8 it was 1,296.
+
+
+       What amount of gain or loss should be recognized at 31 March 20X8 In respect of these assets?
+       $
+
+
+
+
+        ABC purchased 10,000 shares on 1 September 20X4, making the election to use the alternative treatment
+           under IFRS 9. The shares cost $3.5 each. Transaction costs associated with purchase were $500. At 31
+           December 20X4, the shares are trading at $4.5 each
+
+
+        What is the gain to be recognized on these shares for the year ended 31 December 20X4?
+        $
+
+
+
+
+           On | January 20X1 Tenfold Co purchased a debt instrument at a fair value of $500,000. It had a principal
+           amount of $550,000 and was due to mature in five years. The debt instrument carries fixed interest of 6%
+           paid annually in arrears and has an effective interest rate of 8%. It is held at amortized cost.
+
+
+           At what amount will the debt instrument be shown in the statement of financial position of Tenfold
+           Co as at 31 December 20X2?
+
+
+       A.     $514,560
+       B.     $566,000
+       C.     $564,560
+       D.     $520,800
+
+
+
+
+4, 2012
+      年 12 月 真题
+     Trial balance ($000)                             Dr                              Cr
+
+     6% loan notes                                                                  25,000
+
+     Administrative expense                         19,000
+
+
+
+
+                                                                8]
+
+
+========== PDF 第 33 页 / 共 50 页 ==========
+
+                                                                                                   HATone
+The company issued a $25m 6% loan notes on 1 October 2011 ( YE is 30 Sep 2012). Issued costs were $1m
+and these have been charged to administrative expenses. The loan notes will be redeemed on 30 Sep 2014 af
+premium which gives an effective interest rate on the loan of 8%.   What’s value of loan notes at the year-
+end?
+
+
+
+
+5. 2015
+      年 12 月 真题
+
+ Trial balance (9000)                         Dr                           Cr
+ 5% loan notes                                                           20,000
+
+ Administrative expense                      6,800
+
+
+The company issued a $20m 5% loan notes on 1 July 2014 ( YE is 30 Jun 2015). Issued costs were $500,000
+and these have been charged to administrative expenses. The loan notes will be redeemed three years later at
+premium which gives an effective interest rate on the loan of 8%. What’s amount of loan notes at the year-
+end?
+
+
+
+
+Answer:
+
+
+           us                        eh
+             1                     1000000
+             2                       9500
+             3                        A
+             4                      24420
+             5                      20060            |
+
+                                                         82
+
+
+========== PDF 第 34 页 / 共 50 页 ==========
+
+                                                                                                            BATone
+
+总结 ;
+
+
+                            投资 方 〈 购 买方 )                                       WAYETT (BATH)
+
+  关键 词 “| Purchase,        acquire,   invest, buy, acquisition                         Issue
+
+
+               Cost=Principal - discount + transaction cost | Cost=Principal - discount - transaction cost
+   债券
+                               Amortized cost                                     Amortized cost
+
+
+   本                          FVTPL       taki1                                         Z
+                             FVTOCI【 备 选 】
+
+  可 转 债                               二                                          拆 分 计量
+                                                                                      三步法
+
+
+
+
+补充 :
+
+
+
+
+                                  | Preference share 优先 股 |
+
+
+
+              可 赎 回 优先 股                                               不可 赎 回 优先 股
+       Redeemable preference share                               Irredeemable preference share
+
+
+
+
+       Financial liability measured       <—— Dividend is non-discretionary             Dividend is discretionary
+       at amortised cost                                                                             |
+
+
+                                                                                                   Equity
+
+
+
+
+                                                        83
+
+
+========== PDF 第 35 页 / 共 50 页 ==========
+
+                                                                        BA Tove
+
+
+                                       第九 章 收入
+
+-     IFRS ISR evenue from contracts with customers
+-     Substance over form
+
+-     TAS 20 Go vernment grants
+
+
+
+
+                                                          1. 五 步 确认法
+                  一   Revenue   一 ->   IFRS 15        |
+                                                          2. 建造 合同 收入
+
+    Chapter 9 一       No revenue ——    3. Substance over form
+
+
+
+
+                  | Other income ——> 4. IAS 20 政府 补贴 收入
+
+
+
+
+                                                 84
+
+
+========== PDF 第 36 页 / 共 50 页 ==========
+
+                                                                                                       误 丹 Jovs
+
+IFRS 15 Revenue from contracts with customers
+
+
+1.   Five-step approach 五 步 法
+
+
+
+              Identify the contract with customers 确认 合同 的 存在 ;
+
+              @   The contract has been approved by the parties to the contract, 合同 各 方 已 批准 (通过
+
+                  Bi,      ASSURE
+                               WL IIE)
+              @   Each party’s rights in relation to the goods or services to be transferred can be identified;
+
+     Step 1       合同各 方 能 够 识别 与 拟 转让 商品 或 服务 相关
+                                               的 权利
+              @   Paymentterms for the goods or services can be identified; 能 够 识别 付款金额
+
+              @® The contract has commercial substance; 合同 具有 商业 实质
+              ©     It is probable that the consideration in exchange for the goods or services will be
+
+                    collected. 很 有 可 能 收 到 客户 支付的 对 价
+              Identify the performance obligation in the contract 识别        履约 义务 :
+
+              The performance obligation can be 履约 义务 可 以 是 以 下 任意一 种 :
+              @     Agood or service (or bundle of goods or services) that is distinct; or 可 明确
+                                                                                              区 分 的 商品
+
+                    或 服务 〈 或 商品 服务 的 捆绑 )
+              @ A     series of distinct goods or services that are substantially the same and that have the
+
+                    same pattern of transfer to the customer. 实质上 相同 并 且 按 相同 模式 向 客户 转让 的 一
+
+     Step 2         系列
+                     可 明确 区 分 的 商品或 服务
+
+
+              A good or service is distinct if both of the following criteria are met 可 明确
+                                                                                         区 分 需要           满足 :
+
+              @     The customer can benefit from the good or services on its own or in conjunction with
+
+                    other readily available resources; and 客户 能 够 从 单独 使 用 该 商品 或 服务 ， 或是 将 其
+
+                    与 客户 易 获 得 的 资源 一 起 使 用 获 益
+              @     The entity’s promise to transfer the good or service to the customer is separately
+                    identifiable. 承 若 转让 的 商品 或 服务 可 单独 售卖 或 提供
+
+
+
+
+                                                      85
+
+
+========== PDF 第 37 页 / 共 50 页 ==========
+
+                                                                                                    BATove
+
+               Determine the transaction price 确定         合同 交易 价格
+               The transaction price is the amount to which an entity expects to be entitled in exchange
+                                                                                                         for
+               the transfer of goods and services. 交易 价格 指 主体 因 向 客户 转让 已 承 若 商品
+                                                                                 或 服务 而 蔬
+               计 有 权 获得的对价
+    Step 3
+
+
+               如 果 是 可 变 对 价 ， 可以 用 以 下 两 种 方法 进行 计算 :
+               * Most likely amount 最 有 可 能 金额 【 当 合同 仅 有 两 个 可 能 结 】
+               。Expected value method 预期 价值 【大 量 类 似 合 同 ， 且 产生 多 个 结果 】
+               Allocate the transaction price to the different performance obligations 分摊 合 同 价格 至
+
+               每 一 项 履约义务
+
+    Step 4
+               @ Stand alone selling price approach 单独
+                                                     售 价 比例 法
+               单独 售 价 定义 〈 考 过 文字 判断 题 ) : the price at which an entity would sell a promised
+               good or service separately to a customer
+
+               @    Expected cost plus a margin approach 预计 成 本 加 毛利 法
+
+               Recognize the revenue when the entity satisfy the performance obligation 当 企业            满足 履
+
+               约 义务 时 才 可 以 确认 对 应 收入
+               。Revenue is recognized as performance obligation has been satisfied either over time or at a
+                   point in time.   企业 完成 履约 义务 〈 可 以 是 一 个 时 间 点 或 一 段 时 间 完 成 ) ， 可 以 确认
+    Step 5
+                   对 应 收入
+               。 An entity must be able to reasonably measure the outcome of a performance obligation:
+
+               @ Input metjod 投入 法 计量 履约 义务 完成 度
+               @     Output method 产 出 法 计量 履约 义务 完成 度
+
+
+@   #4:      Sales with significant financing component        带 有 重大 融资 情节 销售
+
+- ARE:              EIA             SEE, ARAL                        CRA PAARL)
+- 第 一 步 : 折 现 后 的 现 值 记 为 销售 收入
+              Dr Trade receivable
+              Cr Revenue
+
+- 第二 步 : 年 末 计 算 利 息 收 入
+              Dr Trade receivable
+              Cr Interest income
+
+- 注意 : 利息 收入 属于 经 营 活动                 分 类 ， 可 以 和 Other operating   合 并
+                                                                   income记录 或 单独 列 示
+
+                                                          86
+
+
+========== PDF 第 38 页 / 共 50 页 ==========
+
+                                                                                                        BL AAToue
+[233 6
+
+1、2016
+     年 6 月 真题
+
+     Revenue includes an amount of $16m for a sale made on | April 20X5 (year end is 31 March 20X6) .
+     The sale related to a single product and includes ongoing services for 4 years. The normal selling price of
+     the product and services would be $18m and $500,000 per year ($2m in total).
+
+
+
+
+2.    20124F12A A
+
+     On 1 October 2011 (year end is 30 September 2012), Quincy sold one of its products for $10m ( included
+      in revenue in trial balance). As part of the sale agreement, Quincy is committed to the ongoing servicing
+      of this product until 30 September 2014. The value of this service has been included in the selling price of
+      $10m. The estimated cost of servicing is $600,000 per annum and Quincy’s normal gross profit margin on
+      this type of servicing is 25%. Ignore discounting.
+
+
+
+
+Answer:
+
+        j       Dr Revenue               1.2m
+                Cr Deferred income       1.2m
+
+        2       Dr Revenue               1600
+                Cr Deferred income       “1600
+
+
+
+
+                                                           87
+
+
+========== PDF 第 39 页 / 共 50 页 ==========
+
+                                                                                         HT ons
+
+2. Construction Contracts          建造 合同
+
+建造 合同 也 属于 IFRS15 的 范围                   ， 属 于 其 中 的 服务 合同 ， 因 为 建造 楼 房 也 是 在 提供 一 种 服务 ， 对 于 房
+地 产 商 ， 需 要 按照 完工 率 即 履约 义务 完成 度 逐 年 确认 收入
+
+
+2.1 确认
+
+                                                                           确认 原 册
+
+ 利润 合同                                       收入
+                                              按 完 功 率 确认 ， 成本 按 已 发 生 实际 金 矣 确认
+ 亏损 合同                                       收入
+                                              按 完工 率 确认 ， 全 部 亏损 立即 确认 到 SPL， 成 本倒 推
+ 保本 合同 〈 结 果 无 法 可 靠 估计)                      =成 本 〈实 报 实 销)
+                                           | 收入
+
+
+
+2.2 计量
+
+ Step       1;    预测 合同 结果
+ Total contract price                                         X
+
+ Less: Total cost:
+
+ Cost incurred to date                                       (xX)
+
+ Cost to complete                                            (X)
+ Specialist PPE total depreciation (if any)                  (X)
+
+ Total profit                                               EX
+
+ Total loss                                                 负数
+
+
+
+Step 2:          计算 完工 率 Percentage of completion
+
+@      测量 师 (surveyor)
+@          工程     价值 比 = work certified ( invoiced) /total contract price * 100%
+
+@      工程成 本 比 = cost to date / total cost * 100%
+
+ Step 3.:         计算 当期 损益 确认 金额 SPL
+    Revenue       [Total contract price * %】- previously recognized                X
+
+    Cost    【按照
+             实际 发 生成 本 记 cost incurred]                                            (X)
+
+    Current profit                                                                 XxX
+
+
+
+
+                                                            88
+
+
+========== PDF 第 40 页 / 共 50 页 ==========
+
+                                                                                                     KATons
+
+
+ Step 4.，SOFP【          累 计 金 额】
+ Revenue recognized to date                                                 xX
+
+ Less: Amounts invoiced to date (billing amount)                           (X)
+
+ Contract assets                                                           EX
+
+ Contract liability                                                        负数
+
+
+
+
+2.3 概念区 分 【不 用 背 ， 了 解 即 可 ]
+
+                          an entity’s right to receipt that is unconditional. 应 收 账 款 是 企业 有 权 收 取 的 对
+     Trade receivable
+                          价 ， 是 无 条 件 的 收 款 权利 ， 仪 需 随 着 时 间 流 逝 到 期 便 可 获得 的 金额
+                          an entity’s right to receipt in exchange for goods or services that the entity has
+                          transferred to customer when the right of receivable is conditioned on future
+
+     Contract assets | perfomance。 企 业 因 向 客户 转让 商品 或 服务 而 获得 对 价 的 权利 ， 属 于 有 条 件 的
+                          WALA       〈 如 企业 未 来 的 履约 义务 是 否 完成 )
+
+     Contract liability | amount due to customer 企业 对 于 在 将 来 要 转移 的 商品             或 服务 ， 已 收取的 对 价
+
+
+
+
+     【经
+      典 例题         】2014
+                      年 12 月 真题 改编
+Yling entered into a construction contract on 1 January 2014 which is expected to last 24 months. The agreed
+price for the contract is $5m, At 30 September 2014, the costs incurred on the contract were $1.6m and the
+estimated remaining costs to complete were $2.4m. At 30 September 2014, the percentage certified as
+completed to date was 38%.
+On 30 September 2014, Yling received a payment from the customer of $1.74m which was equal to the full
+amount of the amount invoiced to date.
+What amount would be reported in Yling’s statement of financial position as at 30 September 2014 for
+contract asset?
+
+
+A. Nil
+B.    $160,000
+C.    $800,000
+D, $200,000
+
+
+
+Answer:      B
+
+                                                        89
+
+
+========== PDF 第 41 页 / 共 50 页 ==========
+
+                                                                                                          BLA Tone
+
+Substance over form
+
+
+1. Principal and agent 委托 代理 销售
+
+
+
+    [Indicators of agent]
+
+@      We do not responsible for fulfilling the the contract 不 负责 履行       合同 义务
+
+@      We do not bear the obsolescence risk of inventory 我 们 不 承担         存货 风险
+
+@      We do not establish the prices for goods or services 我 们 不 负责 定价
+
+@®     Our consideration is in form of commission    我 们 收取 的 对 价 是 佣金
+
+©      We do not exposed to credit risk 我 们 不 承担信用 交易 风险
+
+
+OU 考点 : 错 把 原委 托 方 收入 确认 为 中 介 销 售 收入 ， 需要 改 错:
+Dr Revenue                      X
+Cr Trade payable                Xx
+Cr Commission income            X
+
+
+
+
+2. Consignment inventory 寄售 存货
+Inventory is an arrangement where inventory is held by one party but is owned by another party.
+
+
+    [Indicators of consignment inventory }
+
+@      The goods controlled by the manufacturer until a specified events occurs 生产
+                                                                                 商 仍 保留 商品               实际 控制
+
+       权 直 到 商品 售卖 给 顾客 为 目
+Q@     The manufacturer is able to require the return of the product or transfer the product to a third part (such
+       as another dealer) 生产商 有 权利 要 求 退 货 或 转运
+
+@)     The manufacturer bears the obsolescence risk of inventory 生产      商 承 担     存 货 实际 风险
+
+
+
+
+3, Sales and repurchase agreement 销售           以 及 回 购
+
+These are the arrangements under which the company sells an asset to another person on terms that allow
+the company to repurchase the asset in certain circumstances.
+
+
+    [Indicators]
+
+@      The sale agreement contains the repurchase option 销售 合同          中 带有回购条款
+                                                         90
+
+
+========== PDF 第 42 页 / 共 50 页 ==========
+
+                                                                                                           人 获 丹 Jars
+
+图       The selling price is substantially higher or lower the FV of the assets 售 价 明 昆 高 于 或 低 于 资产的 公允
+
+        价值
+加       After sales the seller still control the assets 卖家 仍然 实际 控制           售卖 资产
+QD The assets still remain in the seller’s premise} “RRR                      (FIEH)
+©       The buyer is limited in its ability to direct the use of the assets 买方 不 得 随意使 用 资产 (未 获得 资产
+
+        使 用 控制权利 )
+
+
+Ok:             错 把 抵押 借款 金额 确认 为 销售 收入 ， 需 要 改 错 :
+Dr Revenue                                               Dr Finance cost
+Cr Loan in substance                                     Cr Loan in substance
+
+
+
+
+    4. Bill and hold sales 开票
+                            持 有 交易
+    This is a contract under which an entity bills the customer for a goods but the entity retains physical
+    possession of the products of the goods until the future.
+
+    人 允许 企业 在           开票 日 确认 收入 ， 需 要 满足 以 前 全 部 条 件 :
+    @     Thereason for the bill and hold sales is reasonable 开票
+                                                               持 有 交易 的 原因 具有 合理 性
+
+    @     The goods currently is reedy for physical transfer to customers 商品 可 以 立即 运送
+    @     The sold goods are identified separately as belonging to the customer 商品 已明确 标记 属于买 家
+
+
+
+
+    5. Factoring of receivables 应 收 账 款 保 付 代理
+    This is where debts or receivables are factored the original creditor sells the debts to the factor.
+
+
+    5.1 Sales with recourse
+
+    有 追 索 权 证 明 企业 没有 真 的 卖 掉 应 收 ， 而 是 抵押 借款 ， 企 业 不 可 以 终止 确认 应 收 账 款 ， 需 要 确认 负
+    债 :
+
+    Dr Cash
+    Cr Loan in substance
+
+
+    5.2 Sales without recourse
+
+    此 交易 为 真正 的 售卖 应 收 ， 企 业 需 要 将 终止 确认 应 收 账 款 ， 并 确认 盈亏 在 当期 损益 中 :
+    Dr Cash
+
+    D/Cr Gain or loss
+    Cr Trade receivables
+                                                                91
+
+
+========== PDF 第 43 页 / 共 50 页 ==========
+
+                                                                                                         LAT ave
+
+ 区 考点 : 把 假 卖当真 卖 ， 也 就 是 错误 的 消除 应 收 账 款 ， 需 要 改错 ;
+ Dr Trade receivable
+ Cr Expense
+Cr Loan in substance
+
+
+
+
+ 【经
+  典 例题 】
+1. 2014年 6月 真题
+Revenue includes an amount of $20m for cash sales made through X company’s retail outlets during the year
+on behalf of another company F. X acting as agent, is entitled to a commission of 10% of the selling price of
+these goods. By year end, X had remitted to F $15m and recorded this amount in cost of sales.
+
+
+
+
+2. 2013
+      年 6 月 真题
+
+Revenue includes the sale of $10m of inventory made to X on 1 October 2012. The cost of the goods at the
+date of sale was $7m and A company has an option to repurchase these goods at any time within three years
+of the sale at a price of $10m plus accrued interest from the date of the date of sales at 10% per annum. At 31
+March 2013 the option had not been exercised but it is highly likely that it will be before the date it lapses.
+
+
+
+
+                                                       92
+
+
+========== PDF 第 44 页 / 共 50 页 ==========
+
+                                                                                             BA Tone
+AILESA RS
+At year end, H company factored (sold) the TR with a book value of $10m to Easyfinance. H received an
+immediate payment of $8.7m and will pay Easy 2% per month on any uncollected balances. Any of the
+factored TR outstanding after 6 month will be refunded to Easy. H has derecognized the TR and charged
+$13m to administrative expenses.
+
+
+
+
+Answer:
+
+      1      Dr Sales revenue             20
+             Cr Trade payable            18
+             CrCommission income         2
+             And
+             Dr Trade payable             15
+             Cr Cost of sales                15
+      2      Dr Sales revenue                       10
+             Cr Loan in substance(liability)        10
+             And
+             Dr Finance cost                        0.5
+             Cr Loan in substance                   0.5
+     3       Dr Trade receivable               10
+             Cr Administrative expense        1.3
+             Cr Loan in substance             8.7
+
+
+
+
+                                                          93
+
+
+========== PDF 第 45 页 / 共 50 页 ==========
+
+                                                                                       HA   Tous
+
+Summary
+
+
+
+
+                                                     确认
+                                                      全 金 收入
+                                  委托 代理 销售
+                                                     考点 : 多 志 收 入 和 成 本
+
+                                                寄售 存货 不 确认 为 收入
+                                  寄售 存货
+                                                生 厂 商 仍 实际 控制存货
+
+                                                     确认 抵押 借款
+   Substance over form   一        销售
+                                   以及回购
+                                                     考点 ; 多 记 收入 ， 少 记 负 候 和 利息
+
+                                                     销 足 开票
+                                                          持有条 件
+                                  开票持 有 交易
+                                                     开 聚 日 可 以 确认 收入
+
+                                                         有 迫 索 权 一 一 一 实质
+                                                                        为 借款
+                             al sowcncaxoeetvean |                                    eo)
+                                                         WABRR      一 一 一 RHBSME NI
+
+
+========== PDF 第 46 页 / 共 50 页 ==========
+
+                                                                                                           BAT ona
+
+
+IAS 20 Government grant
+
+
+1. Definition
+                                                                                   s    an entity in
+Government grants. Assistance by government in the form of transfer of resource to
+return for past or future compliance with certain conditions relating to the operating activities of the
+entity.
+
+
+
+
+1.2 Recognition
+An entity should not recognize government grants until it has reasonable assurance that:
+@® The entity will comply with any conditions attached to the grant 企业 能 够 满足 附加 条 件
+
+@) The entity will receive the grant      企业
+                                           能 够 收 到 补贴
+
+
+
+
+1.3 Types of government grants
+
+
+
+
+                                                                  Grant related to assets
+
+                                                                  Grant related to income
+     Government grants
+                                                                        Measured
+                                                                              at FV
+
+
+
+
+@         [Government grant related to assets] Government grants whose primary condition is that an entity
+     qualifying for them should purchase, construct or otherwise acquire non-current assets.
+
+
+@         [Government grants related to income]   Government grants other than those related to assets.
+
+
+
+
+                                                         95
+
+
+========== PDF 第 47 页 / 共 50 页 ==========
+
+                                                                                                        HA Tous
+
+ 2. Accounting treatment
+
+
+
+    补贴 类 型               会 计 处 理                   初始 入 账               后 续 入 账                 补贴 返还
+                                                                                         Dr Assets
+                                          Dr Cash
+                 1. 抵 减 资产 价值             Cr Assets                        一             Dr Expense
+        Grants                                                                           Cr Liability
+   related to
+     asscts              、                Dr Cash                              ，
+                                                                   Dr Deferred income    Dr Deferred income
+                 2, 建立
+                     递 延 收入               Cr Deferred income | Cr Grant income           Dr Expeave
+                                                                                         Cr Liability
+
+                    2p       A            —_
+                                           Grant      i                    一             Dr Expense
+                 1. 收 款 且 完成 条 件        | Cr / ae                                        Cr Liability
+
+        Grants                            Dr Receivable                                  DrE
+   related to | 2. 未 收 款 但       完成条 件 | Cr Grant income                   一             c rotten
+        income                               / expense                                    7    Lenny
+                                          Dr Cash                  Dr Deferred income | Dr Deferred income
+                                   ~»                                       .
+                    ay
+                 3. 收 款 但 条 件未 完成         Cr Deferred income       CrGrant micame        Dr Expense
+                                                                      / expense          Cr Liability
+
+
+
+  【注意 】
+。 资 产 相 关 补贴 所 产生 的 递 延 收入 ， 后 续 释 放 方 式 应 与 资产 折旧 方法 保持 一 致
+。 资产 残余 价值 不 影响 递 延 收入 后 续 的 释放 金额
+。 收 入 相关 补贴 所 产生 的 递 延 收入 ， 后 续 释 放 成 本 补贴 收入 ， 计 入 经 营 活动 ， 可 以 和 Other operating
+   income
+      合 并 记录 ， 也 可 以 单独 列 示 为 补贴 收入 ， 或 与 有 关 费 用 冲 减 ,无论 企 业 采用 哪 种 方式 ， 都 需
+   在 附注
+      中 披露
+
+
+
+3. Repayment of grants
+A government grant that becomes         repayable     is accounted for as a change in accounting estimate in
+
+accordance with JAS 8. 政府 补贴 返还            作为 《IAS 8》 会 计 估 计 变 更 处 理
+Repayment of grants relating to assets are recorded by increasing the carrying amount of the asset or
+reducing the deferred income. Any difference recognized in profit or loss immediately.
+Repayment of grants relating to income are recorded by reducing the deferred income and then in profit or
+loss.
+
+
+
+
+                                                          96
+
+
+========== PDF 第 48 页 / 共 50 页 ==========
+
+                                                                                   BA Tone
+
+ 【经
+  典 例题 】
+
+1、     资     产 价值 8S4.000、 寿命 4 年 ， 政 府 补贴 其 中 50% 的 价值 ， 企 业 选 择 抵 减 资产 价值 法 处 理 政府 补贴
+
+
+
+
+     Depreciation        500             500     500       500
+
+
+
+2，         资 产 价值 84,000， 寿命 4 年 政府 补贴 其 中 50% 的 价值 ， 企 业 选 择 递 延 收入 法 处 理 政府 补贴
+     (1)     资产 使 用 4 年 直线 法 折旧 :
+
+
+
+
+                           1               2       3         4
+      Depreciation       1,000           1,000   1,000     1,000
+     Grant income        (500)           (500)   (500)    (500)
+
+
+     (2)     资产 使 用 40% 递 减法 折旧 ， 考命 4 年 :
+            Dr PPE               4,000
+            Cr Cash              4,000
+
+
+            Dr Cash              2,000
+            Cr Deferred income   2,000
+
+
+
+
+                                                   97
+
+
+========== PDF 第 49 页 / 共 50 页 ==========
+
+                                                                  KATene
+(3)   资产 使 用 4 年 直线 法 折旧 、 残 值 为 S400:
+      Dr PPE                  4,000
+      Cr Cash                 4,000
+
+
+      Dr Cash                 2,000
+      Cr Deferred income      2,000
+
+
+
+
+                      1                 2         3
+Depreciation        900               900       900
+Grant income        (S00)             (S00)     (500)
+
+
+
+
+(4)   资产 使 用 4 年 直线 法 折旧 ， 残值 S400， 资 产 在 6 月 底 才 开始 使 用 :
+      Dr PPE                  4,000
+      Cr Cash                 4,000
+
+
+      Dr Cash                 2,000
+      Cr Deferred income      2,000
+
+
+
+
+                          ]                 2         3
+
+Depreciation         450               900        900
+
+Grant income        (250)             (500)     (500)     (500)
+
+
+
+
+                                                 98
+
+
+========== PDF 第 50 页 / 共 50 页 ==========
+
+                                                                                         敢丹 Jars
+
+3，         政 府 补 贴 S100,000，、 用 于 补贴 1 天 的 培训 典 用 $500,000，   堵 训 课程 在 年 初 已 上 完 ， 补 贴 也 于 年 初
+       收到
+
+
+
+
+ SPL                                  $
+ Training expense
+ Grant income
+
+
+
+4，         政 府 补贴 S100,000， 用 于 补贴 1 天 的 培训 费用 $500,000，      培 训 课程 在 年 初 已 上 完 ， 但 补贴
+                                                                                      还 没收
+       到
+
+
+
+
+     SPL                               $
+
+ Training expense
+
+     Grant income
+
+
+
+5，         政 府 补贴 S100,000， 用 于 补贴 1 天 的 培训 费用 $500,000，      培训 课程 在 年 初 已 上 完 ， 其 中 $50,000的
+           补贴
+            于 年 初 收 到 ， 璋 余 的 补贴 会 在 明年 收 到
+
+
+
+
+ SPL                                   $
+
+ Training expense
+
+ Grant income
+
+
+
+
+                                                    99

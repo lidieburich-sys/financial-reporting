@@ -1,0 +1,2470 @@
+文件：fr3.pdf
+页数：50
+文字来源：新增中英文 OCR 文字层
+定位：以下页码为 PDF 文件内的页序号，从 1 开始，可能不同于纸面印刷页码。
+说明：保留尽可能多的表格布局；OCR 可能误识别数字、金额、符号或中英文，做题时请对照原 PDF。
+
+
+========== PDF 第 1 页 / 共 50 页 ==========
+
+                                                                              BL py ane
+
+
+6.     BOR RNMES2,000, HIF ANY   AEA BEL,   2247 824 24$10,000, AMEBeB.   (AR MEOF)
+
+     底 才 开 始 租房      并 支付 $5,000 房 租
+
+
+
+
+ SPL                                   $
+
+ Rent expense
+
+ Grant income
+
+
+
+7、     政 府 补贴 S5,000, 补贴
+                       已 收 到 ， 条 件 是 我 们 需要 聘请 5 位 残疾 人 ， 截 止 到 今年年 底 ， 我 们 已 聘请 2
+       位 残疾 人 ， 并 支付
+                   工资 $20,000
+
+
+
+
+ SPL                                   $
+
+ Wages expense
+
+ Grant income
+
+
+
+
+                                            100
+
+
+========== PDF 第 2 页 / 共 50 页 ==========
+
+                                                                     WL ATane
+
+                                            第 十 章 每 股 收益
+
+IAS 33 Earnings per share
+
+
+1、      Basic earnings per share
+
+EPS      = Profit after tax - Preference share dividend
+                 Number of ordinary shares
+
+
+
+
+1.1 Cash issue
+
+Dr Cash      (发 行 股 数 * 发 行 价 )
+
+Cr Share capital (发 行 股 数 * 面 值 )
+Cr Share premium (发 行 股 数 * 每 股 溢价 )
+
+
+注意 : Cash issue 是 以 正常 市 价 发 行 新 股 给 外 来 股东 。
+
+
+     Step 1: Weighted average number of shares 加 权 平 均 股 数
+             WANS = (之
+                     前 总 股 数 * 月 份 /12) + 〈 之 后 总 股 数 * 月 份 /12)
+
+
+     Step 2: EPS = Earnings
+                    WANS
+
+
+
+
+1.2 Bonus issue
+
+Dr Share premium (红利
+                  股 股 数*面 值)
+Dr Retained earnings          (#4)
+
+Cr Share capital (红利          股 股 数* 面 值)
+
+
+注意 : Bonus issue 是 免费 送 新 股 给 现 有 股东 ， 发行 过 后 ， 股 东 原 持 股 比例 不 变 。
+
+
+
+
+                                                          101
+
+
+========== PDF 第 3 页 / 共 50 页 ==========
+
+                                                                                                 HAT ous
+
+    Step 1: 假设
+             期 初送股
+                              EPS = Eamings
+                                      AER SAR AY
+ Step 2: 调整
+          去 年 EPS
+           Restate last vear EPS = 去 年 EFPS* N/N+I
+
+
+    【N : issuc 1 bonus share for every N existing shares held]
+
+
+
+
+1.3 Rights issue:
+Dr Cash 〈 权 利 股 股 数 * 发 行 价 )
+Cr Share capital 《权利
+                  股 股 数* 面 值)
+Cr Share premium 〈 权 利 股 股 数 * 每 股 溢价 )
+
+
+TER: Rights issue 是 以 较 低 价格 发 行 新 股 给 现 有                        股东 ， 如 果 所 有 股东 都 参与 ， 则 股东 原 持 股 比例 不
+变    。
+
+
+
+
+ Step 1: 计算      除权 价 Theoretical ex - rights Price
+
+
+           TERP=N     * 市 场 价 +1*       发 行 价 〈 行权 价 )
+                                N+1
+
+
+     [N: issue 1 rights share for every N existing shares held]
+
+    Step 2: 计算 WANS
+
+ WANS=        (之 前 总 股 数 * Market price * 月 份 /12) + (之 后 总 股数 * 月 份 /12)
+                                    TERP
+
+
+ Step 3: 计算 EPS
+            EPS = Earnings
+                    WANS
+
+    Step 4: 调整
+             去 年 EPS
+            Restated last year EPS = 去年 EPS * TERP/Market price
+
+
+
+
+                                                         102
+
+
+========== PDF 第 4 页 / 共 50 页 ==========
+
+                                                                                                    HAT on«
+
+
+
+2. Diluted earrings per share
+
+
+A Mature increase in the number of ordinary shares will cause a dilution or of equity, and it is possible to
+calculate diluted carnings per sharc，(    考 过 文字 客观 题 )
+
+
+
+2.1 Convertible loan notes
+
+
+Diluted EPS     = Earnings   +   Post tax interest saving
+                  Existing shares + Maximum converted shares in the future
+
+
+
+
+2.2 Share options
+
+
+Step 1:
+
+
+          was         | ane
+     X 期 权发 行 价                  一 市 场 价
+          总 价                      总 价
+
+
+
+Step 2:
+Diluted EPS = Earnings
+
+                  送股 数
+
+
+
+
+                                                            103
+
+
+========== PDF 第 5 页 / 共 50 页 ==========
+
+                                                                                                                        BAT ous
+
+          Ce 9u (PD
+     1.        ABC issued $12,500 8% convertible loan notes at 1 Jan 20X5                   (year end is 31 Dec 20X5)     . Bach
+               nominal value of         $100 loan note will be convertible to shares as follows:
+           on 31/12/20X6                  25 shares
+           on 31/12/20X7                  20 shares
+           on 31/12/20X8                   15 shares
+           on 31/12/20X9                   10 shares
+           The company now has issued shares of 4,000 and current profit is $8,000. The tax rate is 25%. Calculate
+           the basic EPS ad diluted EPS.
+
+           Basic EPS:
+
+           Diluted EPS:
+
+
+
+
+2.         Golden Co. issued 200 share options for a right of purchased company's share for $8 per share. The
+           current share price is $10 per share. The current issued number of shares is 700 and the current profit is
+           $1,900. Calculate the basic EPS and diluted EPS.
+
+           Basic EPS:
+
+           Diluted EPS:
+
+
+
+
+Answer:
+
+           1        Basic EPS:     $2
+
+                    Diluted EPS:        $1.2
+
+           2        Basic EPS:     $2.7
+
+                    Diluted EPS:        $2.6
+
+                                                                     104
+
+
+========== PDF 第 6 页 / 共 50 页 ==========
+
+                                                                                                       HLA Tone
+
+                                            第 十 一 章 列 报 准则
+
+-        JAS 8 Basis of presentation of financial statements
+-        TAS    10 Events afler reporting period
+         IAS 21 Foreign currency transactions
+         IFRS    13 Fair value measurement
+
+
+
+
+    IAS 8 Basis of presentation of financial statements
+
+
+    1. Accounting polices
+
+
+    1.1 Accounting polices
+    Accounting policies are the specific principles, bases, rules and practices adopted by an entity in preparing
+    and presenting financial statements:
+    ¢ Recognition
+    。 Presentation
+    e Measurement
+
+
+    1.2 Changes in accounting policies
+    @ _ Required by an IFRS or revised IAS
+    @)    Ifa change in accounting polity results in the financial statements providing more reliable and more
+          relevant financial information.
+
+
+    WM 考点 : 以 下 情况 不 属于 会 计 政 策 变 更
+    。 对 以 前 未 出 现 过 的 交易 ， 采 用 某 项 会 计 政策
+    。 对 以 前 未 出 现 过 的 交易 ， 采 用 新 的 会 计 政 策
+    。 根 据 《IAS 16》 和 《IAS 38》 规 定 ， 首 次 采取 重 估 法 计量                     资产 ， 属 于 会 计 政 策 变 更 ， 但 该 变更应 根
+         据 《IAS 16》 和 《IAS 38》 规 定 处 理 ， 而 不 按照 本 准则 处 理
+
+    。 合 并 报表 中         ， 临 时 性 将 子 公司 会 计 政 策 调整         为 母 公司 会 计 政 策 不 属于 会 计 政策 变更
+
+
+
+
+                                                          105
+
+
+========== PDF 第 7 页 / 共 50 页 ==========
+
+                                                                                                    GAT as
+
+1.3 Retrospective adjustment U4 9a Vas
+The entity shall adjust the opening balance of each affected component of equity for the earliest prior period
+and the other comparative amounts disclosed for each prior period as if the new accounting policy had
+always been applied.
+
+
+
+
+2, Accounting estimate
+
+
+2.1 Definition
+Transaction or events with uncertainties inherent would need professional judgment. These professional
+judgements are accounting estimates.
+
+
+    Example:
+    1.   Allowance for receivables (2% or 3%)
+         Depreciation method
+YN       PPE useful life
+         PPE residual value
+wa       Amount of provision
+
+
+
+
+2.2 Changes in accounting estimates and prospective adjustment
+The effect of a change in an accounting estimate shall be recognized prospectively by including it in profit or
+loss in:
+-        The period of the change, if the change affects that period only; or
+-        The period of the change and future periods, if the change affects both
+
+
+
+
+3. Errors
+
+
+3.1 Prior period errors:
+Prior period errors should be corrected retrospectively
+
+
+3,2 Current period errors:
+Current period errors should be adjusted for current year periods
+
+
+ 注意 : 当前 错误 如 果 产 生气 损 费 用 ， 计 入 SPL 属 于 经 营 活动 分 类
+
+
+                                                            106
+
+
+========== PDF 第 8 页 / 共 50 页 ==========
+
+                                                                                                                WA Tane
+
+  【经
+   典 例题              〗2010
+                        年 12 月 真题
+The directors of T Co are disappointed by the draft ptofit for the year ended 30 September 20X3, The
+company’s         assistant accountant   has suggested   two   areas where   she belicves   the reported   profit may   be
+improved:
+
+(i)    A major item of plant that cost $20 to purchase on 1 October 20X0 is being depreciated on a straight-
+       line basis over a five-year period. The plant is wearing well and at the beginning of the current year (1
+      October 20X2) the production manager believed that the plant was likely to last eight yearg in total (from
+      the date of its purchase).
+
+
+(it) Most of T Co’s competitors value their inventory using AVCO basis, whereas T Co uses the FIFO basis.
+       The value of T Co’s inventory at 30 September 20X3 on the FIFO is $20m, however on the AVCO basis
+       it would be valued at $18m. T Co’s inventory at 30 September 20X2 was reported as $15m, however on
+       the AVCO basis it would have been reported as $13.4m.
+
+
+       What is the nature of the change being proposed by the assistant accountant in (i) and how should
+       it be applied?
+
+
+              Change of accounting policy: retrospective application
+      wp      Change of accounting policy: prospective application
+              Change of accounting estimate: retrospective application
+      ON      Change of accounting estimate: prospective application
+
+
+
+
+ 2.     Adjusting      for the change    of useful   life, what   will be the carrying      amount   of the plant at 30
+        September 20X3?
+        $          million
+
+
+
+
+ 3,     What will be the effect of change in (ii) on profits for the year ended 30 September 20X3?
+
+
+              Increased by $400,000
+
+
+
+
+      DOW >
+              Reduced by $400,000
+              Increased by $1,600,000
+              Reduced by $1,600,000
+
+
+
+  Answer:        D 10B
+
+                                                               107
+
+
+========== PDF 第 9 页 / 共 50 页 ==========
+
+                                                                                                                      GEA   T ane
+
+         IAS 10 Events after reporting period
+
+
+      U IAS 10 是 高 频 考 点 ， 需 要 背 过 定义 以 及 常见 例子
+
+
+      1. Definition             [it]
+
+     Event after the reporting period:               those events, both favorable or unfavorable, that occur between the end of
+
+     the reporting period and the date that the financial statements are authorized for issue.
+
+
+
+
+     2. Adjusting events                  【 背 过 ]】
+     Provide evidence of conditions that existed at the end of the reporting period.
+
+
+     Examples:
+     @               The resolution after the reporting date of a court case giving rise to a liability
+     @)              Discovery of fraud or errors
+     ®               The bankruptcy of a customer indicates that their debt was irrecoverable at the reporting date
+    @®               Determination after the year end of the sale or purchase price of assets sold or purchased before the year
+                     end
+     ©               The sale of inventory at less than cost indicates that it should have been valued at NRV
+
+
+
+
+     3. Non-adjusting events [ #73]
+     Are those that are indicative of conditions that arose after the reporting period.
+
+
+     Examples:
+                     Business combinations
+
+
+
+
+CRC RISERS
+       RS ECR CRS)
+                     Major restructuring
+                     Changes in foreign exchange rates and tax rate
+                     Commencing major litigation
+                     A purchase or sale of a non-current asset
+                     The destruction of assets due to fire or flood
+                     The announcement of plans to discontinue an operation
+                     An issue of shares
+                     Dividend declared or paid
+
+
+    2.2 Disclosure
+   Non-adjusting events should disclose the nature and financial effect of the event.
+
+                                                                          108
+
+
+========== PDF 第 10 页 / 共 50 页 ==========
+
+                                                                                                       WATane
+
+   【经
+    典 例题              】2019
+                         年 6 月 真题
+ Jeffers Co prepares financial statements for the year ended 31 December 20X8. The financial statements are
+ expected to be authorized for issue on 15 March 20X9. The following three events have occurred in January
+  20X9:
+
+
+  (1) Health and safety fine
+ A health and safety investigation of an incident which occurred in 20X8 was concluded in January 20X9,
+ resulting in a $1.5m fine for Jeffers Co. A provision for $1m had been recognized in Jeffers Co's financial
+ statements for the year ended 31 December 20X8.
+
+
+ (2) Customer ceased trading
+ Notice was received on 10 January 20X9 that a customer owing $1.2m at 31 December 20X8 had ceased
+ trading. It is unlikely that the debt will be recovered in full.
+
+
+ (3) Acquisition of a competitor
+ The acquisition of a competitor was finalized on 10 January 20X9, being the date Jeffers Co obtained control
+ over the competitor. Negotiations in respect of the acquisition commenced in May 20X8.
+
+
+
+  1.    Which, if any, of the following statements regarding IAS 10 Events after the Reporting Period is/
+        are correct
+  (1) Events after the reporting period are deemed to be all events from the date the financial statements are
+        authorized for issue up until the date of the annual meeting with the shareholders
+  (2) Non-adjusting events do not need to be reflected in any part of an entity’s financial statements or annual
+        report
+
+
+        1 only
+
+
+
+
+UOw >
+        2 only
+        Both 1 and 2
+        Neither 1 nor 2
+
+
+
+
+  2.    Which of the three events which occurred in January 20X9 would be classified as adjusting events
+        in accordance with IAS 10?
+  (1) Health and safety fine
+  (2) Customer ceased trading
+  (3) Acquisition of a competitor
+
+
+  A.    1 and 2 only
+  B.    1 and3   only
+
+
+                                                           109
+
+
+========== PDF 第 11 页 / 共 50 页 ==========
+
+                                                                                                   Ht AS aue
+
+ C.     2 and 3 only
+  Db.   1,2 and3
+
+
+
+ 3.     Which TWO of the following events which occur after the reporting date of a company but before
+        the financial statements are authorized for issue are classified as Adjusting events?
+
+
+        A change in tax rate announced after the reporting date
+
+
+
+
+SOD >
+        The discovery of a fraud which had occurred during the year
+        Determination after the year end of the sale proceeds of assets sold before the year end
+        Destruction of a factory by fire
+
+
+
+
+ Answer:        D A    BandC
+
+
+
+
+                                                           110
+
+
+========== PDF 第 12 页 / 共 50 页 ==========
+
+                                                                                                            MATane
+IAS 21 Foreign currency transactions
+
+
+
+1、Definition【       背过】
+
+
+
+                       Functional currency is the currency of the primary economic environment in which the
+                       entity operates.
+
+                       决定 功能 性 货币 时 需要 考虑 的 因素 Ci)                          :
+    功能性 货币                      The currency that mainly influences sales prices
+
+
+
+
+                     @Be®ee80
+    《高
+     频 考 点)                     The currency of the country whose competitive forces and regulations
+                                The currency that mainly influences labour, material and other costs of sales
+                                The currency in which funds from financing activities
+                                The currency in which receipts from operating activities
+
+      列 报 货币           Presentation currency is the currency in which financial statements are presented
+
+      即 期 汇率           Spot exchange rate is the exchange rate at the date of transaction
+
+                       Monetary       item are the assets and liabilities to be received or paid in a fixed or
+    货币性        科目
+                       determined number of units of currency
+
+
+
+
+2. Initial measurement
+IAS 21 states that a foreign currency transaction should be recorded, on initial recognition in the functional
+currency, by applying the exchange rate between the reporting currency and the foreign currency at the date
+
+of the transaction to the foreign currency amount，         所 有 的 外 汇 交 易 都 需要 在 交易              日 用 即 期 汇率 (首选 )
+
+折算
+ 成 列 报 货币 入 账 。
+An average rate for a period may be used if exchange rates do not fluctuate significantly.         也 可 以 用 交易 时 段
+
+的 平均 汇率 折算 ， 前 提 是 交易 时 段 的 汇率 波动 不 大 。
+
+3. Subsequent measurement
+
+
+
+          科目                             是 否 需 要 年 底 二 次 折算                          汇兑 损益 gain or loss
+     Monetary items                              需要                                 SPL  营
+                                                                                        (经 活动 分 类 )
+                                             成本 法 : 不 需要
+   Non-monetary items                      ASME:           需要                       SPL (投资 活动 分 类 )
+                                              重 估 法 : 需要                                      oc
+                                                            11]
+
+
+========== PDF 第 13 页 / 共 50 页 ==========
+
+                                                                                                    BS PE Sava
+     Kee (FD)
+ 1, 2019426)9 FU
+      Vernon Co sold goods to an overseas customers on 1 December 20X8 for 12m Kromits (Kr). They aprecd
+      a 60-day payment term. No entries have yet been made to record this sale, although the goods were
+      correctly removed from inventory and expensed in cost of sales, The amount remains unpaid at 村
+      December 20X8.
+
+
+      Relevant exchange rates are:
+      1 December 20X8: 6.4 Kr/$
+      31 December 20X8: 6.0 Kr/$
+
+
+
+
+2.    2025463 A Re
+     Alpha Co uses Dollar $ as its functional currency. On 20 August 20X4, it purchased goods worth Swiss
+     Franc (CHF)1,200,000 when the exchange rate was 1 CHF=$1.16. On 20 September 20X4, Alpha Co
+     paid 50% of the invoice amount, according to the terms of the contract, the balance 50% would be
+     payable on 20 October 20X4. Alpha Co has a year-end of 30 September 20X4.
+     The exchange rates were as follows:
+      On 20 September 20X4     1 CFH=$1.14
+      On 30 September 2024     1 CFH=$1.17
+
+
+      Which of the following is the correct accounting treatment for Alpha Co according to IAS 21 The Effects
+      of Changes in foreign exchange rates for the year ended 30 September 20X4?
+     A. Net Exchange Joss $12,000 and foreign trade payable $696,000
+      B, Net Exchange gain $6,000 and foreign trade payable $702,000
+      C, Net Exchange loss’$9,074 and foreign trade payable $517,000
+      D. Net Exchange gain $4,420 and foreign trade payable $512,000
+
+
+
+
+Answer:      B
+
+
+                                                       112
+
+
+========== PDF 第 14 页 / 共 50 页 ==========
+
+                                                                                                             HATone
+
+IFRS 13         Fair value measurement
+
+
+1.    Definition [3]
+Fair value is the price that would be received to sell an asset or paid to transfer a liability in an orderly
+transaction between market participants at the measurement date.
+
+
+
+
+2. Valuation techniques
+
+
+Where fair value is determined using a valuation technique, IFRS 13 prescribes that the technique should be
+one of the following:
+@     Market approach: uses price and other relevant market information for identical or comparable assets
+@)    Income approach: converts future amounts to a single discounted present value amount
+@     Cost approach: amount that would currently be required to replace the service capacity of the asset
+
+
+
+
+3. Level of FV [#it]
+
+
+RIEHL
+  ALE Vii AGE “input” 的 可 靠 程度 ， 可 以 对 FV 的 结果 进行 以 下 排序 ， 排 序 越 高 越 可 靠 :
+                        Quoted prices in active markets for identical assets or liability that the entity can
+     Level 1 Inputs
+                        access at the measurement date.
+                        Inputs other than quoted prices included in Level 1 that are directly or indirectly
+
+                        observable:
+     Level 2 Inputs
+                        * Quoted price of identical asset or liability in inactive market
+                        ¢ Quoted price of similar asset or liability in active market
+                        Inputs   for the asset   or liability that   are not based      on   observable   market   data
+     Level 3 Inputs
+                        (unobservable inputs).
+
+
+========== PDF 第 15 页 / 共 50 页 ==========
+
+                                                                                                      EPPS ates
+ Uh (AY 2021
+          FEN FOL A
+TFRS 13 Fair value measurement sets out a fair value hierarchy that categories inputs into (hre¢ levels. gdfect
+the correct level for cach of the following inputs:
+
+
+
+                                 Inputs
+
+Unobservable inputs for the asset or liability                        Level |      Level 2          Level 了
+
+Quoted prices for similar assets or liability in active market        Level |      Level 2          Level 3
+
+ Quoted prices in active market for identical assets or liability     Level |      Level 2          Level 3
+
+ Inputs other than quoted prices that are observable for the assets   Level |      Level 2          Level 3
+or liability
+
+
+
+
+Answer:
+Level 3, Level 2, Level 1, Level 2
+
+
+
+
+                                                             114
+
+
+========== PDF 第 16 页 / 共 50 页 ==========
+
+                                                                                  ALT ous
+
+                第十 二 章         单     体 报表 Prepare basic financial statements
+
+
+
+1. Trial balance
+
+Trial balance ($000)                                       —
+                                                           a
+                                                           一             Cr
+
+Assets                                                     XK
+
+General and administrative expense     (#5 #32 FA)
+
+Selling expense     (常规 费 用 )                              KK
+
+Other operating expense      〈 常规 费 用 )
+Research and development expense (一
+                                  次 性 费用 )                 KK
+
+Business restructuring expense     (一
+                                    次 性 费用 )               KM
+
+Cost of sales     (常规 费用 )                                 xx
+
+Interest expense (常规 费用 )                                  x
+
+Equity
+
+Liability
+Income                                                               elo
+Sales/revenue
+
+Accumulated depreciation                                             Ke
+Accumulated amortization
+
+Bank balance                                                         oe a
+                                                                     |
+Current tax                                                xX
+Total                                                      XX
+                                                                 |   Boe
+                                                                     |        |
+
+
+A 考点 : 特殊 一 次 性 费用 如 果 人 金额 重大 需要 单独 列 示 ， 其 余 费 用 根据 材料 提示 分 类 列 示 。
+
+
+
+
+                                                     115
+
+
+========== PDF 第 17 页 / 共 50 页 ==========
+
+                                                                                            骸 央 J4KL
+根氢 IFRS 18 查 求 、 需 又 将 利润 才 中 的 科目 有 具体
+                                      分 关羽，
+
+          HR                                                含义
+
+                        FAC AA RABAT POA
+                                       RA BFA                                  ay. (olan:
+                        - Depreciation and amortisation
+                        - Impairment loss
+
+                        - 生物 资产 后 续 计 量 价值 变化 (changes in FV- CTS)
+                        - Inventory written down
+                        - Research and development expense
+                        - Business restructuring expense
+   Opcrating category
+                        - Government grant income (可
+                                                   以 和 other operating incomeA Hid.
+
+                            ALMA a, RAS,                         ARBOR
+                                                                     A AMF )
+                        - Exchange gain or loss (应 收 应 付 后 续 折 算 产生 的 汇兑 损益 )
+                        -    带 有 重大 融资 情节 销售 中 产生 的 利息 收入 (属于
+                                                           主 营业 务 的 一 部
+                            分 ， 属 于 经 营 活动分 类 ， 可以 和 other operating income
+                                                                        合 并 记录 ， 人也
+                            可 以 单独列 示 )
+                        收入
+                         和 费用 产生 于 :
+                        @ 对 联营 公司 投资
+                        @ 现金
+                           及 现金 等 价 物
+                        @     其 他 能 产生 独立 回报 的 资产 〈 例 如 投资 债券 ， 投 资 股票 以 及 投资 性
+                             房地产 )
+
+                        Eg. 属于 投资 活动 分 类 的           科目 :
+   Investing category
+                        - Interest income (投资 债券 )
+                        -   Dividend income
+                        -   Rental income
+
+                        - Gain orloss onFV     (投资
+                                                 性 房地产            ，FVTPL)
+
+                        - Gain or loss on disposal of investment property   (不 包括
+                                                                                PPE 处 置 )
+
+                        - Depreciation of investment property (如 果 使 用 的 是 成 本 法 )
+
+                        - Share of associate’s profit (合并 利润 表 )
+
+
+
+
+                                              110
+
+
+========== PDF 第 18 页 / 共 50 页 ==========
+
+                                                                             WA Tans
+
+                          由 负债 产生 的 收入 和 费用 ， 例 如 :
+                         -_ Interest expense (包括 债券 利 让 ， 可 转 俩 利息， 银行 贷 坎 利 包,本 所
+  Financing category        为 负债 的 利息 、 预 计 负 债 利息 ， 租 赁 利息 ， 以 及 后 续 展 开 产生 的 利
+                            息)
+                         - 可 赎 回 优先 股 的 分 红 ， 本 质 为 利息
+ Income tax category     Hy TAS 12 产生 的 收入 和 费用
+Discontinued operation
+       category
+                         FH IFRS 5 固定 资产 持 有 待 售 和 停止 经 营 产生 的 收入 和 费用
+
+
+
+
+                                         117
+
+
+========== PDF 第 19 页 / 共 50 页 ==========
+
+                                                                                                    GL FLT ous
+
+Statement of profit or loss and other comprehensive income for the year ended 31/12/2025
+
+
+
+                                                                                        $'000
+                 Sales revenue
+                                                                                          x
+                 Less: Cost of sales                                                     (X)
+                Gross profit &Fllj¥                                                       x
+
+                Add: Other operating income                                               xX
+  Operating
+                Less:   Operating expense
+
+                         Selling expense                                                 (X)
+
+                         Research and development expense                                (X)
+
+                         Gencral administrative expense                                  (X)
+
+                         Other operating expense                                         (X)
+
+                 Operating profit BAA}          (BH)                                      x
+                 Share of profit of associate                                       a     x
+  Investing
+                Investment income
+
+                Profit before financing and income tax 息 税 前 利润
+
+                Interest expense from borrowing and lease liability                 7   es
+  Financing
+                Interest expense on provision                                            (X)
+
+                 Profit before income tax 税 前 利润                                          x
+  Income tax    | Income tax expense                                                     (X)    -
+
+
+ Discontinued    Profit or loss from discontinued operation
+
+
+
+
+                 Other comprehensive income:
+                 Revaluation gain under revaluation model (netted off tax effect)         X
+
+                | Gain or loss ofFVTOCI                                                 X/(X)
+
+                 Total comprehensive income                                              XX
+
+
+
+
+                                                          118
+
+
+========== PDF 第 20 页 / 共 50 页 ==========
+
+                                                                         HLA Tone
+范例        ，2019
+             年 6 月 真题
+
+
+    Revenue                                                 80632    |
+    Cost of sales                                          (46410)
+    Gross profit                                            34222
+    General and administrative expense                     (20115)
+    Operating profit                                        14107
+    Investment income                                       6118
+    Profit before financing and income tax                  20225
+    Interest expense                                        (4050)
+    Profit before income tax                                 16175
+    Income tax expense                                      (3330)
+    Profit                                                   12845
+
+    Other comprehensive income
+    Revaluation gain                                         9000
+|Total comprehensive income                                 21845
+
+
+
+注意 :
+~     考试 时 不 需要 写 分 类 标题
+- 注意 利息 费用 表达 为 interest expense
+-      重大 且 一 次 性 费用 需要 单独 列 示 ， 例 如 研发 费用 等 ， 其 余 费 用 分 类 根据 材料 要 求
+
+
+
+
+                                             119
+
+
+========== PDF 第 21 页 / 共 50 页 ==========
+
+                                                                                                                                                                                      ont Jove
+
+  MB HET:
+
+                                                                                                                                ik
+                                                                                                              [A FAExcel
+                                                                                                                     t+ 3) 6 |
+                                                                           —                                  a
+                            rely                 总      Q    fr     ¥G31GA
+
+     ’                  人               B         C            D        E         F                                1        J        K       L           M          N     O       p
+     1            (0d              Natetbeot of profit or lors and ober comprebentire Income for the yd   ended 31 March 20X3            Workings all fa $000
+ 2                                                                                              $000
+ 5                                 Merenur   — (3765505-2$00004 42000) 11                  USTSOS                                        WI Revenven
+ 4                                 Ona of oln 12                                          2455835                                        ‘Dr Revenue                     3500
+[8       |                         Grow profit                                                                                           Cr Commision Income              43909
+ 6                                                                                                                                       Cr Trade payable                3nsnon
+ 7                                                           | 做 working 指 引                |
+ 8                                                                                                                                       W2 Cost of sales
+ D            @                    Storrement of financial porition ax at Year ended 31 March 20X3                                       Per Trial balance              M6577
+ 10                                                                                                                                      Adjustment:
+ 由                                                                                                                                       Cotrfectjon of Inventory          9258
+ae                                                                                                                                       Cort of sales                  2455835
+13
+14           (9                    Statement of choanpcs in equity for the year ened 31 Mocrh 20X3
+
+
+
+
+                                                            报表 区 域                                                                                       Working
+                                                                                                                                                              区 域
+
+
+
+
+UW                  单 体 报表 注意事项 :
+1. Working
+         在 右 ， 报 表 在 左 〈 或 working
+                                在 下 ， 报 表在 上 )
+2. Working 单位 与 试 算 平衡 表 保 持 一 致
+3. Working 要 写 序号 和 小 标题
+4，                不 强制
+                     写分录
+5. Working
+      里可 以 写 加 减 式 子 ， 段 落 描述 ， 自 己 认为 表达 清楚 就 可 以
+6， 可以 做 标记
+7. Working
+       里可 以 简写 ， 报 表 里 最 好 不 要 用 简写
+8， 不 用 区 分 大 小 写
+9，            Excel 内 公式 考官 能 看 到 ， 不 用 我 们 操心
+10, 报表 数据 需要 与 Working 做 指引 (手工 标注 或 利用 Excel 功 能 标注 都 可 以 )
+11, 只 写 working 不 编 报 表 至 少 扣 一 半分 数
+12. 报表
+     按 科 目 给 分 ， 最 终结 果 不 平 不 影响 整体 得 分
+
+
+
+
+                                                                                                              120
+
+
+========== PDF 第 22 页 / 共 50 页 ==========
+
+                                                                                           HF} Tans
+
+ 【 必 刷 题 清 单】
+                              50 分 钟
+ 用 Excel 刷 题 ， 注 意 格 式 ， 计 时 答题
+建议
+
+
+1, 2024 年 12 月 第 32 题                            利润 改 错 ， 资 产 负 债 表           向 频 解析 见向 内 质 吧
+
+ee                                               利润改 错 ， 资 产 负债 才             BUS We MEP
+oe                                        利润 老 ， 所 有 者 权益 变动 表 ，EPS 计 算       LISLE LCE PE
+4. 2023
+      年 12 月 第 31题                             利润 表     ，所 有 者 权益
+                                                                变动 表          PRS AE TL HE TDA
+
+      年 6 月 第 31题
+S. 2023                               利润 改 错 ， 所 有 者 权益 变动 表， 资 产 负债 表         解析 见 微 博 顶 里
+                                                                              视频
+6. 2022
+      年 6 月 第 1] 题                                利润 表 ， 资 产 负债 表             视频
+                                                                               解析 匈 微 博 项 轩
+7. 2021 年 Specimen
+                第 31 题                    RE 改 错 ， 资 产 负债 表 ， 现 金 流 〈 部 分 )   视频
+                                                                               解析 见 微 博 顶 置
+
+8.   年
+   202112 月 第 1] 题                  利润 表 ， 所 有 者 权益 变动 表 ， 现 金 流 (部分 )         解析 见 微 博 顶 置
+                                                                              视频
+9. 2020
+     年 12 月 第 1] 题                               RE 改   错， 资 产 负 债 表          视频
+                                                                               解析 见 微 博 顶 置
+ 10. 2019
+        年 6 月 第 32题                                利润 表 ，EPS 计 算              视频
+                                                                               解析 见 微 博 顶 置
+ 11. 2016
+        年 12 月 第 31题                        利润改 错 ， 资 产 负债 表 ，EPS 计 算         视频
+                                                                               解析 见 微 博 顶 置
+ 12. 2015
+        年 12 月 第 1 题                           利润 表 ， 所 有 者 权益
+                                                             变动 表             视频
+                                                                               解析 见 微 博 项 置
+ 13. 2014
+        年 6月 第 ? 题                        利润 表 ， 所 有 者 权益 变动 表 ， 资 产 负债 表     视频
+                                                                               解析 见 微 博 项 去
+ 14. 2012
+        年 12 月 第 2 题                      利润 表 ， 所 有 者 权益 变动     表， 资产 负债 表   视频
+                                                                               解析 见 微 博 项 置
+ 15. 2011
+        年 6 月 第 2? 题                      利润 表 ， 所 有 者 权益 变动 表 ， 资 产 负 债 表    视频
+                                                                               解析 见 微 博 顶 置
+
+
+视频 解析 见 微 博 (ETH) :
+
+ 四 、 单 体报表专区 :
+
+ 2024
+    年 12 月 C@ 微博 正文
+2023 年 12 月 (答案  已  更 新) C 微 坪 正 文
+2023 年 6月   (答案不   影响 ) 人 微 博 正文
+2022 年 6 月 (答案 已 更 新 ) OfMBIEX
+20214 Specimen (答案    不 影响 ) 〇 @ 微博 正 文
+2021 年 12 月 (答案 已 更 新 ) CHIBEX
+2020 年 12 月 (答案 不 影响 ) CIBIEX
+2019 年 6 月 (答案 已 更 新 ) CHIBEX
+2016 年 12 月 (答案 不 影响 ) CIBER
+2015 年 12 月 (答案 已 更 新 ) CMBIEX
+2014 年 12 月 (答案 不 影响 ) CFB IE
+2014年 6 月 (答案  已 更 新 ) CHIBEX
+2012 年 12 月 (答案 已 更 新 ) CHBEX
+ 2012
+    年 6月  (答案
+            已 更  新 ) 〇 微 博 正文
+ 2011
+    年 6 月 (答案
+            已 更 新 ) CAME
+
+
+
+                                                        121
+
+
+========== PDF 第 23 页 / 共 50 页 ==========
+
+                                                                                                           A.A Tone
+
+                                               第 十 三 章 现金 流量 表
+
+IAS 7 Statements of cash flows
+
+
+
+1.    Introduction
+
+
+
+1.1 Definition [730]
+@     Cash in hand
+@)    Deposits less overdrafts has be drawn
+
+图     Cash equivalents:     are short term, highly liquid investments that are readily convertible to known
+      amounts of cash and which are subject to an insignificant risk of changes in value
+
+
+
+
+1.2 Activity of cashflow
+
+          性 质 分 类                                            含义       【了 解 即 可 ， 不用 背 】
+                                 Cash flows from operating activities are those that normally arise from
+     Operating Activities                  ;         ;           ;
+                                 transactions relating to trading activities.
+                                 Investing activities are the acquisition and disposal of long term assets, and
+     Investing Activities              ，
+                                 other investment.
+
+                                 Financing activities are activities that alter the equity capital and
+     Financing Activities     | borrowing structure of the entity and will comprise receipts and payments
+                                 of capital/principal from or to external providers of finance.
+
+
+
+
+1.3 Method of cashflow
+IAS 7 allows two possible layouts for the statement of cash flows:
+
+¢ The indirect method:      operating activity
+
+* The direct method:      investing activity,    financing activity
+
+
+
+
+                                                           [22
+
+
+========== PDF 第 24 页 / 共 50 页 ==========
+
+                                                                                                                   GLA Tone
+
+2. Format       [77it]
+
+
+
+                         Cash flow statement for the year ended 31 December 2025
+
+ 1. Cash flow    from operating activities                                                                 $
+ Operating profit (新 考纲 )                                                                                  x
+ Adjustment:
+Add back:       Depreciation and amortization                                      非现 金类        科目         x
+Add back:       Impairment loss                                                    非现 金类        科目         X
+ Add back: Foreign exchange loss                                                   非现 金 类 科目               Xx
+Add back: Loss on disposal of NCA                                                 重 分 类 到 投资 活动            x
+Less: Profit on disposal of NCA                                                   重 分 类 到 投资 活动            (X)
+Less: Foreign exchange gain                                                        非现 金类        科目         (X)
+ Adjusted profit                                                                                               x
+Less / Add:      Increase / decrease in inventory                             资产 与 现金 变化 相反               (X)/X
+ Less / Add:     Increase / decrease in trade receivables                     资产 与 现金 变化             相反   (X)/X
+ Add /Less: Increase / decrease in trade payables                             负债 与 现金 变化 相同               X/(X)
+ Cash generated from operating activities                                                                      X
+
+ Less: Tax paid                                                                                            (X)
+ Net cash flows                                                                                                A
+
+
+2. Cash flow from investing activates                             Se        eee       ee   Me        ~    : —
+
+ Less: Purchase ofNCA                                                                                       (x)
+Add:    Proceeds from disposal of NCA                                                                              x
+Add:    Investment income received                                                                                 x
+Net cash flows                                                                                                     B
+
+
+3. Cash flow from financing activates                                  as
+
+Add:    Issue of shares                                                                                            X
+Add:    Issue of loan notes/long-term borrowings                                                                   x
+Less:   Repayment of loan notes/long-term borrowings                                                           (X)
+Less:   Dividend paid                                                                                          (X)
+
+Less:   Interest paid (原来
+                        在 经 营                活动 ， 现 在 属于 融资 活动 )                                            (X)
+Less:   Lease payments                                                                                     (X)
+Net cash flows                                                                                                 C
+
+
+
+                                                            123
+
+
+========== PDF 第 25 页 / 共 50 页 ==========
+
+                                                                                                       RATane
+    Changes in cash and cash qquivalents                                    ABC                XX)
+
+    Opening cash and cash equivalents                                                          N/(X)
+
+    Closing cash and cash equivalents at year end                                              N/(X)
+
+
+
+
+WHA               Workings:
+
+
+WI Tux paid
+
+                                             Taxation liability
+    Opening (DTL + Tax payable)                      X
+    Add: Tax expense (SPL)                           xX
+
+    Less: Cash paid ( 倒 推 )                         (X)
+    Closing (DTL + Tax payable)                      X
+
+
+
+练习 :
+The statements of financial position of Nedburg Co includes the following extracts:
+
+
+                                                            20X1
+                                                            $m
+
+    Non-current liability
+    Deferred tax liability                                   140
+    Current liability
+    Tax payable                                              160
+
+
+The tax charge in the statement of profit or loss for the year ended 30 September 20X2 is $270m.
+What amount of tax was paid during the year to 30 September 20X2?
+
+
+$                 million
+
+
+
+
+Answer:       130
+
+
+========== PDF 第 26 页 / 共 50 页 ==========
+
+                                                                                                       fl Tou0
+\V2 Purchase of NCA
+
+                                                       PPE
+ Opening                                                X
+
+    Add: Purchase ( 倒 推 )                               x
+
+    Add: Revaluation                                    x
+
+| Add: Dismantling cost                                 X
+
+| Less: Disposal                                       (X)
+
+ass Depreciation and impairment                        (X)
+ Closing                                                xX
+
+
+
+
+2e:
+1.     The carrying amount of property, plant and equipment was $410m at 31 March 20X1 and $680m at 31
+       March 20X2. During the year, property with a carrying amount of $210m was revalued to $290m. The
+       depreciation charge for the year was $115m. There were no disposals.
+
+
+      What    amount     should appear under “investing activities” in the statement of cash flows as cash
+       paid to acquire property, plant and equipment?
+
+
+      $                million
+
+
+
+
+2.     The following information is available for the property, plant and equipment of Fry as at 30 September:
+
+                                     2014                     2013
+                                     $000                     $7000
+
+ Carrying amounts                   23,400                   14,400
+
+
+The following items were recorded during the year ended 30 September 2014:
+@     Deprecation charge of $2.5m
+@      An item of plant, with carrying amount of $3m, was sold for $1.8m
+@)     Aproperty was revalued upwards by $2m
+@      Environmental provisions of $4m relating to property, plant and equipment were capitalized during the
+       year
+
+
+What      amount would be shown in Fry’s statement of cash flows for purchase pf property, plant and
+equipment for the year ended 30 September 2014?
+
+                                                        125
+
+
+========== PDF 第 27 页 / 共 50 页 ==========
+
+                                                               BAPT
+                                                                  I Ore
+
+
+
+
+A.   S&Sm
+o    $12.5m
+C.   $7.3m
+D.   $10.5m
+
+
+
+
+Anvwer:       308,   A
+
+
+
+
+W3 Issue of shares
+
+                                                 Equity
+
+ Opening (share capital + share premium)               X
+
+ Add: Cash issue ( 倒 推 )                               X
+
+ Closing (share capital + share premium)               X
+
+
+
+
+W4 Dividend paid
+
+                                           Retained earnings
+
+ Opening                                               X
+
+ Add: Net profit                                       X
+
+ Less: Dividend paid ( 倒 推 )                           (X)
+
+ Closing                                               X
+
+
+
+
+WS Interest paid
+
+                                           Interest payable
+
+Opening                                           X
+
+Add: Interest expense (SPL)                       X
+
+ Less: Cash paid ( 倒 推 )                         (X)
+ Closing                                          xX
+
+
+
+
+                                                  126
+
+
+========== PDF 第 28 页 / 共 50 页 ==========
+
+                                                                                                   HA Tavs
+
+                                   第 十 四 章 财报分 析 Ratio analysis
+
+
+                                           Ratio AX       [HiT]                                   单位
+     1, Gross profit margin                 Gross profit / Sales * 100%
+
+     2. Operating profit margin    (FL)     Operating profit / Sales * 100%
+
+     3. ROCE                                PBIT / (Debt + Equity) * 100%
+
+     4 Assets turnover                      Sales / (Debt + Equity)
+
+    5. ROE                                   (PAT - Preference dividend)       / Equity * 100%
+
+    6. Current ratio                        CA/CL
+
+     7. Quick ratio                         (CA - Inventory) / CL
+
+    8. Inventory holding period             Inventory / Cost of sales * 365
+
+     9. Inventory turnover                  Cost of sales / Inventory
+
+     10. Receivable collection period       TR / Credit sales BY sales * 365
+
+     11. Payable payment period             TP / Credit purchase BY cost of sales *365
+
+     12. Working capital cycle
+                                            Inventory days + TR days - TP days
+          Operating cycle
+
+                                            Debt / Equity * 100%
+    13. Gearing ratio
+                                            Debt / (Debt + Equity)      *100%
+
+    14, Interest cover                      PBIT / Finance cost                                   Times
+
+    15. Dividend per share (DPS)            Total dividend paid / Number of ordinary shares        Cents
+
+    16. Dividend cover                      PAT / Total dividend paid                             Times
+
+    17. Dividend yield                      DPS / Market price * 100%                                %
+
+    18. Price / Earning ratio               Market price / EPS * 100%                            % or times
+
+
+
+
+ WM 考点 : Debt 包括
+
+          Bank loan
+
+
+
+
+ © e880
+©e
+          Loan notes
+          Redeemable preference shares
+
+          Convertible loan nots: liability element only
+
+          Lease liability (NCL+CL)
+
+          Loan in substance
+
+                                                             127
+
+
+========== PDF 第 29 页 / 共 50 页 ==========
+
+                                                                                                                WPL Tavs
+
+2. 财报 分 析
+    Performance          FNS} Hy
+
+                          目 身 常规          原因 ，
+                         。 Change in sales price
+                         * Good or poor cost control
+                         e Change in the cost classification
+                         e Change in sales mix
+
+                     _        外 界 原因，
+ Gross profit margin
+                         * Increased in purchase price or production cost 采购                成 本 ， 生 产成 本
+
+                         ¢ Inventory writes down due to damages and obsolete 存货 贬值 风险
+                         。 One-off cost such as research expenditure or PPE’s impairment loss. However,
+                               these are non-recurring items which may not exist in the future. 一 次性                科目 产
+
+                               生 导 致 成 本 增加 ， 但 预计 今后 不 会 再 有 ， 后 续 利 润 回升
+                          自身 常规 原因 :
+                         。Good or poor control of overheads
+
+       beet
+  Operating profit
+                         外 界 偶然 原因     ;
+
+                         ¢ One-off expenditure may distorted this year’s margin such as redundancy cost.
+
+                              一 次 性 支出费用 的 产生 ， 导 致 利润减少
+                         。 行业        原因 : Type of industry (a manufacturing company will typically have
+                              have higher assets and lower ROCE               than a   services or knowledge-    based
+
+                              company )
+
+                         + 资产 使 用 情况 : Age of assets (old assets have a lower carrying amount
+                              resulting in low capital employed and high ROCE
+
+                         。 购 买 新          资产时 间 因 素 : Timing         of the     purchase   of assets   (if assets    are
+
+                              purchased at the year-end,       capital employed will increase but there will have
+       ROCE
+                              been no time to increase profit yet,     so ROCE is likely to fall.
+
+                         材料 特殊 因素 :
+                         。【      买 比 租 划算 】Owing an asset would be compensated by a higher return due
+                              to not having the lease liability.
+
+                         。【       资 产 增值
+                                       产生 不 利 影响                】The use of revaluation model will adversely
+                              impacting the ROCE        due to having the revaluation surplus. Besides, the
+                              increased in carrying amount without any physical increase in its earnings
+                              capacity,
+
+                                                         128
+
+
+========== PDF 第 30 页 / 共 50 页 ==========
+
+                                                                                                        BLA Tava
+
+ [ Performance conclusion 利润
+                           表 分 析 结 论 ]
+* Overall, the movement of profit margin or ROCE is due to xxxx
+* xxxx is the most concerned issue in operating performance
+* For the future prospect, xxx may increased or decreased.
+
+                          【与
+                           去 年 相 比 增加 原因 】
+                         "资产
+                           正 值 成 熟期;
+                         。The improvement maybe due to the new purchased assets or the development
+                           project coming on stream and is generating revenues.
+
+
+                         【与 去 年 相 比 减少 原因 】
+                         .资产太 新 :
+                         。The new purchased PPE will take time to come to the full production capacity.
+                           Therefore, this unfavorably distorts current years’s figures.
+
+   Asset turnover        > 资产太 旧 :
+                         。The owned PPE nearing the end of useful life which is not contributed to the
+                           assets turnover.
+
+
+
+                          【高 于 同行
+                                业 原因 】
+                         。This indicates company’s business strategy which is generate more sales to
+                           compensate for the lower profit margin
+
+
+                          【 低 于 同行业 原因】
+                         。Company      is charging higher price to compensate       less sale volumes    which
+                          results in lower assets turnover but higher profit margin.
+
+ Financial position      资产 负债 表 分 析
+                         自身 因素
+                        。Pursued a higher or lower pricing strategy
+                        ¢ A build-up in inventory level, perhaps suggesting that the investment in
+                          inventory is becoming excessive
+ Inventory holding
+                        ¢ Offer generous credit policy to customers
+      periods
+                        外界 因素 :
+                        。Movement of demand for products
+                        ¢ Bulk buying discount
+                        ¢ Obsolete inventory lines
+
+
+
+
+                                                     129
+
+
+========== PDF 第 31 页 / 共 50 页 ==========
+
+                                                                                                         Gt Tavs
+
+
+                          FFA:
+                          * Poorly managed credit control
+Receivable collection
+                          » Offer generous credit policy to customers
+       perlods
+                          SRR:
+                          » Due to customer bankruptcy
+                          + Due to lower or negative bank balance
+  Payable payment         * Lack of long-term finance
+       periods            * Could lead to future problems with supplier’s relationship or increased bank
+                               overdraft
+
+Current/quick ratio       * Duc to bank overdraft
+
+
+                              【变化 原因】
+                          。 Issued new shares or loan notes
+                          ¢ Repayment of loan notes
+
+
+                              【影响 】
+                          @       对 股东 high amount of borrowings carry high interest expense, hence will
+                                 reduce the profit available for distribution to shareholders. This can be solved
+       Gearing                   by issuing shares, however, the existing power of shareholders will be diluted.
+
+                          Q      对 资产 抵押 less sufficient tangible assets for the future borrowings
+
+                          @@ 对 将           来 借款能 力 further borrowings my be limited and more expensive
+
+                          @®     对 已 发 行 股票 making the current shares more risky
+
+                          @      如 果 gearing
+                                        低 于 行业 水 平 ， 说 明 公 司 未 能 物 尽 其 用 ， 利 用 廉价
+                                                                                的 借贷 来
+                                 创造 利润 lower gearing level indicates the company is not efficient in using
+
+                                 of borrowing to create shareholders wealth.
+
+                          ¢ Movement of profit margin
+    Interest cover        ¢ Issued new loan notes leading to higher finance cost
+                          « Reducing finance cost by repayment of borrowings
+
+ [ Overall conclusion }
+
+。 Although....,.. (虽然
+                   公司 状况 不 好 ， 但 可 有 还 有 其 它 解释                         ， 利 用 材料 信息 具体 解释 )
+。 Lack of further information ......        ( 由 于 缺乏 具体 信息         ， 比 如 折旧 ， 采 购 等        无 法 作出 具体 分 析 )
+
+。 最 后 做 出 综合判断
+
+
+
+
+                                                         130
+
+
+========== PDF 第 32 页 / 共 50 页 ==========
+
+                                                                                                         Hf Tone
+
+                                     第 十五 章 合并 报表 介绍
+
+~ IFRS 10 Consolidated financial statements
+
+
+   Voting power        Degree of influence            Types of investment           Accounting treatment
+
+      > 50%                     Control                     Subsidiary                  Full consolidated
+
+    20% - 50%          Significant influence                Associate                    Equity method
+
+                               ，                           ，     ，                            FVTPL
+      <20%                  No influence                 Financial assets                    FVTOCI
+
+
+
+
+1.1 Parent and subsidiary
+
+
+
+          Parent            A parent is an entity that controls one or more other entities
+
+        Subsidiary          Subsidiary is a company controlled by another company
+
+                            According to IFRS 10 Consolidated financial statements an investor
+
+                            投资 者 controls investee 被 投资 者 when:
+
+                            @® Power over the investee to direct the relevant activities 有 权决 定
+
+                                 被 投资 方 活动 和 决策
+         Control
+                            @    Exposure, or rights, to variable returns from its involvement with
+
+                                 investee 有 权 享有
+                                               被 投资 方 利润 最 为 可 变 投资 回报
+                            @    Ability to use its power over the investee to affect the amount of
+
+                                 the investors’ retums 投资
+                                                        方 有 权 影 响 自身
+                                                                   的 投资 回报
+
+
+
+
+                                                      131
+
+
+========== PDF 第 33 页 / 共 50 页 ==========
+
+                                                                                                      WL PT J dks
+
+                                   【情况 11 控股 超过 50% ( 带 有 投票 权 的 普通 股 )
+                                   【情况 2】 控股
+                                           小 于 等 于 50%， 但 能 够 证 明 以 下 任意 一 点 岂 事 存
+                               在;
+                               @     The parent has power over more than 50% of voting rights by
+                                     virtual agreement with other investors   (投资 方 和 其 他 股东 捆
+
+                                     绑 投 票 ， 投 票 比 例 一 共 超过 50%)
+                               @     The parent has power to govern the financial and operating
+     Existence of control
+                                     polices (ALEAT ALES         Hi BEE Hy WY ae MA     Es SK
+                                     策)
+                               @     The parent has power to appoint or remove the majority of
+
+                                     members of board of directors     (投资 方 有 权利 任命 或 裁撤 超过
+
+                                     一 半 的 董事会 成员)
+                               @®    The parent has power to cast a majority of votes at meeting of
+
+                                     board of director   (投资
+                                                           方 享有 董事            会 超过 50% 的 投票 权 )
+
+
+
+
+  【经
+   典 例题 】
+IFRS 10 Consolidated financial statements provides a definition of control and identifies three separate
+elements of control.
+Which one of the following is Not one of these elements of control?
+
+
+     Power over the investee
+D>   The power to participate in the financial and operating policies of the investee
+     Exposure to, or rights to, variable returns from its involvement with the investee
+UO   The ability to use its power over the investee to affect the amount of the investor's returns
+
+
+
+
+Answer: B
+
+
+
+
+ 1,2 Consolidated Financial Statements
+
+ Means financial statements of whole Group presented as a single set of accounts.
+
+
+
+
+ 1.3 Non-Controlling Interest 非 控制            性 权益 /少数 股东 权益
+ NCIis a collective representation of the shareholders that normally own 49% or less of equity.
+
+                                                           132
+
+
+========== PDF 第 34 页 / 共 50 页 ==========
+
+                                                                                                             GLA} Tone
+
+OW 考点 ; 合并 报表 注意 事项
+QD      编制 合并 报表 前 ， 需 要 统一 母子 公司 的 会 计 政 策 和 会 计 准 则 ， 不 属于 JAS 8 会 计 政策 变更
+@      若 母子 年 末 时 间 不 同 ， 需要 把 子 公司 时 间 调 整 为 母 公 司 时 间 ， 除 非 年 末 时 间 差 小 于 等 于 三 个 月 ，
+       则 可 以 不 用 调整
+图       即使 子 公司 被 收购 时 就 打算 将 来 售 出 ， 属 于 IFRS 5 停止 经 营 的 范围 ， 也 要 编 合并报表
+图       只 要 投资 方 享有 控制 权 ， 所 有 情况 下 都 需要 进行 合并 (高
+                                                频 考 点)
+
+
+
+
+2. Associate
+
+
+
+                                Is an entity over which the investor has significant influence and that is
+            Associate
+                                neither a subsidiary nor an interest in a joint venture of other company
+
+
+                                This is defined as the ‘power to participate’, but not to 'control' (which would
+      Significant influence
+                                make the investment a subsidiary)
+
+                                 【情况 1〗 投 资方 占有 普通 股 20%-50%，                    且 被 投资 企业 不 能 是 其 它 公司
+
+
+
+
+                                 【情况 2】 若 持 股 比例 小 于 20% ， 需 证 明 以 下 任意 一 点 实事 存在 :
+                                   。Representation on the board of directors       董事       会 列席
+
+                                   ¢ Participating   in   policy   making   process,    including   participation   in
+     Existence of significant        decisions about dividends or other distributions        有 权 人参与 决策      制定
+                                                                                                              过 程
+            influence
+                                   。Material transactions between the investor and the investee 双方             存在 重
+
+                                     大 交易
+                                   。 Interchange of managerial personnel      双方       存在    管理 层 人 员 交 换
+
+                                   。Providing of essential technical information            对 联营 公司 提供      重要 技术
+
+                                     支撑
+
+
+
+
+                                                          133
+
+
+========== PDF 第 35 页 / 共 50 页 ==========
+
+                                                                                                              WA PT   ane
+
+    C229      MI 201958129 RY
+  Which of the following should be accounted for as subsidiaries in the consolidated financial statements
+  of Preece Co?
+
+
+
+                                 | Preece Co currently owns 40% of the share capital of Gilber Co and holds
+        (1)          Gilber Co
+                                 _ options to purchase another 20% which it can exercise immediately
+                                  Preece Co owns 60% of Grovez Co and has appointed the majority of the board
+        (2)          Grovez Co
+                                 of directors
+
+                                 Preece Co owns 80% of Roge Co. Roge Co is loss-making and Preece Co js
+        (3)          Roge Co
+                                 considering selling it in the near future
+
+
+        1 and 2 only
+
+
+
+
+COD >
+        2 and 3 only
+        1 and 3 only
+        1, 2 and 3
+
+
+
+
+ Answer:      D
+
+
+
+
+                                                            134
+
+
+========== PDF 第 36 页 / 共 50 页 ==========
+
+                                                                                                  RL ALT one
+
+                                     第 十 六 章 合并 报表 编制
+    - Consolidated statement of financial position
+-     Consolidated statement of profit or loss and other comprehensive income
+
+
+
+
+1. Goodwill
+
+商       誉 是 由 企业 合并 中 取得 的 ， 不 能 单独 辨认 并 确认 的 其 他 资产 所 形成 的 代表 未 来 经 济 利益 的 资产
+The company may have acquired shares in the subsidiary at a price greater than the acquired net assets. The
+ditterence is called goodwill and is measured at the date of acquisition (DOA).
+
+
+
+
+思考 1
+Golden Co acquired all of the 1,000 shares of Simple Co for $8 paid per share. The market price of Simple
+Co is $10 per share.
+At the acquisition date, the fair value of Simple Co’s assets was equal their carrying amount with the
+
+exception of an item of plant:
+
+-    Carrying amount is 2,000
+~    Fair value is 2,500
+
+
+
+    子 公司 报表 ;
+    Share capital                       1,000
+
+    Share premium                       1,000
+
+    Retained earnings                   1,000
+
+    Revaluation surplus                 1,000
+
+
+
+
+                                                      135
+
+
+========== PDF 第 37 页 / 共 50 页 ==========
+
+                                                                                                4 Atsus
+
+
+my2
+Goldeh Co sequited 0% of the 1,000 shares of Simple Co for $8 paid per share. The market price of Simple
+Co fk 810 per shite.
+At the pequisition date, the fir value of Simple Co's assets was cqual their carrying amount with the
+
+exception of ah iteth of plant:
+
+~ Camyitg amount is 2,000
+- Fuk volue fs 2,500
+
+
+可   VAN:     如 果 报 天 中 子 公 司 没有 share premiumBRiik       28 HLH      Ze    A        LT    ER      HIT.
+
+    而 是 按照        面 值 平 价 发 行 、 不 需要 用 子 公 司 现在 的 股价 重新 计算 share premium
+
+
+
+ FAS RE:                                s
+Share capital                         1,000
+Share premium                         1,000
+
+Retained carnings                     1,000
+
+Revaluation surplus                   1,000
+
+
+
+
+                                                  136
+
+
+========== PDF 第 38 页 / 共 50 页 ==========
+
+                                                                                                        HLA Tons
+ 1.1 Format of goodwill        (7731)
+
+
+
+  C1) 简单
+       版 - 主观 大 题
+ Cost of investment
+
+ FV of NCI                    【 子 公司股 数 Me 20% %         子 公 司 股票市 价 】
+
+
+ Less: Total net assets
+
+ Goodwill
+
+
+
+
+  (2) 完整 版 - 客观 小 题
+ Cost of investment
+
+ FV of NCI
+
+
+
+ Less:
+
+  Share capital
+
+  Share premium (if any)
+
+  Revaluation surplus     (if any)
+
+  Retained earnings
+
+  +/-FV adjustment [A MAI]
+  + /- Unrecorded assets or liability【    补 记 未 确认       科目 】
+ Total net assets                                                                         (X)
+ Goodwill
+
+
+
+
+ 【注意 】
+。 Positive goodwill:      recognized as NCA in consolidated statement of financial position
+
+e Negative goodwill       (bargain purchase)   : Credited to consolidated statement of profit or loss
+
+
+
+
+                                                        137
+
+
+========== PDF 第 39 页 / 共 50 页 ==========
+
+                                                              ah Ht Jus
+
+
+
+2. 合并 资产 负债 报表 三 大 原则
+@ 于 公司 的 资产 ， 负 债 全 部 合并
+@     消除
+       组 内 交易
+@     非 控制 权益 (NCI)        也 要 体现
+                                在 报表 内
+
+
+
+
+【例题 1]
+100% 收 购 + 年底 收购
+
+
+                               Parent    Subsidiary   Group
+
+Non-current assets
+
+PPE                            4,000       2,400
+
+Investment in Subsidiary       8,000          -
+
+
+
+Current assets
+
+Inventory                      1,600       2,100
+
+Trade receivables              2,000       1,000
+
+
+
+Equity
+
+Share capital                  5,000       1,000
+
+Share premium                  3,000       1,000
+
+Retained earnings              5,000       2,000
+
+
+
+Liability
+
+Trade payables                 2,600       1,500
+
+
+
+
+                                             138
+
+
+========== PDF 第 40 页 / 共 50 页 ==========
+
+                                                             4 AT sua
+
+(882)
+SS 收购 + 年底 收购
+AN FV of NCI         是 1.000
+
+
+
+                               Parent   Subsidiary   Group
+
+Non-current assets
+
+PPE                            4,000      2.400
+
+Investment in Subsidiary       6,400         -
+
+
+
+Current assets
+
+Inventory                       1,600      2,100
+
+Trade receivables              2,000       1,000
+
+
+
+ Equity
+
+ Share capital                  5,000      1,000
+
+ Share premium                  3,000      1,000
+
+ Retained earnings              5,000      2,000
+
+NCI       [20%]
+
+
+
+ Liability
+
+Trade payables                  1,000       1,500
+
+
+
+
+                                           139
+
+
+========== PDF 第 41 页 / 共 50 页 ==========
+
+                                                                      YAY] J Ove
+
+Consolidated statement of fnancial position:
+
+ Equity
+
+Share capital   [parent only]
+
+Share premium     [parent only]                      B/S
+
+Group's revaluation surplus            BE + (FH       Je SEL
+                                                     ball      80%)
+
+ Group's retained camings                  第 五 步 中 计算 (WS)
+ Non-controlling interest                  第 四 步 中 计算 (WA)
+
+
+
+
+                                               140
+
+
+========== PDF 第 42 页 / 共 50 页 ==========
+
+                                                            BHA Tone
+
+3. 合 并 资产 负债 表 五 步 法 Five-working method
+
+
+WI: 计算 收购 成 本
+W2:       计算
+           子 公司 net assets
+
+W3:       计算 收购 日 商 誉
+W4: 计算 NCI 年 底 公允 价值
+WS: 计算 集团 留存 收益 Group RE
+
+
+
+WI:       Cost of investment
+
+      1   | Cash consideration         现金对 价
+
+  2       | Deferred consideration     WIEN
+
+  3       | Contingent consideration   或有对 价 昱
+
+      4 | Share for share exchange     DUBE BRIBE**
+
+      5 | Loan notes exchange          以债 换股
+
+
+
+
+                                                      141
+
+
+========== PDF 第 43 页 / 共 50 页 ==========
+
+      . “TI   ang
+
+
+
+
+142
+
+
+========== PDF 第 44 页 / 共 50 页 ==========
+
+      ft AT sus
+
+
+
+
+143
+
+
+========== PDF 第 45 页 / 共 50 页 ==========
+
+                                                                                                     WATone
+
+  (e210)
+ 1, 20084512)9 TO
+On 1 April 2008, P acquired 60% of the equity share of S (total is 4m shares) in a share exchange of 2 shares
+in P for every 3 shares acquired in S, At the date of acquisition, market price of P is $6 each,
+
+
+
+
+2. 2016年 6月 真题
+At 1 October 2015, P acquired 60% of S’s equity shares (total is 9m shares) by means of a share exchange of
+1 new share in P for every 2 acquired shares in S. In addition, P will pay a further $0.54 per share acquired
+one year later. ( cost of capital is 8%) The market price of P is $3 per share at acquisition.
+
+
+
+
+3. 2014年 6月 真题
+On 1 October 2013, P acquired 90% of S’s 100m equity shares. The acquisition was achieved through a share
+exchange of | share in P for every 3 shares in S. At that date the market price of P is $4 per share.
+Additionally, P will pay $1.54 cash on 30 September 2014 for each share acquired. The finance cost is 10%.
+
+
+
+
+                                                       144
+
+
+========== PDF 第 46 页 / 共 50 页 ==========
+
+                                                                                                       WATove
+
+ 小 2013
+      年 12 月 真题
+ On   1 April 2013, P acquired 75% of the cquity sharcs of S (total 6m shares). P made an immediate cash
+Payment of $1.5 per share. In addition, P will pay a further amount in cash on 30 September 2014 based on
+post performance. The value of this contingent consideration at the acquisition date is $1.8m. But af year
+end, this is only $1.5m.
+
+
+
+
+$. 2013年 6 月 真题
+On    1 October 2012, P acquired 75% of S’s equity shares (20m in total) by means of a share exchange of 2
+shares in P for every 5 acquired in S. The market price of P is $2 each. In addition, P issued to S at par value
+One $100 loan note for every 1000 shares it acquired.
+
+
+
+
+                                                        145
+
+
+========== PDF 第 47 页 / 共 50 页 ==========
+
+                                                                                             Bp Ph J ove
+
+ W2:          Net assets of subsidiary
+
+
+
+ PA:          Equity = Net assets
+
+
+
+                                         DOA     DOC             Post- acquisition RE
+     Equity                          收购 日      年 末合 并日             收购
+                                                                    后 留存 收益
+ Share capital                            xX      xX
+
+ Share premium                            xX      X
+
+ Retained earnings                        X       X
+
+ Revaluation surplus                      X       X
+
+ Net assets                              XI       X2                        x
+
+
+
+
+                              计算 收购 日 商 誉                 按持 股 比例 分 配给 大 小 股东
+
+
+ 【经
+  典 例题 】
+1，      已 知 收购 日 子 公司 股本 为 $1,.000， 股 本 溢价 $1,000， 留 存 收 益 82,000，                年 末 子 公司 留存 收益 为
+       $3;,000，     求 收购 日 子 公司
+                              净 资产 net assets    以 及 post-acquisition RE?
+
+
+
+
+                                                   146
+
+
+========== PDF 第 48 页 / 共 50 页 ==========
+
+                                                                                                          Ai fave
+
+>     AUR        AF ZS BREAK AS1,000.         RRAHRUS1.000.   FTF    HS2.000.     ERA
+                                                                                    MM EK
+
+      S3.000、 收购 当 日 、 子 公司 investment property 2 Fr {fr {4 He PK ed (48500.            JE Hr fH BY HEE     $700
+
+
+                                DOA                 DOC         Post- acquisition RF.
+ Baulty                         收购 日 。           年末合并日              收购
+                                                                     后 留存 收益
+ Share capital
+
+ Share premium
+
+ Retained earnings
+
+ FV adjustment
+
+ Net assets
+
+
+
+
+3、    已 知 收购        日 子 公司 股本    为 $S1,000，    股 本 溢价 $1,000， 留 存 收 益 32,000，      年 来 子 公司           留 存 收益 为
+      S3,000， 收购 当日 ， 子 公司 一 群 羊 sheep 公 黎 价值 比 账面 价值 高 83500， 此 差 值 到 年 底 为 S700
+
+
+      。                         DOA                 DOC         Post- acquisition RE
+ salad                          Ki               RH                  后 留存 收益
+                                                                    收购
+ Share capital
+
+ Share premium
+
+ Retained earnings
+
+ FV   adjustment
+
+ Net assets
+
+
+
+
+                                                      147
+
+
+========== PDF 第 49 页 / 共 50 页 ==========
+
+                                                                                               LAS avs
+     4        EAN RY A F-Z8   REA YS1,.000,     ALARHAS1.000,   WI 44 38$2,000.    FEF
+                                                                                    7 Fi Met Awe $4
+
+          33,000. WeWy24.       FS iinventory Zs FM A LOR i St (APH SS00.   ZENE   FLT} AY FA EL
+
+          第 三 方 (20
+                 站 年 6 月 者 季 原题 )
+
+
+     Equin                         DOA              DOC          Post- acquisition RE
+                                   收购 日 。 年未合并 日 。                  后 留存 收益
+                                                                   收购
+     Share capital
+
+     Share premium
+
+     Retained camings
+
+     FV adjustment
+
+     Net assets
+
+
+
+
+5，       已 知 收购       日 子 公 司 股本    为 $1,000，   股 本 溢价 $1,000， 留 存 收益 $2,000，      年 末 子 公司 留存 收益 为
+
+         $3,000， 收购 当日 ， 子 公司 trade receivable 中 有 一 笔 坏 账 或 可 括 账 项 计 提 未 调整 ， 金 额 为 83300， 到
+
+         年 底 坏账
+              金额 不 变
+
+
+          .                        DOA              poc          Post- acquisition RE   |
+                                   收购 日 =| RASA                 | 收购
+                                                                   后 留存 收益
+ Share capital
+
+ Share premium
+
+ Retained earnings
+
+ FV adjustment
+
+ Net assets
+
+
+
+
+                                                       148
+
+
+========== PDF 第 50 页 / 共 50 页 ==========
+
+                                                                                        HATous
+
+&     已 知 收购 日 子 公司 股本 为 S1.000， 股 本 溢价 S1.000， 久 存 收益 S2,000， 年 来 子 公司 盘存 收益 为
+     S3.000、     收 购 当日 、 子 公司 的 PPE 公 人 允 价 值 比 账 面 价值 高 $500， 此 时 PPE 剩 余 考 命 为 5 年
+
+
+ Equity                                    DOA          DOC      Post- acquisition RE
+          ,                                收购 日 ”年末 合并 日           收购
+                                                                    后 留存 收 夫
+ Share capital
+
+ Share premium
+
+ Retained earnings
+
+ FV adjustment
+
+ Depn【 折 旧 增 加 ， 年 末 RE
+                      减 少】
+ Net assets
+
+
+
+
+7、   已 知 收购        日 子 公司 股本   为 81,000，   股 本 溢价 $1,000， 留 存 收益 $2,000，    年 末 子 公司    留存 收益 为
+     33,000， 收购 当日 ， 子 公司 的 PPE 公 人 价值 比 账面 价值 低 35500， 此 时 PPE 剩 余 寿命 为 5 年
+
+
+                                           DOA          DOC      Post- acquisition RE
+ Equity
+                                           收购 日 ”年末 合并 日           收购
+                                                                    后 留存 收益
+ Share capital
+
+ Share premium
+
+Retained earnings
+
+FV adjustment
+
+Depn 【折旧 减少 ， 年 末 RE
+                   增 加】
+Net assets
+
+
+
+
+                                                  149

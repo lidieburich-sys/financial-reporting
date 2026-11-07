@@ -1,0 +1,875 @@
+文件：fr4.pdf
+页数：19
+文字来源：原有文字层
+定位：以下页码为 PDF 文件内的页序号，从 1 开始，可能不同于纸面印刷页码。
+说明：保留尽可能多的表格布局；OCR 可能误识别数字、金额、符号或中英文，做题时请对照原 PDF。
+
+
+========== PDF 第 1 页 / 共 19 页 ==========
+
+                                                               敬丹Jane
+
+8. 已知收购日子公司股本为$1,000、股本溢价$1,000.留存收益S2,000,年末子公司留存收益为
+
+  $3,000.收购当日、子公司provision公允价值高于账面价值S500,此价值到年底为S700
+
+                DOA     DOC       Post- acquisition RE Equity            收购日   年末合并日   收购后留存收益
+ Share capital
+ Sharc prcmium
+ Retained earnings
+
+ FV adjustment
+ Net assets
+
+
+
+
+
+9. 已知收购日子公司股本为$1,000,股本溢价$1,000,留存收益$2,000,年末子公司留存收益为
+
+  $3,000,收购当日，子公司有一未确认科目为brand name,当日公允价值为S500,寿命为5年
+
+                   DOA   DOC                                                            Post-acquisition RE Equity               收购日  年末合并日  收购后留存收益
+ Share capital
+ Share premium
+ Retained earnings
+ Brand name
+ Amortisation
+ 【补记摊销，年末RE减少】
+
+ Net assets
+
+
+
+
+
+                                 150
+
+
+========== PDF 第 2 页 / 共 19 页 ==========
+
+                                                                  敬丹Jane
+
+    10.已知收购日子公司股本为$1,000,股本溢价$1,000,留存收益S2,000,年末子公司留存收益为
+
+      $3,000,收购当日，子公司有一未确认科目contingent liability,当日公允价值为$500
+
+
+                   DOA                          DOC        Post-acquisition RE
+      Equity              收购日   年末合并日   收购后留存收益
+       Sharc capital
+       Share premium
+       Retained earnings
+       Contingent liability
+      Net assets1
+
+
+
+
+
+    难点：Unrecorded assets and liabilities
+   ① Internally generated intangible assets: customer list, relationship, brand name should be recognized
+
+           at fair value 内部产生的无形资产在合并报表里需以公允价确认，且需要补记摊销
+
+  ② Contingent liability: should be recognized at fair value或有负债在合并报表里需以公允价确认
+
+
+   考点：求收购日RE
+
+  ① 已知年初RE,收购日RE=opening RE+收购前利润
+
+  ② 已知年末RE,收购日RE=closing RE-收购后利润
+
+
+
+
+
+                                          151
+
+
+========== PDF 第 3 页 / 共 19 页 ==========
+
+                                                               敬丹Jane
+W2 Net assets of subsidiary(背过)
+
+                        DOA     DOC                                                                  Post-acquisition RE Equity(子公司)                  收购日  年末合并日                         收购后留存收益
+ Share capital             X     X
+ Share prcmium           X     X
+ Revaluation surplus          X     X
+ Retained carnings          X     X
+ Adjustments:
+ (1)Assets
+                     X     X调增资产
+
+折旧变大，年末RE减少                         (X)
+
+调减资产                        (X)        (X)
+折旧减少，年末RE增加             X
+
+ (2) Liability
+
+调增负债                        (X)        (X)
+                 X     X调减负债
+ (3) Unrecorded assets
+                 X     X以公允价值确认
+
+                                            (X)补记摊销，年末RE减少
+ (4)Unrecorded liability
+
+                                          (X) 以公允价值确认                   (X)
+
+ (5)URP(子是卖家)                          (X)
+ Net assets                XX      XX                                X
+
+
+
+
+
+                                   152
+
+
+========== PDF 第 4 页 / 共 19 页 ==========
+
+                                                             敬丹Jane
+W3 Goodwill
+
+ Cost of investment                       X
+                         X Add:FV of NCI
+                         X
+
+                                               (X) Lcss: Total Net assets
+ Goodwill【收购日】                X
+                                                              IAS 36资产减值组：
+ Less: Goodwill impairment aftcr acquisition(如果有)     (X)
+                        X                                                   Dr Impairment loss
+ Goodwill【年末】                X                                                            Cr Goodwill    X
+
+
+
+W4 NCI
+For the purpose of exam,NCI is to be measured at fair value. At year ended, the NCI share of post-
+acquisition retained earnings should be added to the NCI:
+ FV of NCI                          X
+                           X Add: Post-acquisition RE×20%(子公司收购后留存收益)
+
+ Less: Impairment loss×20%                               (X)
+ Add: Post-acquisition RS×20%(如果有)          X
+ NCI                         X
+
+
+
+W5 Group RE(未完待续)
+
+ Parent's RE(母公司自己全部留存收益)                   X
+ Add:Post-acquisition RE×80%(子公司收购后留存收益)           X
+ Less: Impairment loss×80%                                            (X)
+
+ Less: unwind of deferred consideration(递延对价利息)                         (X)
+
+ Less: URP(母是卖家)                                                    (X)
+
+ Add/less:FV movement of contingent consideration(或有对价FV变化)            X/(X)
+ Add:Negative goodwill(负商誉本质为收益，增加利润，留存收益额增加)    X
+ Group's RE                              X
+                                      153
+
+
+========== PDF 第 5 页 / 共 19 页 ==========
+
+                                                          敬丹Jane
+总结：合并资产负债表五步法【背过】
+
+W1 Cost of investment
+
+W2 Net assets of subsidiary
+                   DOA    DOC                   Post-acqusiiton RE Equity
+              X    X Share capital
+ Sharc premium        X    X
+RE            X    X
+
+ FV adjustments               X/(X)      X/(X)
+
+                                       (X)/X Dcpn
+ Unrecorded asscts/liability       XI(X)      X/(X)
+ Amortization                            (X)
+
+URP(子卖)                           (X)
+
+                             X1 Net assets                      X2                 X(X2-X1)
+
+
+
+
+
+ W3                    W4              W5
+ Cost of investment       X     Post-acq RE(20%)  X   Post-acq RE(80%)   X
+ +FV of NCI         X   +FV of NCI     X  +P's RE       X
+
+                                                                             (X) -Net assets                   (X1)   -Impairment(20%)    (X)  -Impairment(80%)
+ Goodwill【收购日】      X   NCI       X  -URP(母卖)            (X)
+                             (X)                         -Unwind              (X) -Goodwill impairment
+ Goodwill【年末】       X                             +Negative goodwill   X
+
+                                   +/-或有对价FV变化   X/(X)
+                                                      Group RE       X
+
+
+
+
+
+                                 154
+
+
+========== PDF 第 6 页 / 共 19 页 ==========
+
+                                                              敬丹Jane
+
+4.Intra-group transaction 组内交易
+ IFRS 10 Consolidated financial statements requires intra-group balances and transactions to be eliminated in
+ full. The purpose of consolidation is to present the parent and subsidiary as if they are trading as one entity.
+·存货买卖(未实现利润)******
+
+·固定资产买卖
+
+·账户余额***
+
+·在途科目(在途现金和在途存货)***
+
+·组内借款
+
+·组内股利
+
+
+4.1 Unrealized profit
+
+
+
+
+
+                                155
+
+
+========== PDF 第 7 页 / 共 19 页 ==========
+
+                                                           敬丹Jane
+
+总结：
+
+① 调减集团存货价值
+
+② 调减卖家留存收益：
+
+       母卖              子卖
+
+       Dr Parent's RE  X                              Dr Subsidiary's REX
+        Cr Group inventory X                                     Cr Group inventory X
+
+
+公式：URP=卖家全部利润*年底未出售存货比例
+
+      =买家年底未出售存货价值*利润率
+
+
+
+
+
+【经典例题】
+
+1. 已知子公司仓库中有价值100万的存货是从母公司内部购得，母公司对此组内交易征收margin
+
+  20%的利润
+
+
+
+
+
+2. 已知子公司仓库中有价值100万的存货是从母公司内部购得，母公司对此组内交易征收mark-up
+
+  20%的利润
+
+
+
+
+
+                                    156
+
+
+========== PDF 第 8 页 / 共 19 页 ==========
+
+                                                              敏丹Jane
+ 4.2 PPE transfer/sold
+
+
+                               Seller                                        Buyer
+                           100              150 PPE
+                             -20                -30 Depn(5年)
+                        80               120  Carrying amount
+
+
+ (1)合并调整法：
+
+       母卖              子卖
+
+                40           Dr Subsidiary's RE   40 Dr Parent's RE
+                40                          40 Cr Group PPE                       Cr Group PPE
+
+
+
+注意：两笔分录按情况写其中一笔分录即可
+
+
+
+
+ (2)拆分调整法：
+
+       卖家              买家
+                                Dr Group PPE                 10Dr Gain on disposal(seller RE) 50
+                                Cr Depreciation expense(buyer RE) 10                       50 Cr Group PPE
+
+
+
+注意：两笔分录都需要写，即调卖家又调买家
+
+
+
+4.3 Account balance/Intra-group balance
+
+
+               Seller                        Buyer
+
+       Trade receivable=100               Trade payable=100
+
+
+
+
+                                   157
+
+
+========== PDF 第 9 页 / 共 19 页 ==========
+
+                                                             敬丹Jane
+
+消除账户余额：
+Dr Group trade payable   X
+Cr Group trade receivablesX
+
+
+
+4.4 Items in transit /Account unbalance
+
+
+               Sellcr                                          Buyer
+
+        Trade receivable=120                                         Trade payable=100
+
+
+
+
+
+              Cash in transit                          Goods in transit
+
+Stepl:确认收款                               Step 1:确认赊购
+ Dr Group cash           20                              20                                      Dr Group inventory
+                                                       20 Cr Group trade receivable    20               Cr Group trade payable
+
+ Step 2:消除账户余额                                              Step 2:消除账户余额
+                         100                                     120 Dr Group trade payable                     Dr Group trade payable
+ Cr Group trade receivable     100               Cr Group trade receivable    120
+
+
+
+4.5 Intra-group loan
+
+
+             Lender                       Borrower
+
+     Loan note investment=1,000                                    Loan note liability=1,000
+
+        Investment income=50                Finance cost=50
+
+
+
+消除组内借贷：
+           XDr Loan note liability
+Cr Loan note investment X
+
+                                 158
+
+
+========== PDF 第 10 页 / 共 19 页 ==========
+
+                                                              敬丹Jane
+
+消除组内利息：
+Dr Investment income X
+           XCr Interest expcnse
+
+
+4.6 Intra -group dividend
+
+                      母应收股利      子应付股利
+                                       Dividend receivable =100       Dividend payable=100
+
+
+
+消除股利账户余额：
+          XDr Dividend payable
+Cr Dividend receivable  X
+
+
+注意：还需要消除合并利润表中的投资收入(即股利分红收入)
+
+
+
+
+
+5.合并利润表
+
+① 每行科目都需做合并100%相加【忽略持股比例、但要考虑收购时间】
+
+② 消除组内交易
+
+③ 最后需要分配利润
+
+
+注意：合并利润表也需要根据新考纲要求格式编制，按类别分类，考试直接抄母子公司单体利润表
+
+格式即可。
+
+                                     159
+
+
+========== PDF 第 11 页 / 共 19 页 ==========
+
+                                                             敬丹Jane
+
+【例题】80%收购+年中收购
+                                Parent Subsidiary           Group
+Revenue                         10,000 8,000
+
+                                     (6,000) (3,000)Cost of sales
+                             4,000 5,000Gross profit
+
+                                    (1,000) (800)Operation expense
+General and administrative expense         (800)    (200)
+                                      2,200     4,000Operating profit(新增)
+Investment income
+                                 消除                                       2,000
+(dividend income from subsidiary or associate)
+                                   XShare of associate's profit(如果有)
+Profit before financing and income tax                                   4,200   4,000
+
+                                      (100)     (200)Interest expense
+Profit before income tax             4,100                                                 3,800
+Tax expense                                 (1,000)    (800)
+Profit                                 3,100     3,000
+
+Other comprehensive income:
+
+                                            500 Revaluation gain                  1,000
+
+                           4,100 3,500Total comprehensive income
+
+
+
+净利润分配Profit after tax attributable to:
+ (1)Parent                             剩余
+                                  A (2)NCI
+
+综合性收益分配Total comprehensive income attributable to:
+                                 剩余 (1)Parent
+                                     B (2)NCI
+
+
+
+
+
+                                  160
+
+
+========== PDF 第 12 页 / 共 19 页 ==========
+
+                                                               放丹Jane
+
+5.1利润分配Attributable to NCI
+
+                                       X Subsidiary's PAT(子公司税后净利润)×n/12
+
+ Adjustments:
+
+① Goodvill impainment(子商誉减值，利润减少)                               (X)
+
+                                                            (X)X② Depn/amortisation(子补记折旧摊销，费用增加利润减少；费用减少利润增加)
+
+③ URP(子卖，利润高估，需要调减)                                              (X)
+                                      X
+                                                 ×20%
+ Profit attributablc to NCI                            A
+                                    X +Revaluation gain(子公司收购后又增值)×20%
+
+ +/-Gain or loss on FVTOCI×n/12×20%                                      X/(X)
+
+ Total comprehensive income attributable to NCI                   B
+
+
+
+考点：
+
+子公司收购日增值不记入OCI,不属于集团收益，只有收购后增值才属于集团收益
+
+商誉减值损失属于经营活动分类，可以和费用合并记录，也可以单独列示、看材料要求
+
+- 负商誉确认为收入，计入经营活动分类
+
+5.2 Unrealized profit
+
+
+
+
+
+                                     161
+
+
+========== PDF 第 13 页 / 共 19 页 ==========
+
+                                                        敏丹Jane
+6.Disposal of subsidiary(高频考点)
+
+
+6.1母公司单独处理
+
+                            X Salcs proceeds
+ Less: Original cost of investment                                                    (X)
+
+                                                        X/(X) Profit/ loss on disposal(记母公司单独利润表)
+
+
+
+
+6.2集团处理(背过计算格式)
+
+                          X Sales proceeds
+                          X Add: FV of NCI(出售日NCI公允价值)
+
+ Less: Goodwill(出售日)                                (X)
+
+ Less: Net assets(出售日子公司净资产即Equity)               (X)
+
+                                                      X/(X) Profit/loss on disposal(记集团合并利润表)
+
+
+注意：处置盈亏属于经营活动分类
+
+
+ 【经典例题】
+On 1 January 20X3 Golden Co acquired 80% of Bill Co's 100,000 of S1 shares for S300,000. The goodwill
+acquired in the business combination was $40,000, of which 50% had been written off as impaired by 31
+December 20X5 Golden Co sold all of the Bill Co's shares for S450,000 when Bill had retained earnings of
+S185,000.The FV of NCI at disposal date is S100,000.
+
+Profit on disposal in the individual financial statement: S_________
+
+Profit on disposal in the consolidated financial statement: S_____
+
+
+
+
+
+Answer:150000,245000
+                                     162
+
+
+========== PDF 第 14 页 / 共 19 页 ==========
+
+                                                              敬丹Joue
+7.IAS 28 Investment in associates
+
+IAS 28 requires the use of the equity method or equity accounting for investment in associates.
+
+
+权益法三大原则：
+
+① 不对联营公司的资产或负债合并(没有控制)
+
+② 在合并利润表中新增一个当期收益科目
+③ 在合并资产负债表中新增一个投资科目
+
+
+权益法的核心思想是按照我方在联营公司所占的权利比重(即持股比例)来计算应得利益，记入我
+方的财务报表
+
+
+合并利润表：
+ Sales revenue                    X
+ ···
+ Operating profit              X
+ Group share of associate's profit        X
+集团分得联营公司利润
+ Profit before financing and income tax      X
+
+
+
+
+合并资产负债表：
+
+NCA
+ Investment in associate             X
+投资联营公司价值
+
+
+
+
+
+                                  163
+
+
+========== PDF 第 15 页 / 共 19 页 ==========
+
+                                                                   敬丹Jane
+7.1 Goodwill impairment
+Total impairment loss×40% = Group share of impairment loss
+
+              XDr Share of associate's profit
+               XCr Investment in associatce
+
+
+以下表述，为已经乘过持股比例之后的减值金额：
+·The value of investment in associate was impaired by $400
+·The impainment loss of S400 relating to the value of investment in associate
+·Investment in associate had suffered an impairment loss of $400
+
+7.2 Unrealized profit
+Total URP×40%=Adjusted URP
+
+
+         Downstream sales                    Upstream sales
+    母公司是卖家(顺流)        联营公司是卖家(逆流)
+                           Dr Share of associate's profitX Dr Cost of sales      X
+               X Cr Investment in associate                   X                                   Cr Group inventory
+
+
+ (1)母公司是卖家：
+
+
+     母公司     母公司利润高估，增加成本，抵消利润
+
+               母公司多赚取的利润需要从投资价值中扣除
+
+
+
+    联营公司
+
+
+
+ (2)联营公司是卖家：
+
+
+
+     母公司     母公司存货高估，集团存货高估
+
+
+
+
+    联营公司    联营公司利润高估，分给母公司的40%利润高估
+
+                                  164
+
+
+========== PDF 第 16 页 / 共 19 页 ==========
+
+                                                              敬丹Jane
+
+口诀：母卖调减投资价值
+
+   联卖调减集团存货
+
+   无论谁卖，都要调减集团留存收益(W5)
+
+
+7.3 Dividend
+Associate paid total dividend×40%=Group received dividend
+
+
+母公司单体报表              权益法
+Dr Cash      X       Dr Dividend income   X
+                              Cr Investment in associate Cr Dividend income X            X
+
+注意：联营公司给集团分红不可以计入利润表为收入，根据权益法要求，利润表中记录的应该是集
+
+团分得联营公司利润，而非单纯的分红收入，考试中，如果母公司在单体利润表中已经记过分红收
+入，则需要消除；消除后的分红收入，需要在投资联营公司价值中减去，相当于投资变现。
+
+
+
+
+权益法总结：
+
+(1)合并利润表：
+
+Share of associate's profit(投资活动分类)
+
+=(Associate's profit ×n/12×40%)-(Total impairment ×40%)-(Total URP×40%)
+
+
+ (2)合并资产负债表：
+
+           Consolidated Statement of financial position
+
+Non-current assets
+
+Investment in associate(投资价值见公式)                        X
+
+
+
+
+
+                                 165
+
+
+========== PDF 第 17 页 / 共 19 页 ==========
+
+                                                             敬丹Jane
+
+投资价值计算格式(背过):
+
+ Cost of investment                                     X
+ Add:Associate s post-acquisition RE×40%                                     X
+ Less: Total dividend paid×40%                                                                 (X)
+ Less: Total impairment ×40%                                                                 (X)
+ Less: Total URP×40%                                                                 (X)
+
+ Add:Associate's post-acquisition revaluation surplus ×40%(联营公司资产收购后                                     X
+增值)
+ Investment in associate                             X
+
+
+
+
+
+考点：收购后联营公司留存收益及一系列调整需要同步到W5中
+
+ Parent's RE(母公司自己全部留存收益)                  X
+ Add:Post-acquisition RE ×80%(子公司收购后留存收益)           X
+ Less: Impairment loss×80%                                           (X)
+
+ Less: unwind of deferred consideration(递延对价利息)                          (X)
+
+ Less: URP(母是卖家)                                                                  (X)
+
+ Add/less:FV movement of contingent consideration(或有对价FV变化)                                                                    X/(X)
+ Add:Negative goodwill(负商誉本质为收益，增加利润，留存收益额增加)    X
+                                   X Add:Associate's post- acquisition RE×40%(联营公司收购后留存收益)
+
+                                                                       (X) Less: Total dividend paid×40%
+
+                                                                       (X) Less: Total impairment ×40%
+
+ Less: Total URP×40%(母卖/联营卖)                                 (X)
+                                 X Group's RE
+
+
+
+
+
+                                     166
+
+
+========== PDF 第 18 页 / 共 19 页 ==========
+
+                                                              敬丹Jane
+
+ 【合并报表必刷大题】
+
+Excel刷题，计时作答50分钟
+
+   合并报表刷题清单       题型      难度      备注
+
+                                 视频解析见微博顶置 1.2025年6月第31题         合并利润表*     适中
+
+                                 视频解析见微博顶置 2.2024年6月第31题     合并资产负债表(负商誉)  较难
+
+                                 视频解析见微博顶置 3.2022年12月第32题        合并利润表     较难
+
+ 4.2022年12月模拟卷第31题                 合并利润表     较难   视频解析见微博顶置
+
+                          简单   视频解析见微博顶置 5.2022年6月模拟卷第31题     合并资产负债
+
+ 6.2021年12月模拟卷第31题                  合并资产负债*    适中   视频解析见微博顶置
+
+                                 视频解析见微博顶置 7.2021年6月第2题                  合并利润表*     较难
+
+ 8.2019年12月第2题        合并资产负债     简单   视频解析见微博顶置
+
+ 9.2017年6月第32题        合并资产负债*    较难   视频解析见微博顶置
+
+                                 视频解析见微博顶置 10.2016年6月第1题        合并资产负债    较难
+
+                 合并资产负债    适中   视频解析见微博顶置 11.2015年12月第3题
+
+                          简单   视频解析见微博顶置 12.2013年6月第1题                合并资产负债
+
+                  合并资产负债*    适中   视频解析见微博顶置 13.2011年12月第1题
+
+
+
+注意：带*年份为涉及联营公司的题目
+
+
+微博视频解析：
+
+
+ 历年真题：
+ 2025年6月○微博正文
+ 2024年6月○微博正文
+ 2022年12月○微博正文
+ 2022年6月模拟卷微博正文
+ 2021年6月○微博正文
+ 2019年12月微博正文
+ 2017年6月微博正文
+ 2016年6月微博正文
+ 2015年12月微博正文
+ 2013年6月○微博正文
+ 2011年12月C微博正文
+ 2010年12月微博正文
+
+
+                                 167
+
+
+========== PDF 第 19 页 / 共 19 页 ==========
+
+                                                              敬丹Jane
+
+最后一段心里话：
+
+
+“累，是因为你在走上坡路”。当年我考FR时，也曾盯着合并报表真题哭到凌晨三点。但今
+
+天，当我面试新人时，看到简历上的“ACCA FR已通过”,立刻会多给10分钟展示时间，因为
+
+我知道、能跨过这道坎的人，都经历过思维和韧性的双重淬炼。
+
+
+你不是在写题，是在给未来的自己写一张头等舱的登机牌。
+
+
+现在，请站起来冲一杯咖啡，打开一套真题，对自己说：我要去的地方很远，现在流的每一
+
+滴泪，都是未来财务报表上的一个零。
+
+
+马斯克考斯坦福博士时也曾崩溃到想放弃，后来他说：“真正重要的不是智商，是咬牙多走
+
+一步的惯性”。你已经走到这里了，惯性会推着你冲过终点!
+
+
+
+
+                                                        敬丹Jane
+
+
+
+
+
+                                    168
